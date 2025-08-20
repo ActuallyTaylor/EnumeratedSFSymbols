@@ -68,4 +68,26 @@ final class SFSymbolsTests: XCTestCase {
         }
     }
 
+    @available(iOS 26, *)
+    @available(macOS 26, *)
+    func testV7Valid() throws {
+        if #unavailable(macOS 26, iOS 26) {
+            print("Not Testing Version 6 Symbols. System does not support them.")
+            return
+        }
+        for symbol in SFSymbol.sfSymbolsV7 {
+            #if canImport(AppKit) && !targetEnvironment(macCatalyst)
+            let image = NSImage(systemSymbolName: symbol.name, accessibilityDescription: nil)
+            #elseif canImport(UIKit)
+            let image = UIImage(systemName: symbol.name)
+            #endif
+
+            if image == nil {
+                print("Invalid \(symbol.name)")
+            }
+            
+            XCTAssertNotNil(image)
+        }
+    }
+
 }

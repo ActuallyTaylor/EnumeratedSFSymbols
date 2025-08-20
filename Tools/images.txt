@@ -1,2030 +1,788 @@
-case .square_and_arrow_up_trianglebadge_exclamationmark_fill:
-  return "􂋑"
-case .square_and_arrow_down_badge_clock:
-  return "􂰵"
-case .square_and_arrow_down_badge_clock_fill:
-  return "􂰶"
-case .heart_text_clipboard:
-  return "􂤇"
-case .heart_text_clipboard_fill:
-  return "􂤈"
-case .chart_line_text_clipboard:
-  return "􂮺"
-case .chart_line_text_clipboard_fill:
-  return "􂮻"
-case .text_page_slash:
-  return "􂱑"
-case .text_page_slash_fill:
-  return "􂱒"
-case .checkmark_seal_text_page:
-  return "􂱅"
-case .checkmark_seal_text_page_fill:
-  return "􂱆"
-case .calendar_and_person:
-  return "􂕝"
-case .widget_small:
-  return "􂘬"
-case .widget_small_badge_plus:
-  return "􂟮"
-case .widget_medium:
-  return "􂘭"
-case .widget_medium_badge_plus:
-  return "􂟰"
-case .widget_large:
-  return "􂘮"
-case .widget_large_badge_plus:
-  return "􂟲"
-case .widget_extralarge:
-  return "􂈒"
-case .widget_extralarge_badge_plus:
-  return "􂟴"
-case .personalhotspot_slash:
-  return "􂮿"
-case .person_badge_shield_exclamationmark:
-  return "􂧻"
-case .person_badge_shield_exclamationmark_fill:
-  return "􂧼"
-case .person_2_badge_plus:
-  return "􂪝"
-case .person_2_badge_plus_fill:
-  return "􂪞"
-case .person_2_badge_minus:
-  return "􂪡"
-case .person_2_badge_minus_fill:
-  return "􂪢"
-case .person_crop_badge_magnifyingglass:
-  return "􁹕"
-case .person_crop_badge_magnifyingglass_fill:
-  return "􁹖"
-case .person_crop_square_on_square_angled:
-  return "􂣄"
-case .person_crop_square_on_square_angled_fill:
-  return "􂣅"
-case .figure_stand_dress:
-  return "􂡩"
-case .figure_2_right_holdinghands:
-  return "􂜺"
-case .figure_2_left_holdinghands:
-  return "􂝗"
-case .figure_walk_triangle:
-  return "􁓚"
-case .figure_walk_triangle_fill:
-  return "􁓛"
-case .figure_run_treadmill:
-  return "􂛅"
-case .figure_run_treadmill_circle:
-  return "􂛵"
-case .figure_run_treadmill_circle_fill:
-  return "􂛶"
-case .figure_walk_treadmill:
-  return "􂛆"
-case .figure_walk_treadmill_circle:
-  return "􂛷"
-case .figure_walk_treadmill_circle_fill:
-  return "􂛸"
-case .figure_roll_circle:
-  return "􂛹"
-case .figure_roll_circle_fill:
-  return "􂛺"
-case .figure_roll_runningpace_circle:
-  return "􂛻"
-case .figure_roll_runningpace_circle_fill:
-  return "􂛼"
-case .figure_american_football_circle:
-  return "􂛽"
-case .figure_american_football_circle_fill:
-  return "􂛾"
-case .figure_archery_circle:
-  return "􂛿"
-case .figure_archery_circle_fill:
-  return "􂜀"
-case .figure_australian_football_circle:
-  return "􂜁"
-case .figure_australian_football_circle_fill:
-  return "􂜂"
-case .figure_badminton_circle:
-  return "􂜃"
-case .figure_badminton_circle_fill:
-  return "􂜄"
-case .figure_barre_circle:
-  return "􂜅"
-case .figure_barre_circle_fill:
-  return "􂜆"
-case .figure_baseball_circle:
-  return "􂜇"
-case .figure_baseball_circle_fill:
-  return "􂜈"
-case .figure_basketball_circle:
-  return "􂜉"
-case .figure_basketball_circle_fill:
-  return "􂜊"
-case .figure_bowling_circle:
-  return "􂜋"
-case .figure_bowling_circle_fill:
-  return "􂜌"
-case .figure_boxing_circle:
-  return "􂜍"
-case .figure_boxing_circle_fill:
-  return "􂜎"
-case .figure_climbing_circle:
-  return "􂚝"
-case .figure_climbing_circle_fill:
-  return "􂚞"
-case .figure_cooldown_circle:
-  return "􂜏"
-case .figure_cooldown_circle_fill:
-  return "􂜐"
-case .figure_core_training_circle:
-  return "􂚃"
-case .figure_core_training_circle_fill:
-  return "􂚄"
-case .figure_cricket_circle:
-  return "􂜑"
-case .figure_cricket_circle_fill:
-  return "􂜒"
-case .figure_skiing_crosscountry_circle:
-  return "􂚁"
-case .figure_skiing_crosscountry_circle_fill:
-  return "􂚂"
-case .figure_cross_training_circle:
-  return "􂜓"
-case .figure_cross_training_circle_fill:
-  return "􂜔"
-case .figure_curling_circle:
-  return "􂜕"
-case .figure_curling_circle_fill:
-  return "􂜖"
-case .figure_dance_circle:
-  return "􂜗"
-case .figure_dance_circle_fill:
-  return "􂜘"
-case .figure_disc_sports_circle:
-  return "􂚅"
-case .figure_disc_sports_circle_fill:
-  return "􂚥"
-case .figure_skiing_downhill_circle:
-  return "􂙿"
-case .figure_skiing_downhill_circle_fill:
-  return "􂚀"
-case .figure_elliptical_circle:
-  return "􂜜"
-case .figure_elliptical_circle_fill:
-  return "􂜝"
-case .figure_equestrian_sports_circle:
-  return "􂜞"
-case .figure_equestrian_sports_circle_fill:
-  return "􂜟"
-case .figure_fencing_circle:
-  return "􂜠"
-case .figure_fencing_circle_fill:
-  return "􂜡"
-case .figure_fishing_circle:
-  return "􂚣"
-case .figure_fishing_circle_fill:
-  return "􂚤"
-case .figure_flexibility_circle:
-  return "􂜚"
-case .figure_flexibility_circle_fill:
-  return "􂜛"
-case .figure_strengthtraining_functional_circle:
-  return "􂜦"
-case .figure_strengthtraining_functional_circle_fill:
-  return "􂜧"
-case .figure_golf_circle:
-  return "􂜨"
-case .figure_golf_circle_fill:
-  return "􂜩"
-case .figure_gymnastics_circle:
-  return "􂜪"
-case .figure_gymnastics_circle_fill:
-  return "􂜫"
-case .figure_hand_cycling_circle:
-  return "􂜬"
-case .figure_hand_cycling_circle_fill:
-  return "􂜭"
-case .figure_handball_circle:
-  return "􂛇"
-case .figure_handball_circle_fill:
-  return "􂛈"
-case .figure_highintensity_intervaltraining_circle:
-  return "􂐿"
-case .figure_highintensity_intervaltraining_circle_fill:
-  return "􂑀"
-case .figure_hiking_circle:
-  return "􂕟"
-case .figure_hiking_circle_fill:
-  return "􂕠"
-case .figure_hockey_circle:
-  return "􂕡"
-case .figure_hockey_circle_fill:
-  return "􂕢"
-case .figure_field_hockey:
-  return "􂞣"
-case .figure_field_hockey_circle:
-  return "􂞤"
-case .figure_field_hockey_circle_fill:
-  return "􂞿"
-case .figure_ice_hockey:
-  return "􂟇"
-case .figure_ice_hockey_circle:
-  return "􂟈"
-case .figure_ice_hockey_circle_fill:
-  return "􂟉"
-case .figure_hunting_circle:
-  return "􂕣"
-case .figure_hunting_circle_fill:
-  return "􂕤"
-case .figure_indoor_cycle_circle:
-  return "􂕥"
-case .figure_indoor_cycle_circle_fill:
-  return "􂕦"
-case .figure_jumprope_circle:
-  return "􂙽"
-case .figure_jumprope_circle_fill:
-  return "􂙾"
-case .figure_kickboxing_circle:
-  return "􂕧"
-case .figure_kickboxing_circle_fill:
-  return "􂕨"
-case .figure_lacrosse_circle:
-  return "􂕩"
-case .figure_lacrosse_circle_fill:
-  return "􂕪"
-case .figure_martial_arts_circle:
-  return "􂕫"
-case .figure_martial_arts_circle_fill:
-  return "􂕬"
-case .figure_mind_and_body_circle:
-  return "􂕭"
-case .figure_mind_and_body_circle_fill:
-  return "􂕮"
-case .figure_mixed_cardio_circle:
-  return "􂕯"
-case .figure_mixed_cardio_circle_fill:
-  return "􂕰"
-case .figure_open_water_swim_circle:
-  return "􂕱"
-case .figure_open_water_swim_circle_fill:
-  return "􂕲"
-case .figure_outdoor_cycle_circle:
-  return "􂛉"
-case .figure_outdoor_cycle_circle_fill:
-  return "􂛊"
-case .oar_2_crossed_circle:
-  return "􂕳"
-case .oar_2_crossed_circle_fill:
-  return "􂕴"
-case .figure_pickleball_circle:
-  return "􂕵"
-case .figure_pickleball_circle_fill:
-  return "􂕶"
-case .figure_pilates_circle:
-  return "􂕷"
-case .figure_pilates_circle_fill:
-  return "􂕸"
-case .figure_play_circle:
-  return "􂕹"
-case .figure_play_circle_fill:
-  return "􂕺"
-case .figure_pool_swim_circle:
-  return "􂕻"
-case .figure_pool_swim_circle_fill:
-  return "􂕼"
-case .figure_racquetball_circle:
-  return "􂕽"
-case .figure_racquetball_circle_fill:
-  return "􂕾"
-case .figure_rolling_circle:
-  return "􂕿"
-case .figure_rolling_circle_fill:
-  return "􂖀"
-case .figure_indoor_rowing_circle:
-  return "􂖁"
-case .figure_indoor_rowing_circle_fill:
-  return "􂖂"
-case .figure_outdoor_rowing:
-  return "􂞼"
-case .figure_outdoor_rowing_circle:
-  return "􂞽"
-case .figure_outdoor_rowing_circle_fill:
-  return "􂞾"
-case .figure_rugby_circle:
-  return "􂖃"
-case .figure_rugby_circle_fill:
-  return "􂖄"
-case .figure_sailing_circle:
-  return "􂙻"
-case .figure_sailing_circle_fill:
-  return "􂙼"
-case .figure_skateboarding_circle:
-  return "􂖅"
-case .figure_skateboarding_circle_fill:
-  return "􂖆"
-case .figure_ice_skating:
-  return "􂟀"
-case .figure_ice_skating_circle:
-  return "􂟁"
-case .figure_ice_skating_circle_fill:
-  return "􂟂"
-case .figure_snowboarding_circle:
-  return "􂖇"
-case .figure_snowboarding_circle_fill:
-  return "􂖈"
-case .figure_indoor_soccer_circle:
-  return "􂖉"
-case .figure_indoor_soccer_circle_fill:
-  return "􂖊"
-case .figure_outdoor_soccer:
-  return "􂟄"
-case .figure_outdoor_soccer_circle:
-  return "􂟅"
-case .figure_outdoor_soccer_circle_fill:
-  return "􂟆"
-case .figure_socialdance_circle:
-  return "􂙹"
-case .figure_socialdance_circle_fill:
-  return "􂙺"
-case .figure_softball_circle:
-  return "􂖋"
-case .figure_softball_circle_fill:
-  return "􂖌"
-case .figure_squash_circle:
-  return "􂖍"
-case .figure_squash_circle_fill:
-  return "􂖎"
-case .figure_stair_stepper_circle:
-  return "􂖏"
-case .figure_stair_stepper_circle_fill:
-  return "􂖐"
-case .figure_stairs_circle:
-  return "􂖑"
-case .figure_stairs_circle_fill:
-  return "􂖒"
-case .figure_step_training_circle:
-  return "􂖓"
-case .figure_step_training_circle_fill:
-  return "􂖔"
-case .figure_surfing_circle:
-  return "􂖕"
-case .figure_surfing_circle_fill:
-  return "􂖖"
-case .figure_table_tennis_circle:
-  return "􂖗"
-case .figure_table_tennis_circle_fill:
-  return "􂖘"
-case .figure_taichi_circle:
-  return "􂚉"
-case .figure_taichi_circle_fill:
-  return "􂚊"
-case .figure_tennis_circle:
-  return "􂜼"
-case .figure_tennis_circle_fill:
-  return "􂜽"
-case .figure_track_and_field_circle:
-  return "􂙷"
-case .figure_track_and_field_circle_fill:
-  return "􂙸"
-case .figure_strengthtraining_traditional_circle:
-  return "􂜾"
-case .figure_strengthtraining_traditional_circle_fill:
-  return "􂜿"
-case .figure_volleyball_circle:
-  return "􂝀"
-case .figure_volleyball_circle_fill:
-  return "􂝁"
-case .figure_water_fitness_circle:
-  return "􂙵"
-case .figure_water_fitness_circle_fill:
-  return "􂙶"
-case .figure_waterpolo_circle:
-  return "􂝂"
-case .figure_waterpolo_circle_fill:
-  return "􂝃"
-case .figure_wrestling_circle:
-  return "􂝄"
-case .figure_wrestling_circle_fill:
-  return "􂝅"
-case .figure_yoga_circle:
-  return "􂝆"
-case .figure_yoga_circle_fill:
-  return "􂝇"
-case .baseball_diamond_bases_outs_indicator:
-  return "􂜥"
-case .american_football_professional:
-  return "􂎵"
-case .american_football_professional_fill:
-  return "􂎶"
-case .american_football_professional_circle:
-  return "􂎷"
-case .american_football_professional_circle_fill:
-  return "􂎸"
-case .australian_football:
-  return "􂒲"
-case .australian_football_fill:
-  return "􂒳"
-case .australian_football_circle:
-  return "􂒴"
-case .australian_football_circle_fill:
-  return "􂒵"
-case .rugbyball:
-  return "􂎹"
-case .rugbyball_fill:
-  return "􂎺"
-case .rugbyball_circle:
-  return "􂎻"
-case .rugbyball_circle_fill:
-  return "􂎼"
-case .progress_indicator:
-  return "􀴽"
-case .beziercurve:
-  return "􀜢"
-case .sun_lefthalf_filled:
-  return "􂱢"
-case .sun_righthalf_filled:
-  return "􂱣"
-case .thermometer_variable:
-  return "􂬮"
-case .degreesign_fahrenheit:
-  return "􂧣"
-case .degreesign_celsius:
-  return "􂧤"
-case .fire_extinguisher:
-  return "􂦈"
-case .fire_extinguisher_fill:
-  return "􂦉"
-case .speaker_wave_1_arrowtriangles_up_right_down_left:
-  return "􂠻"
-case .arrow_trianglehead_2_clockwise:
-  return "􂣼"
-case .arrow_trianglehead_2_counterclockwise:
-  return "􂣽"
-case .arrow_trianglehead_clockwise_rotate_90:
-  return "􂝔"
-case .malaysianringgitsign_arrow_trianglehead_counterclockwise_rotate_90:
-  return "􂣱"
-case .peruviansolessign_arrow_trianglehead_counterclockwise_rotate_90:
-  return "􂥯"
-case .singaporedollarsign_arrow_trianglehead_counterclockwise_rotate_90:
-  return "􂨱"
-case .arrow_trianglehead_2_counterclockwise_rotate_90:
-  return "􂣾"
-case .arrow_trianglehead_bottomleft_capsulepath_clockwise:
-  return "􀤗"
-case .microphone_badge_ellipsis:
-  return "􂙍"
-case .microphone_badge_ellipsis_fill:
-  return "􂙎"
-case .questionmark_circle_dashed:
-  return "􂞷"
-case .app_badge_clock:
-  return "􂡆"
-case .app_badge_clock_fill:
-  return "􂡇"
-case .inset_filled_righthalf_lefthalf_rectangle:
-  return "􂬑"
-case .inset_filled_lefthalf_righthalf_rectangle:
-  return "􂧬"
-case .inset_filled_trailinghalf_leadinghalf_rectangle:
-  return "􂬒"
-case .inset_filled_leadinghalf_trailinghalf_rectangle:
-  return "􂬓"
-case .inset_filled_topleft_bottomleft_righthalf_rectangle:
-  return "􂬏"
-case .inset_filled_lefthalf_topright_bottomright_rectangle:
-  return "􂧮"
-case .inset_filled_topleading_bottomleading_trailinghalf_rectangle:
-  return "􂬐"
-case .inset_filled_leadinghalf_toptrailing_bottomtrailing_rectangle:
-  return "􂨜"
-case .inset_filled_tophalf_bottomhalf_rectangle:
-  return "􂧭"
-case .inset_filled_bottomhalf_tophalf_rectangle:
-  return "􂮡"
-case .inset_filled_tophalf_bottomleft_bottomright_rectangle:
-  return "􂧯"
-case .inset_filled_topleft_topright_bottomhalf_rectangle:
-  return "􂬗"
-case .inset_filled_topleft_topright_bottomleft_bottomright_rectangle:
-  return "􂧰"
-case .arrow_up_left_and_arrow_down_right_rectangle:
-  return "􂂟"
-case .arrow_up_left_and_arrow_down_right_rectangle_fill:
-  return "􂂠"
-case .arrow_up_backward_and_arrow_down_forward_rectangle:
-  return "􂂡"
-case .arrow_up_backward_and_arrow_down_forward_rectangle_fill:
-  return "􂂢"
-case .arrow_down_left_and_arrow_up_right_rectangle:
-  return "􂂣"
-case .arrow_down_left_and_arrow_up_right_rectangle_fill:
-  return "􂂤"
-case .arrow_down_backward_and_arrow_up_forward_rectangle:
-  return "􂂥"
-case .arrow_down_backward_and_arrow_up_forward_rectangle_fill:
-  return "􂂦"
-case .arrow_down_right_and_arrow_up_left_rectangle:
-  return "􂬜"
-case .arrow_down_right_and_arrow_up_left_rectangle_fill:
-  return "􂬝"
-case .arrow_down_forward_and_arrow_up_backward_rectangle:
-  return "􂬞"
-case .arrow_down_forward_and_arrow_up_backward_rectangle_fill:
-  return "􂬟"
-case .arrow_up_forward_and_arrow_down_backward_rectangle:
-  return "􂬢"
-case .arrow_up_forward_and_arrow_down_backward_rectangle_fill:
-  return "􂬣"
-case .rectangle_on_rectangle_dashed:
-  return "􂠗"
-case .lock_rectangle_on_rectangle_dashed:
-  return "􂠘"
-case .rectangle_grid_3x3:
-  return "􂫑"
-case .rectangle_grid_3x3_fill:
-  return "􂫒"
-case .capsule_on_capsule:
-  return "􂘯"
-case .capsule_on_capsule_fill:
-  return "􂘰"
-case .capsule_on_rectangle:
-  return "􂘱"
-case .capsule_on_rectangle_fill:
-  return "􂘲"
-case .location_app:
-  return "􂜰"
-case .location_app_fill:
-  return "􂜱"
-case .squareroot:
-  return "􂲯"
-case .text_bubble_badge_clock:
-  return "􂱤"
-case .text_bubble_badge_clock_fill:
-  return "􂱥"
-case .bubble_and_pencil:
-  return "􂛥"
-case .phone_badge_clock:
-  return "􂞲"
-case .phone_badge_clock_fill:
-  return "􂞳"
-case .envelope_front:
-  return "􂙡"
-case .envelope_front_fill:
-  return "􂙢"
-case .apple_intelligence:
-  return "􂮢"
-case .apple_image_playground:
-  return "􂮕"
-case .apple_image_playground_fill:
-  return "􂮖"
-case .apple_haptics_and_music_note:
-  return "􂝾"
-case .apple_haptics_and_music_note_slash:
-  return "􂞀"
-case .apple_haptics_and_exclamationmark_triangle:
-  return "􂫥"
-case .cart_badge_clock:
-  return "􂱰"
-case .cart_badge_clock_fill:
-  return "􂱲"
-case .wallet_bifold:
-  return "􂏰"
-case .wallet_bifold_fill:
-  return "􂏱"
-case .square_grid_3x3_square_badge_ellipsis:
-  return "􂠄"
-case .inhaler:
-  return "􂞜"
-case .inhaler_fill:
-  return "􂞝"
-case .printer_inverse:
-  return "􂨖"
-case .printer_filled_and_paper_inverse:
-  return "􁑱"
-case .printer_dotmatrix_inverse:
-  return "􂨣"
-case .printer_dotmatrix_filled_and_paper_inverse:
-  return "􁑲"
-case .matter_logo:
-  return "􀴗"
-case .house_slash:
-  return "􂣊"
-case .house_slash_fill:
-  return "􂣋"
-case .house_badge_exclamationmark:
-  return "􂧄"
-case .house_badge_exclamationmark_fill:
-  return "􂧅"
-case .house_badge_wifi:
-  return "􂘞"
-case .house_badge_wifi_fill:
-  return "􂘟"
-case .australsign_gauge_chart_lefthalf_righthalf:
-  return "􂨻"
-case .australiandollarsign_gauge_chart_lefthalf_righthalf:
-  return "􂨼"
-case .bahtsign_gauge_chart_lefthalf_righthalf:
-  return "􂨽"
-case .bitcoinsign_gauge_chart_lefthalf_righthalf:
-  return "􂨾"
-case .brazilianrealsign_gauge_chart_lefthalf_righthalf:
-  return "􂨿"
-case .cedisign_gauge_chart_lefthalf_righthalf:
-  return "􂩀"
-case .centsign_gauge_chart_lefthalf_righthalf:
-  return "􂩁"
-case .chineseyuanrenminbisign_gauge_chart_lefthalf_righthalf:
-  return "􂩂"
-case .coloncurrencysign_gauge_chart_lefthalf_righthalf:
-  return "􂩃"
-case .cruzeirosign_gauge_chart_lefthalf_righthalf:
-  return "􂩄"
-case .danishkronesign_gauge_chart_lefthalf_righthalf:
-  return "􂩅"
-case .dongsign_gauge_chart_lefthalf_righthalf:
-  return "􂩆"
-case .dollarsign_gauge_chart_lefthalf_righthalf:
-  return "􂧈"
-case .eurosign_gauge_chart_lefthalf_righthalf:
-  return "􂩇"
-case .eurozonesign_gauge_chart_lefthalf_righthalf:
-  return "􂩈"
-case .florinsign_gauge_chart_lefthalf_righthalf:
-  return "􂩉"
-case .francsign_gauge_chart_lefthalf_righthalf:
-  return "􂩊"
-case .guaranisign_gauge_chart_lefthalf_righthalf:
-  return "􂩋"
-case .hryvniasign_gauge_chart_lefthalf_righthalf:
-  return "􂩌"
-case .indianrupeesign_gauge_chart_lefthalf_righthalf:
-  return "􂩍"
-case .kipsign_gauge_chart_lefthalf_righthalf:
-  return "􂩎"
-case .larisign_gauge_chart_lefthalf_righthalf:
-  return "􂩏"
-case .lirasign_gauge_chart_lefthalf_righthalf:
-  return "􂩐"
-case .manatsign_gauge_chart_lefthalf_righthalf:
-  return "􂩑"
-case .malaysianringgitsign_gauge_chart_lefthalf_righthalf:
-  return "􂩒"
-case .millsign_gauge_chart_lefthalf_righthalf:
-  return "􂩓"
-case .nairasign_gauge_chart_lefthalf_righthalf:
-  return "􂩔"
-case .norwegiankronesign_gauge_chart_lefthalf_righthalf:
-  return "􂩕"
-case .peruviansolessign_gauge_chart_lefthalf_righthalf:
-  return "􂩖"
-case .pesetasign_gauge_chart_lefthalf_righthalf:
-  return "􂩗"
-case .pesosign_gauge_chart_lefthalf_righthalf:
-  return "􂩘"
-case .polishzlotysign_gauge_chart_lefthalf_righthalf:
-  return "􂩙"
-case .rublesign_gauge_chart_lefthalf_righthalf:
-  return "􂩚"
-case .rupeesign_gauge_chart_lefthalf_righthalf:
-  return "􂩛"
-case .shekelsign_gauge_chart_lefthalf_righthalf:
-  return "􂩜"
-case .singaporedollarsign_gauge_chart_lefthalf_righthalf:
-  return "􂩝"
-case .sterlingsign_gauge_chart_lefthalf_righthalf:
-  return "􂩞"
-case .swedishkronasign_gauge_chart_lefthalf_righthalf:
-  return "􂩟"
-case .tengesign_gauge_chart_lefthalf_righthalf:
-  return "􂩠"
-case .tugriksign_gauge_chart_lefthalf_righthalf:
-  return "􂩡"
-case .turkishlirasign_gauge_chart_lefthalf_righthalf:
-  return "􂩢"
-case .yensign_gauge_chart_lefthalf_righthalf:
-  return "􂩣"
-case .wonsign_gauge_chart_lefthalf_righthalf:
-  return "􂩤"
-case .australsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩥"
-case .australiandollarsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩦"
-case .bahtsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩧"
-case .bitcoinsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩨"
-case .brazilianrealsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩩"
-case .cedisign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩪"
-case .centsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩫"
-case .chineseyuanrenminbisign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩬"
-case .coloncurrencysign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩭"
-case .cruzeirosign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩮"
-case .danishkronesign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩯"
-case .dongsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩰"
-case .dollarsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂧉"
-case .eurosign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩱"
-case .eurozonesign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩲"
-case .florinsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩳"
-case .francsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩴"
-case .guaranisign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩵"
-case .hryvniasign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩶"
-case .indianrupeesign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩷"
-case .kipsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩸"
-case .larisign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩹"
-case .lirasign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩺"
-case .manatsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩻"
-case .malaysianringgitsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩼"
-case .millsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩽"
-case .nairasign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩾"
-case .norwegiankronesign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂩿"
-case .peruviansolessign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪀"
-case .pesetasign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪁"
-case .pesosign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪂"
-case .polishzlotysign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪃"
-case .rublesign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪄"
-case .rupeesign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪅"
-case .shekelsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪆"
-case .singaporedollarsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪇"
-case .sterlingsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪈"
-case .swedishkronasign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪉"
-case .tengesign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪊"
-case .tugriksign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪋"
-case .turkishlirasign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪌"
-case .yensign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪍"
-case .wonsign_gauge_chart_leftthird_topthird_rightthird:
-  return "􂪎"
-case .australsign_ring_dashed:
-  return "􂯡"
-case .australiandollarsign_ring_dashed:
-  return "􂯢"
-case .bahtsign_ring_dashed:
-  return "􂯣"
-case .bitcoinsign_ring_dashed:
-  return "􂯤"
-case .brazilianrealsign_ring_dashed:
-  return "􂯥"
-case .cedisign_ring_dashed:
-  return "􂯦"
-case .centsign_ring_dashed:
-  return "􂯧"
-case .chineseyuanrenminbisign_ring_dashed:
-  return "􂯨"
-case .coloncurrencysign_ring_dashed:
-  return "􂯩"
-case .cruzeirosign_ring_dashed:
-  return "􂯪"
-case .danishkronesign_ring_dashed:
-  return "􂯫"
-case .dongsign_ring_dashed:
-  return "􂯬"
-case .dollarsign_ring_dashed:
-  return "􂮇"
-case .eurosign_ring_dashed:
-  return "􂯭"
-case .eurozonesign_ring_dashed:
-  return "􂯮"
-case .florinsign_ring_dashed:
-  return "􂯯"
-case .francsign_ring_dashed:
-  return "􂯰"
-case .guaranisign_ring_dashed:
-  return "􂯱"
-case .hryvniasign_ring_dashed:
-  return "􂯲"
-case .indianrupeesign_ring_dashed:
-  return "􂯳"
-case .kipsign_ring_dashed:
-  return "􂯴"
-case .larisign_ring_dashed:
-  return "􂯵"
-case .lirasign_ring_dashed:
-  return "􂯶"
-case .manatsign_ring_dashed:
-  return "􂯷"
-case .malaysianringgitsign_ring_dashed:
-  return "􂯸"
-case .millsign_ring_dashed:
-  return "􂯹"
-case .nairasign_ring_dashed:
-  return "􂯺"
-case .norwegiankronesign_ring_dashed:
-  return "􂯻"
-case .peruviansolessign_ring_dashed:
-  return "􂯼"
-case .pesetasign_ring_dashed:
-  return "􂯽"
-case .pesosign_ring_dashed:
-  return "􂯾"
-case .polishzlotysign_ring_dashed:
-  return "􂯿"
-case .rublesign_ring_dashed:
-  return "􂰀"
-case .rupeesign_ring_dashed:
-  return "􂰁"
-case .shekelsign_ring_dashed:
-  return "􂰂"
-case .singaporedollarsign_ring_dashed:
-  return "􂰃"
-case .sterlingsign_ring_dashed:
-  return "􂰄"
-case .swedishkronasign_ring_dashed:
-  return "􂰅"
-case .tengesign_ring_dashed:
-  return "􂰆"
-case .tugriksign_ring_dashed:
-  return "􂰇"
-case .turkishlirasign_ring_dashed:
-  return "􂰈"
-case .yensign_ring_dashed:
-  return "􂰉"
-case .wonsign_ring_dashed:
-  return "􂰊"
-case .australsign_ring:
-  return "􂰋"
-case .australiandollarsign_ring:
-  return "􂰌"
-case .bahtsign_ring:
-  return "􂰍"
-case .bitcoinsign_ring:
-  return "􂰎"
-case .brazilianrealsign_ring:
-  return "􂰏"
-case .cedisign_ring:
-  return "􂰐"
-case .centsign_ring:
-  return "􂰑"
-case .chineseyuanrenminbisign_ring:
-  return "􂰒"
-case .coloncurrencysign_ring:
-  return "􂰓"
-case .cruzeirosign_ring:
-  return "􂰔"
-case .danishkronesign_ring:
-  return "􂰕"
-case .dongsign_ring:
-  return "􂰖"
-case .dollarsign_ring:
-  return "􂮈"
-case .eurosign_ring:
-  return "􂰗"
-case .eurozonesign_ring:
-  return "􂰘"
-case .florinsign_ring:
-  return "􂰙"
-case .francsign_ring:
-  return "􂰚"
-case .guaranisign_ring:
-  return "􂰛"
-case .hryvniasign_ring:
-  return "􂰜"
-case .indianrupeesign_ring:
-  return "􂰝"
-case .kipsign_ring:
-  return "􂰞"
-case .larisign_ring:
-  return "􂰟"
-case .lirasign_ring:
-  return "􂰠"
-case .manatsign_ring:
-  return "􂰡"
-case .malaysianringgitsign_ring:
-  return "􂰢"
-case .millsign_ring:
-  return "􂰣"
-case .nairasign_ring:
-  return "􂰤"
-case .norwegiankronesign_ring:
-  return "􂰥"
-case .peruviansolessign_ring:
-  return "􂰦"
-case .pesetasign_ring:
-  return "􂰧"
-case .pesosign_ring:
-  return "􂰨"
-case .polishzlotysign_ring:
-  return "􂰩"
-case .rublesign_ring:
-  return "􂰪"
-case .rupeesign_ring:
-  return "􂰫"
-case .shekelsign_ring:
-  return "􂰬"
-case .singaporedollarsign_ring:
-  return "􂰭"
-case .sterlingsign_ring:
-  return "􂰮"
-case .swedishkronasign_ring:
-  return "􂰯"
-case .tengesign_ring:
-  return "􂰰"
-case .tugriksign_ring:
-  return "􂰱"
-case .turkishlirasign_ring:
-  return "􂰲"
-case .yensign_ring:
-  return "􂰳"
-case .wonsign_ring:
-  return "􂰴"
-case .powerplug_portrait:
-  return "􂬹"
-case .powerplug_portrait_fill:
-  return "􂬺"
-case .robotic_vacuum:
-  return "􂨭"
-case .robotic_vacuum_fill:
-  return "􂨮"
-case .key_2_on_ring:
-  return "􂏪"
-case .key_2_on_ring_fill:
-  return "􂏫"
-case .desktopcomputer_and_macbook:
-  return "􂤓"
-case .macbook_slash:
-  return "􂲌"
-case .macbook_and_applewatch:
-  return "􂭶"
-case .iphone_gen1_crop_circle:
-  return "􂙑"
-case .iphone_gen1_landscape_slash:
-  return "􂲒"
-case .iphone_gen1_badge_location:
-  return "􂝰"
-case .iphone_gen1_motion:
-  return "􂘢"
-case .iphone_gen1_and_arrow_left:
-  return "􂘨"
-case .iphone_gen2_crop_circle:
-  return "􂙒"
-case .iphone_gen2_landscape_slash:
-  return "􂲎"
-case .iphone_gen2_badge_location:
-  return "􂝮"
-case .iphone_gen2_motion:
-  return "􂘤"
-case .iphone_gen2_and_arrow_left_and_arrow_right_inward:
-  return "􂘩"
-case .iphone_gen3_crop_circle:
-  return "􂙓"
-case .iphone_gen3_landscape_slash:
-  return "􂲐"
-case .iphone_gen3_badge_location:
-  return "􂝬"
-case .iphone_gen3_motion:
-  return "􂘦"
-case .iphone_gen3_and_arrow_left_and_arrow_right_inward:
-  return "􂘪"
-case .iphone_crop_circle:
-  return "􂙔"
-case .iphone_badge_location:
-  return "􂜸"
-case .iphone_motion:
-  return "􂘒"
-case .iphone_and_arrow_right_inward:
-  return "􂏹"
-case .iphone_and_arrow_right_outward:
-  return "􂏻"
-case .iphone_and_arrow_forward_outward:
-  return "􂎽"
-case .iphone_app_switcher:
-  return "􂤹"
-case .ipad_gen1_slash:
-  return "􂲔"
-case .ipad_gen1_badge_location:
-  return "􂝲"
-case .ipad_gen1_landscape_slash:
-  return "􂲖"
-case .ipad_gen1_landscape_badge_location:
-  return "􂝴"
-case .ipad_gen2_slash:
-  return "􂲘"
-case .ipad_gen2_badge_location:
-  return "􂝶"
-case .ipad_gen2_landscape_slash:
-  return "􂲚"
-case .ipad_gen2_landscape_badge_location:
-  return "􂝸"
-case .ipad_badge_location:
-  return "􂝺"
-case .ipad_landscape_badge_location:
-  return "􂝼"
-case .applewatch_case_sizes:
-  return "􂠼"
-case .vision_pro_trianglebadge_exclamationmark:
-  return "􂓮"
-case .vision_pro_trianglebadge_exclamationmark_fill:
-  return "􂓯"
-case .applepencil_hover:
-  return "􁤒"
-case .applepencil_squeeze:
-  return "􂣿"
-case .applepencil_doubletap:
-  return "􂤀"
-case .headphones_slash:
-  return "􂬂"
-case .headset:
-  return "􂣵"
-case .headset_circle:
-  return "􂣶"
-case .headset_circle_fill:
-  return "􂣷"
-case .homepod_mini_arrow_forward:
-  return "􂋛"
-case .homepod_mini_arrow_forward_fill:
-  return "􂋜"
-case .homepod_mini_badge_plus:
-  return "􂋓"
-case .homepod_mini_badge_plus_fill:
-  return "􂋔"
-case .homepod_mini_badge_minus:
-  return "􂋗"
-case .homepod_mini_badge_minus_fill:
-  return "􂋘"
-case .homepod_mini_2_badge_plus:
-  return "􂠝"
-case .homepod_mini_2_badge_plus_fill:
-  return "􂠞"
-case .homepod_mini_2_badge_minus:
-  return "􂠟"
-case .homepod_mini_2_badge_minus_fill:
-  return "􂠠"
-case .homepod_and_homepod_mini_badge_plus:
-  return "􂠥"
-case .homepod_and_homepod_mini_badge_plus_fill:
-  return "􂠦"
-case .homepod_and_homepod_mini_badge_minus:
-  return "􂠧"
-case .homepod_and_homepod_mini_badge_minus_fill:
-  return "􂠨"
-case .hifispeaker_and_homepod_mini_badge_plus:
-  return "􂠭"
-case .hifispeaker_and_homepod_mini_badge_plus_fill:
-  return "􂠮"
-case .hifispeaker_and_homepod_mini_badge_minus:
-  return "􂠯"
-case .hifispeaker_and_homepod_mini_badge_minus_fill:
-  return "􂠰"
-case .homepod_arrow_forward:
-  return "􂋞"
-case .homepod_arrow_forward_fill:
-  return "􂋟"
-case .homepod_badge_plus:
-  return "􂋡"
-case .homepod_badge_plus_fill:
-  return "􂋢"
-case .homepod_badge_minus:
-  return "􂋥"
-case .homepod_badge_minus_fill:
-  return "􂋦"
-case .homepod_2_badge_plus:
-  return "􂠾"
-case .homepod_2_badge_plus_fill:
-  return "􂠿"
-case .homepod_2_badge_minus:
-  return "􂡀"
-case .homepod_2_badge_minus_fill:
-  return "􂡁"
-case .hifispeaker_and_homepod_badge_plus:
-  return "􂡊"
-case .hifispeaker_and_homepod_badge_plus_fill:
-  return "􂡋"
-case .hifispeaker_and_homepod_badge_minus:
-  return "􂡌"
-case .hifispeaker_and_homepod_badge_minus_fill:
-  return "􂡍"
-case .hifispeaker_arrow_forward:
-  return "􂡸"
-case .hifispeaker_arrow_forward_fill:
-  return "􂡹"
-case .hifispeaker_badge_plus:
-  return "􂡚"
-case .hifispeaker_badge_plus_fill:
-  return "􂡛"
-case .hifispeaker_badge_minus:
-  return "􂡜"
-case .hifispeaker_badge_minus_fill:
-  return "􂡝"
-case .hifispeaker_2_badge_plus:
-  return "􂡒"
-case .hifispeaker_2_badge_plus_fill:
-  return "􂡓"
-case .hifispeaker_2_badge_minus:
-  return "􂡔"
-case .hifispeaker_2_badge_minus_fill:
-  return "􂡕"
-case .wave_3_up:
-  return "􂙧"
-case .wave_3_up_circle:
-  return "􂙨"
-case .wave_3_up_circle_fill:
-  return "􂙩"
-case .wave_3_down:
-  return "􂙪"
-case .wave_3_down_circle:
-  return "􂙫"
-case .wave_3_down_circle_fill:
-  return "􂙬"
-case .antenna_radiowaves_left_and_right_slash_circle:
-  return "􂪻"
-case .antenna_radiowaves_left_and_right_slash_circle_fill:
-  return "􂪽"
-case .car_front_waves_left_and_right_and_up:
-  return "􂤻"
-case .car_front_waves_left_and_right_and_up_fill:
-  return "􂤼"
-case .car_badge_gearshape:
-  return "􂤭"
-case .car_badge_gearshape_fill:
-  return "􂤮"
-case .car_rear_and_tire_marks_off:
-  return "􂊹"
-case .drone:
-  return "􂖛"
-case .drone_fill:
-  return "􂖜"
-case .wheelchair:
-  return "􂏥"
-case .helmet:
-  return "􂞌"
-case .helmet_fill:
-  return "􂞍"
-case .moped:
-  return "􂏮"
-case .moped_fill:
-  return "􂏯"
-case .motorcycle:
-  return "􂓴"
-case .motorcycle_fill:
-  return "􂓵"
-case .parkingsign_square:
-  return "􂨈"
-case .parkingsign_square_fill:
-  return "􂨉"
-case .parkingsign_radiowaves_left_and_right_slash:
-  return "􂊳"
-case .parkingsign_radiowaves_down_right_off:
-  return "􂊸"
-case .fuelpump_and_filter:
-  return "􂥫"
-case .oilcan_and_thermometer:
-  return "􂞎"
-case .oilcan_and_thermometer_fill:
-  return "􂞐"
-case .figure_seated_seatbelt_left_drive_seats_3_3_3:
-  return "􂒡"
-case .figure_seated_seatbelt_left_drive_seats_3_3_3_fill:
-  return "􂑻"
-case .figure_seated_seatbelt_left_drive_seats_2_3_3:
-  return "􂒢"
-case .figure_seated_seatbelt_left_drive_seats_2_3_3_fill:
-  return "􂑼"
-case .figure_seated_seatbelt_left_drive_seats_2_3_2:
-  return "􂒣"
-case .figure_seated_seatbelt_left_drive_seats_2_3_2_fill:
-  return "􂑽"
-case .figure_seated_seatbelt_left_drive_seats_2_2_2:
-  return "􂒤"
-case .figure_seated_seatbelt_left_drive_seats_2_2_2_fill:
-  return "􂑾"
-case .figure_seated_seatbelt_left_drive_seats_2_2_3:
-  return "􂒥"
-case .figure_seated_seatbelt_left_drive_seats_2_2_3_fill:
-  return "􂒠"
-case .figure_seated_seatbelt_left_drive_seats_3_3:
-  return "􂒦"
-case .figure_seated_seatbelt_left_drive_seats_3_3_fill:
-  return "􂑿"
-case .figure_seated_seatbelt_left_drive_seats_2_3:
-  return "􂒧"
-case .figure_seated_seatbelt_left_drive_seats_2_3_fill:
-  return "􂒀"
-case .figure_seated_seatbelt_left_drive_seats_2_2:
-  return "􂒨"
-case .figure_seated_seatbelt_left_drive_seats_2_2_fill:
-  return "􂒁"
-case .figure_seated_seatbelt_left_drive_seats_1_2:
-  return "􂒩"
-case .figure_seated_seatbelt_left_drive_seats_1_2_fill:
-  return "􂒂"
-case .figure_seated_seatbelt_left_drive_seats_1_1:
-  return "􂒪"
-case .figure_seated_seatbelt_left_drive_seats_1_1_fill:
-  return "􂒃"
-case .figure_seated_seatbelt_left_drive_seats_3:
-  return "􂒫"
-case .figure_seated_seatbelt_left_drive_seats_3_fill:
-  return "􂒄"
-case .figure_seated_seatbelt_left_drive_seats_2:
-  return "􂒬"
-case .figure_seated_seatbelt_left_drive_seats_2_fill:
-  return "􂒅"
-case .figure_seated_seatbelt_left_drive_seats_1:
-  return "􂒭"
-case .figure_seated_seatbelt_left_drive_seats_1_fill:
-  return "􂒆"
-case .figure_seated_side_right_airbag_on:
-  return "􂧋"
-case .figure_seated_side_right_airbag_off:
-  return "􂧌"
-case .figure_seated_side_right_airbag_on_2:
-  return "􂧍"
-case .figure_seated_side_right_airbag_off_2:
-  return "􂧎"
-case .figure_seated_side_right:
-  return "􂧏"
-case .figure_seated_side_right_air_distribution_upper:
-  return "􂧐"
-case .figure_seated_side_right_air_distribution_lower:
-  return "􂧑"
-case .figure_seated_side_right_air_distribution_middle:
-  return "􂧒"
-case .figure_seated_side_right_air_distribution_middle_and_lower:
-  return "􂧓"
-case .figure_seated_side_right_air_distribution_upper_angled_and_middle:
-  return "􂧕"
-case .figure_seated_side_right_air_distribution_upper_angled_and_lower_angled:
-  return "􂧖"
-case .figure_seated_side_right_air_distribution_middle_and_lower_angled:
-  return "􂧗"
-case .figure_seated_side_right_air_distribution_upper_angled_and_middle_and_lower_angled:
-  return "􂧔"
-case .figure_seated_side_right_windshield_front_and_heat_waves:
-  return "􂧘"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_upper_and_middle_and_lower:
-  return "􂧙"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_middle_and_lower:
-  return "􂧚"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_upper_and_middle:
-  return "􂧛"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_upper_and_lower:
-  return "􂧜"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_upper:
-  return "􂧝"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_lower:
-  return "􂧞"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_middle:
-  return "􂧟"
-case .figure_seated_side_left_steeringwheel:
-  return "􁦂"
-case .figure_seated_side_right_steeringwheel:
-  return "􂧠"
-case .figure_seated_side_right_automatic:
-  return "􂧡"
-case .figure_seated_side_left_fan:
-  return "􂟃"
-case .figure_seated_side_right_fan:
-  return "􂧢"
-case .heat_waves_and_fan:
-  return "􂬤"
-case .car_rear_hazardsign:
-  return "􂉓"
-case .car_rear_hazardsign_fill:
-  return "􂉔"
-case .thermometer_and_liquid_waves_snowflake:
-  return "􂘔"
-case .thermometer_and_liquid_waves_trianglebadge_exclamationmark:
-  return "􂘖"
-case .steeringwheel_and_hands:
-  return "􂏐"
-case .steeringwheel_arrow_trianglehead_counterclockwise_and_clockwise:
-  return "􂥡"
-case .tire:
-  return "􂥰"
-case .tire_badge_snowflake:
-  return "􂥱"
-case .tow_hitch:
-  return "􂊛"
-case .tow_hitch_fill:
-  return "􂊜"
-case .tow_hitch_exclamationmark:
-  return "􂊝"
-case .tow_hitch_exclamationmark_fill:
-  return "􂊞"
-case .car_side_front_open_crop:
-  return "􂞒"
-case .car_side_front_open_crop_fill:
-  return "􂞓"
-case .car_side_rear_open_crop:
-  return "􂞔"
-case .car_side_rear_open_crop_fill:
-  return "􂞕"
-case .car_side_rear_tow_hitch:
-  return "􂤗"
-case .car_side_rear_tow_hitch_fill:
-  return "􂤘"
-case .car_side_rear_crop_trunk_partition:
-  return "􂬬"
-case .car_side_rear_crop_trunk_partition_fill:
-  return "􂬭"
-case .car_side_roof_cargo_carrier:
-  return "􂊟"
-case .car_side_roof_cargo_carrier_fill:
-  return "􂊠"
-case .car_side_roof_cargo_carrier_slash:
-  return "􂙁"
-case .car_side_roof_cargo_carrier_slash_fill:
-  return "􂙃"
-case .air_car_side:
-  return "􂥣"
-case .air_car_side_fill:
-  return "􂥤"
-case .wave_3_down_car_side:
-  return "􂨀"
-case .wave_3_down_car_side_fill:
-  return "􂨁"
-case .suv_side_front_open_crop:
-  return "􂞖"
-case .suv_side_front_open_crop_fill:
-  return "􂞗"
-case .suv_side_rear_open_crop:
-  return "􂞘"
-case .suv_side_rear_open_crop_fill:
-  return "􂞙"
-case .suv_side_roof_cargo_carrier:
-  return "􂊢"
-case .suv_side_roof_cargo_carrier_fill:
-  return "􂊣"
-case .suv_side_roof_cargo_carrier_slash:
-  return "􂙅"
-case .suv_side_roof_cargo_carrier_slash_fill:
-  return "􂙇"
-case .air_suv_side:
-  return "􂥥"
-case .air_suv_side_fill:
-  return "􂥦"
-case .wave_3_down_suv_side:
-  return "􂨂"
-case .wave_3_down_suv_side_fill:
-  return "􂨃"
-case .truck_pickup_side_front_open_crop:
-  return "􂞚"
-case .truck_pickup_side_front_open_crop_fill:
-  return "􂞛"
-case .truck_side_roof_cargo_carrier:
-  return "􂊤"
-case .truck_side_roof_cargo_carrier_fill:
-  return "􂊥"
-case .truck_side_roof_cargo_carrier_slash:
-  return "􂙉"
-case .truck_side_roof_cargo_carrier_slash_fill:
-  return "􂙊"
-case .air_pickup_side:
-  return "􂥧"
-case .air_pickup_side_fill:
-  return "􂥨"
-case .wave_3_down_pickup_side:
-  return "􂨄"
-case .wave_3_down_pickup_side_fill:
-  return "􂨅"
-case .convertible_side:
-  return "􂥂"
-case .convertible_side_fill:
-  return "􂥃"
-case .convertible_side_front_open:
-  return "􂥄"
-case .convertible_side_front_open_fill:
-  return "􂥅"
-case .convertible_side_front_open_crop:
-  return "􂥆"
-case .convertible_side_front_open_crop_fill:
-  return "􂥇"
-case .convertible_side_air_circulate:
-  return "􂥙"
-case .convertible_side_air_circulate_fill:
-  return "􂥚"
-case .convertible_side_air_fresh:
-  return "􂥛"
-case .convertible_side_air_fresh_fill:
-  return "􂥜"
-case .convertible_side_and_exclamationmark:
-  return "􂥈"
-case .convertible_side_and_exclamationmark_fill:
-  return "􂥉"
-case .convertible_side_arrowtriangle_up_arrowtriangle_down:
-  return "􂥋"
-case .convertible_side_arrowtriangle_up_arrowtriangle_down_fill:
-  return "􂥌"
-case .convertible_side_arrowtriangle_up:
-  return "􂥍"
-case .convertible_side_arrowtriangle_up_fill:
-  return "􂥎"
-case .convertible_side_arrowtriangle_down:
-  return "􂥏"
-case .convertible_side_arrowtriangle_down_fill:
-  return "􂥐"
-case .convertible_side_lock:
-  return "􂥑"
-case .convertible_side_lock_fill:
-  return "􂥒"
-case .convertible_side_lock_open:
-  return "􂥕"
-case .convertible_side_lock_open_fill:
-  return "􂥖"
-case .air_convertible_side:
-  return "􂥩"
-case .air_convertible_side_fill:
-  return "􂥪"
-case .wave_3_down_convertible_side:
-  return "􂨆"
-case .wave_3_down_convertible_side_fill:
-  return "􂨇"
-case .convertible_side_arrow_trianglehead_forward:
-  return "􂬦"
-case .convertible_side_arrow_trianglehead_forward_fill:
-  return "􂬧"
-case .convertible_side_arrow_trianglehead_backward:
-  return "􂬨"
-case .convertible_side_arrow_trianglehead_backward_fill:
-  return "􂬩"
-case .convertible_side_arrow_trianglehead_forward_and_backward:
-  return "􂬪"
-case .convertible_side_arrow_trianglehead_forward_and_backward_fill:
-  return "􂬫"
-case .convertible_side_hill_up:
-  return "􂦂"
-case .convertible_side_hill_up_fill:
-  return "􂦃"
-case .convertible_side_hill_down:
-  return "􂦄"
-case .convertible_side_hill_down_fill:
-  return "􂦅"
-case .car_side_hill_descent_control:
-  return "􂊦"
-case .car_side_hill_descent_control_fill:
-  return "􂊧"
-case .suv_side_hill_descent_control:
-  return "􂊨"
-case .suv_side_hill_descent_control_fill:
-  return "􂊩"
-case .truck_side_hill_descent_control:
-  return "􂊪"
-case .truck_side_hill_descent_control_fill:
-  return "􂊫"
-case .convertible_side_hill_descent_control:
-  return "􂦆"
-case .convertible_side_hill_descent_control_fill:
-  return "􂦇"
-case .car_side_rear_and_exclamationmark_and_car_side_front_off:
-  return "􂐁"
-case .car_top_video_rear_left:
-  return "􂨎"
-case .car_top_video_rear_left_fill:
-  return "􂨏"
-case .car_top_video_rear_right:
-  return "􂨐"
-case .car_top_video_rear_right_fill:
-  return "􂨑"
-case .car_top_radiowaves_rear_right_car_top_front:
-  return "􂥀"
-case .car_top_radiowaves_rear_right_car_top_front_fill:
-  return "􂥁"
-case .car_top_radiowaves_rear_left_car_top_front:
-  return "􂤾"
-case .car_top_radiowaves_rear_left_car_top_front_fill:
-  return "􂤿"
-case .car_top_front_radiowaves_front_left_and_front_and_front_right:
-  return "􂨒"
-case .car_top_front_radiowaves_front_left_and_front_and_front_right_fill:
-  return "􂨓"
-case .car_top_rear_radiowaves_rear_left_and_rear_and_rear_right:
-  return "􂨔"
-case .car_top_rear_radiowaves_rear_left_and_rear_and_rear_right_fill:
-  return "􂨕"
-case .suspension_shock:
-  return "􂊯"
-case .key_card:
-  return "􂬠"
-case .key_card_fill:
-  return "􂬡"
-case .key_car_radiowaves_forward:
-  return "􂬲"
-case .key_car_radiowaves_forward_fill:
-  return "􂬳"
-case .fluid_batteryblock:
-  return "􂥢"
-case .batteryblock_stack:
-  return "􂙗"
-case .batteryblock_stack_fill:
-  return "􂙘"
-case .batteryblock_stack_badge_snowflake:
-  return "􂘙"
-case .batteryblock_stack_badge_snowflake_fill:
-  return "􂛯"
-case .batteryblock_stack_trianglebadge_exclamationmark:
-  return "􂘚"
-case .batteryblock_stack_trianglebadge_exclamationmark_fill:
-  return "􂛱"
-case .fluid_coolant:
-  return "􂮔"
-case .moon_road_lanes:
-  return "􂣸"
-case .car_rear_tilt_road_lanes_curved_right:
-  return "􂬱"
-case .car_rear_road_lane_off:
-  return "􂋌"
-case .car_rear_road_lane_wave_up:
-  return "􂤽"
-case .car_rear_road_lane_distance_1:
-  return "􂊺"
-case .car_rear_road_lane_distance_2:
-  return "􂊻"
-case .car_rear_road_lane_distance_3:
-  return "􂊼"
-case .car_rear_road_lane_distance_4:
-  return "􂊽"
-case .car_rear_road_lane_distance_5:
-  return "􂊾"
-case .car_rear_road_lane_distance_1_and_gauge_open_with_lines_needle_67percent_and_arrowtriangle:
-  return "􂊿"
-case .car_rear_road_lane_distance_2_and_gauge_open_with_lines_needle_67percent_and_arrowtriangle:
-  return "􂋀"
-case .car_rear_road_lane_distance_3_and_gauge_open_with_lines_needle_67percent_and_arrowtriangle:
-  return "􂋁"
-case .car_rear_road_lane_distance_4_and_gauge_open_with_lines_needle_67percent_and_arrowtriangle:
-  return "􂋂"
-case .car_rear_road_lane_distance_5_and_gauge_open_with_lines_needle_67percent_and_arrowtriangle:
-  return "􂋃"
-case .tachometer:
-  return "􂚚"
-case .powermeter:
-  return "􂚛"
-case .arrow_right_filled_filter_arrow_right:
-  return "􂧿"
-case .engine_emission_and_filter:
-  return "􂋋"
-case .engine_emission_and_exclamationmark:
-  return "􂥟"
-case .tsa:
-  return "􂮑"
-case .tsa_circle:
-  return "􂮟"
-case .tsa_circle_fill:
-  return "􂮠"
-case .tsa_slash:
-  return "􂮒"
-case .mecca:
-  return "􂥮"
-case .apple_meditate_circle:
-  return "􂛑"
-case .apple_meditate_circle_fill:
-  return "􂛒"
-case .ladybug_slash:
-  return "􂟦"
-case .ladybug_slash_fill:
-  return "􂟨"
-case .ladybug_slash_circle:
-  return "􂟪"
-case .ladybug_slash_circle_fill:
-  return "􂟬"
-case .camera_macro_slash:
-  return "􂏝"
-case .camera_macro_slash_circle:
-  return "􂏞"
-case .camera_macro_slash_circle_fill:
-  return "􂏟"
-case .hat_widebrim:
-  return "􂏦"
-case .hat_widebrim_fill:
-  return "􂏧"
-case .hat_cap:
-  return "􂏨"
-case .hat_cap_fill:
-  return "􂏩"
-case .jacket:
-  return "􂏬"
-case .jacket_fill:
-  return "􂏭"
-case .coat:
-  return "􂏣"
-case .coat_fill:
-  return "􂏤"
-case .xmark_triangle_circle_square:
-  return "􂮰"
-case .xmark_triangle_circle_square_fill:
-  return "􂮱"
-case .hand_raised_palm_facing:
-  return "􂤁"
-case .hand_raised_palm_facing_fill:
-  return "􂤂"
-case .hand_draw_badge_ellipsis:
-  return "􂚖"
-case .hand_draw_badge_ellipsis_fill:
-  return "􂚗"
-case .hand_rays:
-  return "􂲤"
-case .hand_rays_fill:
-  return "􂲥"
-case .hand_point_up_braille_badge_ellipsis:
-  return "􂠆"
-case .hand_point_up_braille_badge_ellipsis_fill:
-  return "􂠇"
-case .hand_palm_facing:
-  return "􂤃"
-case .hand_palm_facing_fill:
-  return "􂤄"
-case .hand_pinch:
-  return "􁟱"
-case .hand_pinch_fill:
-  return "􁟲"
-case .iphone_dock_motorized_viewfinder:
-  return "􂈉"
-case .photo_badge_exclamationmark:
-  return "􂪥"
-case .photo_badge_exclamationmark_fill:
-  return "􂪦"
-case .photo_on_rectangle_angled_fill:
-  return "􂣳"
-case .distribute_vertical:
-  return "􂠷"
-case .distribute_vertical_fill:
-  return "􂠸"
-case .distribute_horizontal:
-  return "􂠹"
-case .distribute_horizontal_fill:
-  return "􂠺"
-case .point_topright_arrow_triangle_backward_to_point_bottomleft_scurvepath:
-  return "􂤙"
-case .point_topright_arrow_triangle_backward_to_point_bottomleft_scurvepath_fill:
-  return "􂤚"
-case .point_topright_filled_arrow_triangle_backward_to_point_bottomleft_scurvepath:
-  return "􂤞"
-case .point_topright_arrow_triangle_backward_to_point_bottomleft_filled_scurvepath:
-  return "􂤛"
-case .point_bottomleft_forward_to_arrow_triangle_scurvepath:
-  return "􂤜"
-case .point_bottomleft_forward_to_arrow_triangle_scurvepath_fill:
-  return "􂤝"
-case .gamecontroller_circle:
-  return "􂝈"
-case .gamecontroller_circle_fill:
-  return "􂝉"
-case .formfitting_gamecontroller:
-  return "􂞈"
-case .formfitting_gamecontroller_fill:
-  return "􂞉"
-case .cup_and_heat_waves:
-  return "􂊬"
-case .cup_and_heat_waves_fill:
-  return "􂊭"
-case .rectangle_expand_diagonal:
-  return "􂮨"
-case .chart_bar_yaxis:
-  return "􂯞"
-case .hourglass_badge_eye:
-  return "􂜶"
-case .australsign_bank_building:
-  return "􂔝"
-case .australsign_bank_building_fill:
-  return "􂔞"
-case .australiandollarsign_bank_building:
-  return "􂕉"
-case .australiandollarsign_bank_building_fill:
-  return "􂕊"
-case .bahtsign_bank_building:
-  return "􂔵"
-case .bahtsign_bank_building_fill:
-  return "􂔶"
-case .bitcoinsign_bank_building:
-  return "􂔹"
-case .bitcoinsign_bank_building_fill:
-  return "􂔺"
-case .brazilianrealsign_bank_building:
-  return "􂔻"
-case .brazilianrealsign_bank_building_fill:
-  return "􂔼"
-case .cedisign_bank_building:
-  return "􂔧"
-case .cedisign_bank_building_fill:
-  return "􂔨"
-case .centsign_bank_building:
-  return "􂓽"
-case .centsign_bank_building_fill:
-  return "􂓾"
-case .chineseyuanrenminbisign_bank_building:
-  return "􂔽"
-case .chineseyuanrenminbisign_bank_building_fill:
-  return "􂔾"
-case .coloncurrencysign_bank_building:
-  return "􂔥"
-case .coloncurrencysign_bank_building_fill:
-  return "􂔦"
-case .cruzeirosign_bank_building:
-  return "􂔩"
-case .cruzeirosign_bank_building_fill:
-  return "􂔪"
-case .danishkronesign_bank_building:
-  return "􂕅"
-case .danishkronesign_bank_building_fill:
-  return "􂕆"
-case .dollarsign_bank_building:
-  return "􂓲"
-case .dollarsign_bank_building_fill:
-  return "􂓳"
-case .dongsign_bank_building:
-  return "􂔍"
-case .dongsign_bank_building_fill:
-  return "􂔎"
-case .eurosign_bank_building:
-  return "􂔋"
-case .eurosign_bank_building_fill:
-  return "􂔌"
-case .eurozonesign_bank_building:
-  return "􂕇"
-case .eurozonesign_bank_building_fill:
-  return "􂕈"
-case .florinsign_bank_building:
-  return "􂔅"
-case .florinsign_bank_building_fill:
-  return "􂔆"
-case .francsign_bank_building:
-  return "􂔃"
-case .francsign_bank_building_fill:
-  return "􂔄"
-case .guaranisign_bank_building:
-  return "􂔣"
-case .guaranisign_bank_building_fill:
-  return "􂔤"
-case .hryvniasign_bank_building:
-  return "􂔟"
-case .hryvniasign_bank_building_fill:
-  return "􂔠"
-case .indianrupeesign_bank_building:
-  return "􂔏"
-case .indianrupeesign_bank_building_fill:
-  return "􂔐"
-case .kipsign_bank_building:
-  return "􂔗"
-case .kipsign_bank_building_fill:
-  return "􂔘"
-case .larisign_bank_building:
-  return "􂔷"
-case .larisign_bank_building_fill:
-  return "􂔸"
-case .lirasign_bank_building:
-  return "􂔛"
-case .lirasign_bank_building_fill:
-  return "􂔜"
-case .malaysianringgitsign_bank_building:
-  return "􂣯"
-case .malaysianringgitsign_bank_building_fill:
-  return "􂣰"
-case .manatsign_bank_building:
-  return "􂔱"
-case .manatsign_bank_building_fill:
-  return "􂔲"
-case .millsign_bank_building:
-  return "􂔭"
-case .millsign_bank_building_fill:
-  return "􂔮"
-case .nairasign_bank_building:
-  return "􂔡"
-case .nairasign_bank_building_fill:
-  return "􂔢"
-case .norwegiankronesign_bank_building:
-  return "􂕁"
-case .norwegiankronesign_bank_building_fill:
-  return "􂕂"
-case .peruviansolessign_bank_building:
-  return "􂨹"
-case .peruviansolessign_bank_building_fill:
-  return "􂨺"
-case .pesetasign_bank_building:
-  return "􂔓"
-case .pesetasign_bank_building_fill:
-  return "􂔔"
-case .pesosign_bank_building:
-  return "􂔕"
-case .pesosign_bank_building_fill:
-  return "􂔖"
-case .polishzlotysign_bank_building:
-  return "􂔿"
-case .polishzlotysign_bank_building_fill:
-  return "􂕀"
-case .rublesign_bank_building:
-  return "􂔉"
-case .rublesign_bank_building_fill:
-  return "􂔊"
-case .rupeesign_bank_building:
-  return "􂔳"
-case .rupeesign_bank_building_fill:
-  return "􂔴"
-case .shekelsign_bank_building:
-  return "􂔯"
-case .shekelsign_bank_building_fill:
-  return "􂔰"
-case .singaporedollarsign_bank_building:
-  return "􂨲"
-case .singaporedollarsign_bank_building_fill:
-  return "􂨳"
-case .sterlingsign_bank_building:
-  return "􂔁"
-case .sterlingsign_bank_building_fill:
-  return "􂔂"
-case .swedishkronasign_bank_building:
-  return "􂕃"
-case .swedishkronasign_bank_building_fill:
-  return "􂕄"
-case .tengesign_bank_building:
-  return "􂔑"
-case .tengesign_bank_building_fill:
-  return "􂔒"
-case .tugriksign_bank_building:
-  return "􂔫"
-case .tugriksign_bank_building_fill:
-  return "􂔬"
-case .turkishlirasign_bank_building:
-  return "􂔇"
-case .turkishlirasign_bank_building_fill:
-  return "􂔈"
-case .yensign_bank_building:
-  return "􂓿"
-case .yensign_bank_building_fill:
-  return "􂔀"
-case .wonsign_bank_building:
-  return "􂔙"
-case .wonsign_bank_building_fill:
-  return "􂔚"
-case .text_line_magnify:
-  return "􂬁"
-case .character_circle:
-  return "􂏽"
-case .character_circle_fill:
-  return "􂏾"
-case .character_square:
-  return "􂏿"
-case .character_square_fill:
-  return "􂐀"
-case .characters_lowercase:
-  return "􂐦"
-case .textformat_characters_arrow_left_and_right:
-  return "􂐭"
-case .notequal:
-  return "􂪯"
-case .notequal_circle:
-  return "􂫃"
-case .notequal_circle_fill:
-  return "􂫄"
-case .notequal_square:
-  return "􂫅"
-case .notequal_square_fill:
-  return "􂫆"
-case .lessthanorequalto:
-  return "􂪰"
-case .lessthanorequalto_circle:
-  return "􂫇"
-case .lessthanorequalto_circle_fill:
-  return "􂫈"
-case .lessthanorequalto_square:
-  return "􂫉"
-case .lessthanorequalto_square_fill:
-  return "􂫊"
-case .greaterthanorequalto:
-  return "􂪱"
-case .greaterthanorequalto_circle:
-  return "􂫋"
-case .greaterthanorequalto_circle_fill:
-  return "􂫌"
-case .greaterthanorequalto_square:
-  return "􂫍"
-case .greaterthanorequalto_square_fill:
-  return "􂫎"
-case .chevron_left_chevron_left_dotted:
-  return "􂨩"
-case .chevron_backward_chevron_backward_dotted:
-  return "􂨫"
-case .chevron_right_dotted_chevron_right:
-  return "􂨪"
-case .chevron_forward_dotted_chevron_forward:
-  return "􂨬"
-case .chevron_up_2:
-  return "􂪓"
-case .chevron_down_2:
-  return "􂪔"
-case .chevron_up_dotted_2:
-  return "􂨧"
-case .chevron_down_dotted_2:
-  return "􂨨"
-case .chevron_up_right_2:
-  return "􂪕"
-case .chevron_up_forward_2:
-  return "􂪖"
-case .chevron_up_right_dotted_2:
-  return "􂪏"
-case .chevron_up_forward_dotted_2:
-  return "􂪐"
-case .chevron_down_right_2:
-  return "􂪗"
-case .chevron_down_forward_2:
-  return "􂪘"
-case .chevron_down_right_dotted_2:
-  return "􂪑"
-case .chevron_down_forward_dotted_2:
-  return "􂪒"
-case .chevron_up_chevron_down_square:
-  return "􂝒"
-case .chevron_up_chevron_down_square_fill:
-  return "􂝓"
-case .chevron_left_chevron_right:
-  return "􂦩"
-case .chevron_up_chevron_right_chevron_down_chevron_left:
-  return "􂦪"
-case .chevron_compact_up_chevron_compact_down:
-  return "􂦫"
-case .chevron_compact_left_chevron_compact_right:
-  return "􂦬"
-case .chevron_compact_up_chevron_compact_right_chevron_compact_down_chevron_compact_left:
-  return "􂦭"
-case .base_unit:
-  return "􂭎"
-case .arrow_left_circle_dotted:
-  return "􂚦"
-case .arrow_backward_circle_dotted:
-  return "􂚧"
-case .arrow_right_circle_dotted:
-  return "􂚨"
-case .arrow_forward_circle_dotted:
-  return "􂚩"
-case .arrow_up_circle_dotted:
-  return "􂚪"
-case .arrow_up_left_circle_dotted:
-  return "􂚫"
-case .arrow_up_backward_circle_dotted:
-  return "􂚬"
-case .arrow_up_right_circle_dotted:
-  return "􂚭"
-case .arrow_up_forward_circle_dotted:
-  return "􂚮"
-case .arrow_down_left_circle_dotted:
-  return "􂚯"
-case .arrow_down_backward_circle_dotted:
-  return "􂚰"
-case .arrow_down_right_circle_dotted:
-  return "􂛳"
-case .arrow_down_forward_circle_dotted:
-  return "􂛴"
-case .malaysianringgitsign:
-  return "􂣪"
-case .malaysianringgitsign_circle:
-  return "􂣫"
-case .malaysianringgitsign_circle_fill:
-  return "􂣬"
-case .malaysianringgitsign_square:
-  return "􂣭"
-case .malaysianringgitsign_square_fill:
-  return "􂣮"
-case .peruviansolessign:
-  return "􂨴"
-case .peruviansolessign_circle:
-  return "􂨵"
-case .peruviansolessign_circle_fill:
-  return "􂨶"
-case .peruviansolessign_square:
-  return "􂨷"
-case .peruviansolessign_square_fill:
-  return "􂨸"
-case .singaporedollarsign:
-  return "􂨰"
-case .singaporedollarsign_circle:
-  return "􂉮"
-case .singaporedollarsign_circle_fill:
-  return "􂉯"
-case .singaporedollarsign_square:
-  return "􂉰"
-case .singaporedollarsign_square_fill:
-  return "􂉱"
+case .eraser_badge_xmark:
+  return "􃁕"
+case .eraser_badge_xmark_fill:
+  return "􃁖"
+case .eraser_trianglebadge_exclamationmark:
+  return "􃁗"
+case .eraser_trianglebadge_exclamationmark_fill:
+  return "􃁘"
+case .eraser_slash:
+  return "􃁙"
+case .eraser_slash_fill:
+  return "􃁚"
+case .highlighter_badge_ellipsis:
+  return "􃒚"
+case .text_below_folder:
+  return "􃐯"
+case .text_below_folder_fill:
+  return "􃐰"
+case .arrow_up_folder:
+  return "􃀧"
+case .arrow_up_folder_fill:
+  return "􃀨"
+case .arrow_forward_folder:
+  return "􃀩"
+case .arrow_forward_folder_fill:
+  return "􃀪"
+case .tray_badge:
+  return "􃃬"
+case .tray_badge_fill:
+  return "􃃭"
+case .document_on_trash:
+  return "􁣊"
+case .document_on_trash_fill:
+  return "􁣋"
+case .sparkle_text_clipboard:
+  return "􃓿"
+case .sparkle_text_clipboard_fill:
+  return "􃔀"
+case .apple_classical_pages:
+  return "􃁬"
+case .apple_classical_pages_fill:
+  return "􃁭"
+case .music_pages:
+  return "􃁮"
+case .music_pages_fill:
+  return "􃁯"
+case .apple_podcasts_pages:
+  return "􃁰"
+case .apple_podcasts_pages_fill:
+  return "􃁱"
+case .apple_books_pages:
+  return "􃁲"
+case .apple_books_pages_fill:
+  return "􃁳"
+case .list_dash_header_rectangle_fill:
+  return "􃈩"
+case .text_pad_header_badge_clock:
+  return "􃀑"
+case .calendar_badge:
+  return "􂭿"
+case .calendar_badge_lock:
+  return "􃂂"
+case .one_calendar:
+  return "􃌦"
+case .two_calendar:
+  return "􃌧"
+case .three_calendar:
+  return "􃌨"
+case .four_calendar:
+  return "􃌩"
+case .five_calendar:
+  return "􃌪"
+case .six_calendar:
+  return "􃌫"
+case .seven_calendar:
+  return "􃌬"
+case .eight_calendar:
+  return "􃌭"
+case .nine_calendar:
+  return "􃌮"
+case .ten_calendar:
+  return "􃌯"
+case .eleven_calendar:
+  return "􃌰"
+case .twelve_calendar:
+  return "􃌱"
+case .thirteen_calendar:
+  return "􃌲"
+case .fourteen_calendar:
+  return "􃌳"
+case .fifteen_calendar:
+  return "􃌴"
+case .sixteen_calendar:
+  return "􃌵"
+case .seventeen_calendar:
+  return "􃌶"
+case .eighteen_calendar:
+  return "􃌷"
+case .nineteen_calendar:
+  return "􃌸"
+case .twenty_calendar:
+  return "􃌹"
+case .twenty_one_calendar:
+  return "􃌺"
+case .twenty_two_calendar:
+  return "􃌻"
+case .twenty_three_calendar:
+  return "􃌼"
+case .twenty_four_calendar:
+  return "􃌽"
+case .twenty_five_calendar:
+  return "􃌾"
+case .twenty_six_calendar:
+  return "􃌿"
+case .twenty_seven_calendar:
+  return "􃍀"
+case .twenty_eight_calendar:
+  return "􃍁"
+case .twenty_nine_calendar:
+  return "􃍂"
+case .thirty_calendar:
+  return "􃍃"
+case .thirty_one_calendar:
+  return "􃍄"
+case .ellipsis_calendar:
+  return "􃏝"
+case .calendar_day_timeline_left_circle:
+  return "􃋶"
+case .calendar_day_timeline_left_circle_fill:
+  return "􃋷"
+case .calendar_day_timeline_right_circle:
+  return "􃋸"
+case .calendar_day_timeline_right_circle_fill:
+  return "􃋹"
+case .calendar_day_timeline_leading_circle:
+  return "􃌄"
+case .calendar_day_timeline_leading_circle_fill:
+  return "􃌅"
+case .calendar_day_timeline_trailing_circle:
+  return "􃌆"
+case .calendar_day_timeline_trailing_circle_fill:
+  return "􃌇"
+case .book_badge_plus:
+  return "􃑏"
+case .book_badge_plus_fill:
+  return "􃑐"
+case .person_spatialaudio_stereo_fill:
+  return "􁀧"
+case .person_spatialaudio_fill:
+  return "􁀨"
+case .person_spatialaudio_stereo_3d_fill:
+  return "􃈭"
+case .person_spatialaudio_3d_fill:
+  return "􃈮"
+case .person_2_shield:
+  return "􃒈"
+case .person_2_shield_fill:
+  return "􃒉"
+case .person_2_badge:
+  return "􂣑"
+case .person_2_badge_fill:
+  return "􂣒"
+case .person_crop_circle_badge_ellipsis:
+  return "􃂇"
+case .person_crop_circle_badge_ellipsis_fill:
+  return "􃂈"
+case .person_text_rectangle_trianglebadge_exclamationmark:
+  return "􃒀"
+case .person_text_rectangle_trianglebadge_exclamationmark_fill:
+  return "􃒁"
+case .app_background_dotted:
+  return "􂷸"
+case .figure_seated_side_right_child_lap:
+  return "􃌐"
+case .figure_walk_suitcase_rolling:
+  return "􃋱"
+case .figure_walk_suitcase_rolling_circle:
+  return "􃋲"
+case .figure_walk_suitcase_rolling_circle_fill:
+  return "􃋳"
+case .globe_fill:
+  return "􃁔"
+case .globe_badge_clock:
+  return "􃑺"
+case .globe_badge_clock_fill:
+  return "􃔇"
+case .sparkles_2:
+  return "􃈰"
+case .thermometer_variable_badge_clock:
+  return "􃐍"
+case .thermometer_variable_badge_play:
+  return "􃐎"
+case .thermometer_and_ellipsis:
+  return "􃒨"
+case .umbrella_circle:
+  return "􃁍"
+case .umbrella_circle_fill:
+  return "􃁎"
+case .play_diamond:
+  return "􃄤"
+case .play_diamond_fill:
+  return "􃄥"
+case .speaker_trianglebadge_exclamationmark:
+  return "􃊺"
+case .speaker_trianglebadge_exclamationmark_fill:
+  return "􃊻"
+case .music_note_slash:
+  return "􃑓"
+case .music_note_square_stack:
+  return "􃐹"
+case .music_note_square_stack_fill:
+  return "􃐺"
+case .minus_arrow_trianglehead_clockwise:
+  return "􃇼"
+case .checkmark_arrow_trianglehead_clockwise:
+  return "􃇽"
+case .music_note_arrow_trianglehead_clockwise:
+  return "􃃂"
+case .plus_arrow_trianglehead_counterclockwise:
+  return "􃇿"
+case .stroke_line_diagonal:
+  return "􃑪"
+case .stroke_line_diagonal_slash:
+  return "􃑫"
+case .line_diagonal_trianglehead_up_right_left_down:
+  return "􃏠"
+case .slider_horizontal_below_circle_lefthalf_filled:
+  return "􃁣"
+case .slider_horizontal_below_circle_lefthalf_filled_inverse:
+  return "􃁤"
+case .slider_horizontal_below_circle_righthalf_filled:
+  return "􃁥"
+case .slider_horizontal_below_circle_righthalf_filled_inverse:
+  return "􃁦"
+case .inset_filled_circle_slash:
+  return "􃐥"
+case .circle_on_square:
+  return "􃎷"
+case .circle_on_square_merge:
+  return "􃎹"
+case .circle_on_square_intersection_dotted:
+  return "􃏁"
+case .circle_grid_2x2_topleft_checkmark_filled:
+  return "􂿪"
+case .app_specular:
+  return "􃏡"
+case .app_grid:
+  return "􃏞"
+case .app_shadow:
+  return "􃎺"
+case .app_translucent:
+  return "􃏢"
+case .inset_filled_leftthird_middlethird_rightthird_rectangle:
+  return "􃇐"
+case .inset_filled_topthird_middlethird_bottomthird_rectangle:
+  return "􃈃"
+case .inset_filled_bottomleft_bottomright_rectangle:
+  return "􃐷"
+case .inset_filled_bottomleading_bottomtrailing_rectangle:
+  return "􃐸"
+case .text_rectangle:
+  return "􃐵"
+case .text_rectangle_fill:
+  return "􃐶"
+case .rectangle_3_group_dashed:
+  return "􃑊"
+case .rectangle_grid_1x3:
+  return "􃑼"
+case .rectangle_grid_1x3_fill:
+  return "􃑽"
+case .plus_capsule:
+  return "􃁴"
+case .plus_capsule_fill:
+  return "􃁵"
+case .lock_heart:
+  return "􃊿"
+case .lock_heart_fill:
+  return "􃋀"
+case .heart_badge_bolt:
+  return "􃓫"
+case .heart_badge_bolt_fill:
+  return "􃓬"
+case .heart_badge_bolt_slash:
+  return "􃓯"
+case .heart_badge_bolt_slash_fill:
+  return "􃓰"
+case .key_shield:
+  return "􃇞"
+case .key_shield_fill:
+  return "􃇟"
+case .bell_badge_waveform_slash:
+  return "􁈍"
+case .bell_badge_waveform_slash_fill:
+  return "􁈎"
+case .icloud_dashed:
+  return "􀚏"
+case .phone_pause:
+  return "􃂓"
+case .phone_pause_fill:
+  return "􃂔"
+case .phone_pause_circle:
+  return "􃂕"
+case .phone_pause_circle_fill:
+  return "􃂖"
+case .envelope_open_badge_clock_fill:
+  return "􃑭"
+case .envelope_badge_plus:
+  return "􃈳"
+case .envelope_badge_plus_fill:
+  return "􃈴"
+case .envelope_badge_minus:
+  return "􃈵"
+case .envelope_badge_minus_fill:
+  return "􃈶"
+case .envelope_and_hand_raised:
+  return "􃍸"
+case .envelope_and_hand_raised_fill:
+  return "􃍹"
+case .siri:
+  return "􀫛"
+case .ellipsis_circle_badge:
+  return "􃈗"
+case .ellipsis_circle_badge_fill:
+  return "􃈘"
+case .creditcard_rewards:
+  return "􃈕"
+case .creditcard_rewards_fill:
+  return "􃈖"
+case .lines_measurement_horizontal_aligned_bottom:
+  return "􃋮"
+case .minus_plus_lines_measurement_horizontal_aligned_bottom:
+  return "􃋯"
+case .blood_pressure_cuff:
+  return "􃔛"
+case .blood_pressure_cuff_fill:
+  return "􃔜"
+case .blood_pressure_cuff_badge_gauge_with_needle:
+  return "􃓻"
+case .blood_pressure_cuff_badge_gauge_with_needle_fill:
+  return "􃓼"
+case .suitcase_circle:
+  return "􃁅"
+case .suitcase_circle_fill:
+  return "􃁆"
+case .suitcase_rolling_circle:
+  return "􃋓"
+case .suitcase_rolling_circle_fill:
+  return "􃋔"
+case .suitcase_rolling_and_suitcase:
+  return "􃋕"
+case .suitcase_rolling_and_suitcase_fill:
+  return "􃋖"
+case .suitcase_rolling_and_suitcase_circle:
+  return "􃋗"
+case .suitcase_rolling_and_suitcase_circle_fill:
+  return "􃋘"
+case .suitcase_rolling_and_film:
+  return "􃌈"
+case .suitcase_rolling_and_film_fill:
+  return "􃌉"
+case .suitcase_rolling_and_film_circle:
+  return "􃌌"
+case .suitcase_rolling_and_film_circle_fill:
+  return "􃌍"
+case .pet_carrier:
+  return "􃌑"
+case .pet_carrier_fill:
+  return "􃌒"
+case .pet_carrier_circle:
+  return "􃎤"
+case .pet_carrier_circle_fill:
+  return "􃎥"
+case .fan_circle:
+  return "􃂢"
+case .fan_circle_fill:
+  return "􃂣"
+case .fan_badge_arrow_up_and_down_and_arrow_left_and_right:
+  return "􃄻"
+case .fan_badge_arrow_up_and_down_and_arrow_left_and_right_fill:
+  return "􃄼"
+case .gauge_chart_lefthalf_righthalf:
+  return "􃊊"
+case .gauge_chart_leftthird_topthird_rightthird:
+  return "􃊋"
+case .ring_dashed:
+  return "􃊌"
+case .ring:
+  return "􃊍"
+case .humidifier_and_ellipsis:
+  return "􃒦"
+case .humidifier_and_ellipsis_fill:
+  return "􃒧"
+case .bed_double_badge_checkmark:
+  return "􃍏"
+case .bed_double_badge_checkmark_fill:
+  return "􃍐"
+case .environments:
+  return "􂀚"
+case .environments_fill:
+  return "􀬮"
+case .environments_circle:
+  return "􂀜"
+case .environments_circle_fill:
+  return "􂀝"
+case .environments_slash:
+  return "􂁚"
+case .environments_slash_fill:
+  return "􁦅"
+case .environments_slash_circle:
+  return "􂀞"
+case .environments_slash_circle_fill:
+  return "􂀟"
+case .lock_badge_checkmark:
+  return "􃍰"
+case .lock_badge_checkmark_fill:
+  return "􃍱"
+case .lock_badge_xmark:
+  return "􃍴"
+case .lock_badge_xmark_fill:
+  return "􃍵"
+case .key_circle:
+  return "􃁇"
+case .key_circle_fill:
+  return "􃁈"
+case .paint_bucket_classic:
+  return "􀠣"
+case .finder:
+  return "􀥯"
+case .sensor_radiowaves_left_and_right:
+  return "􃆲"
+case .sensor_radiowaves_left_and_right_fill:
+  return "􃆳"
+case .briefcase_sensor_tag_radiowaves_left_and_right:
+  return "􃀱"
+case .briefcase_sensor_tag_radiowaves_left_and_right_fill:
+  return "􃀲"
+case .key_sensor_tag_radiowaves_left_and_right:
+  return "􃀳"
+case .key_sensor_tag_radiowaves_left_and_right_fill:
+  return "􃀴"
+case .wallet_sensor_tag_radiowaves_left_and_right:
+  return "􃀵"
+case .wallet_sensor_tag_radiowaves_left_and_right_fill:
+  return "􃀶"
+case .backpack_sensor_tag_radiowaves_left_and_right:
+  return "􃀷"
+case .backpack_sensor_tag_radiowaves_left_and_right_fill:
+  return "􃀸"
+case .bicycle_sensor_tag_radiowaves_left_and_right:
+  return "􃀹"
+case .bicycle_sensor_tag_radiowaves_left_and_right_fill:
+  return "􃀺"
+case .camera_sensor_tag_radiowaves_left_and_right:
+  return "􃀻"
+case .camera_sensor_tag_radiowaves_left_and_right_fill:
+  return "􃀼"
+case .handbag_sensor_tag_radiowaves_left_and_right:
+  return "􃀽"
+case .handbag_sensor_tag_radiowaves_left_and_right_fill:
+  return "􃀾"
+case .headphones_sensor_tag_radiowaves_left_and_right:
+  return "􃀿"
+case .headphones_sensor_tag_radiowaves_left_and_right_fill:
+  return "􃁀"
+case .jacket_sensor_tag_radiowaves_left_and_right:
+  return "􃁁"
+case .jacket_sensor_tag_radiowaves_left_and_right_fill:
+  return "􃁂"
+case .umbrella_sensor_tag_radiowaves_left_and_right:
+  return "􃁃"
+case .umbrella_sensor_tag_radiowaves_left_and_right_fill:
+  return "􃁄"
+case .display_and_screwdriver:
+  return "􃒘"
+case .desktopcomputer_badge_checkmark:
+  return "􃉞"
+case .desktopcomputer_badge_shield_checkmark:
+  return "􃊆"
+case .macpro_gen3_badge_ckeckmark:
+  return "􃉠"
+case .macpro_gen3_badge_ckeckmark_fill:
+  return "􃉡"
+case .laptopcomputer_badge_checkmark:
+  return "􃉘"
+case .macbook_badge_checkmark:
+  return "􃉚"
+case .macbook_trianglebadge_exclamationmark:
+  return "􃉛"
+case .macbook_badge_shield_checkmark:
+  return "􃊈"
+case .macbook_and_ipod:
+  return "􃔑"
+case .macmini_badge_checkmark:
+  return "􃉨"
+case .macmini_badge_checkmark_fill:
+  return "􃉩"
+case .macstudio_badge_checkmark:
+  return "􃉤"
+case .macstudio_badge_checkmark_fill:
+  return "􃉥"
+case .ipod_and_applewatch:
+  return "􃔓"
+case .ipod_and_vision_pro:
+  return "􃔗"
+case .iphone_gen1_crop_homebutton_circle:
+  return "􃂴"
+case .ipad_gen1_crop_homebutton_circle:
+  return "􃏟"
+case .iphone_and_ipod:
+  return "􃔏"
+case .iphone_and_vision_pro:
+  return "􃔕"
+case .iphone_badge_checkmark:
+  return "􃉔"
+case .apps_iphone_badge_checkmark:
+  return "􃍢"
+case .iphone_pattern_diagonalline:
+  return "􂤨"
+case .iphone_pattern_diagonalline_on_rectangle_portrait_dashed:
+  return "􂿥"
+case .ipad_badge_checkmark:
+  return "􃉖"
+case .ipad_landscape_and_applewatch:
+  return "􃔋"
+case .ipad_landscape_and_ipod:
+  return "􃔍"
+case .apps_ipad_badge_plus:
+  return "􀯗"
+case .apps_ipad_badge_checkmark:
+  return "􃍤"
+case .apps_ipad_on_rectangle_portrait_dashed:
+  return "􂿬"
+case .iphone_gen1_sizes:
+  return "􃉈"
+case .iphone_gen2_sizes:
+  return "􁣳"
+case .iphone_gen3_sizes:
+  return "􃉊"
+case .ipad_gen1_sizes:
+  return "􁣵"
+case .ipad_gen2_sizes:
+  return "􃉌"
+case .macbook_sizes:
+  return "􃉎"
+case .macbook_gen1_sizes:
+  return "􃉏"
+case .macbook_gen2_sizes:
+  return "􃉐"
+case .vision_pro_badge_checkmark:
+  return "􃉬"
+case .vision_pro_badge_checkmark_fill:
+  return "􃉭"
+case .spatial_capture:
+  return "􂊑"
+case .spatial_capture_fill:
+  return "􂊒"
+case .spatial_capture_slash:
+  return "􂪙"
+case .spatial_capture_slash_fill:
+  return "􂪚"
+case .spatial_capture_on_hexagon:
+  return "􂊓"
+case .spatial_capture_on_hexagon_fill:
+  return "􂊔"
+case .inset_filled_pano:
+  return "􂖡"
+case .applewatch_badge_checkmark:
+  return "􃊄"
+case .headphones_over_ear:
+  return "􃍅"
+case .earbud_right:
+  return "􃀌"
+case .earbud_left:
+  return "􃀍"
+case .earbuds_stemless:
+  return "􃍆"
+case .earbuds_stemless_right:
+  return "􃍇"
+case .earbuds_stemless_left:
+  return "􃍈"
+case .earbuds_in_ear:
+  return "􃍓"
+case .earbuds_in_ear_right:
+  return "􃍔"
+case .earbuds_in_ear_left:
+  return "􃍕"
+case .earbuds_bone_conduction:
+  return "􃍝"
+case .earbuds_bone_conduction_right:
+  return "􃍞"
+case .earbuds_bone_conduction_left:
+  return "􃍟"
+case .homepod_mini_badge_checkmark:
+  return "􃉸"
+case .homepod_mini_badge_checkmark_fill:
+  return "􃉹"
+case .homepod_badge_checkmark:
+  return "􃉰"
+case .homepod_badge_checkmark_fill:
+  return "􃉱"
+case .appletv_badge_exclamationmark:
+  return "􁰺"
+case .appletv_badge_exclamationmark_fill:
+  return "􁰻"
+case .appletv_badge_checkmark:
+  return "􃊀"
+case .appletv_badge_checkmark_fill:
+  return "􃊁"
+case .airplane_path_dotted:
+  return "􃋁"
+case .airplane_up_right:
+  return "􀸯"
+case .airplane_up_right_app:
+  return "􃋑"
+case .airplane_up_right_app_fill:
+  return "􃋒"
+case .airplane_up_forward:
+  return "􃎗"
+case .airplane_up_forward_app:
+  return "􃎘"
+case .airplane_up_forward_app_fill:
+  return "􃎙"
+case .airplane_landed:
+  return "􃈛"
+case .airplane_cloud:
+  return "􃈜"
+case .airplane_ticket:
+  return "􀷱"
+case .airplane_ticket_fill:
+  return "􀷲"
+case .airplaneseat:
+  return "􃋰"
+case .tram_card:
+  return "􃀜"
+case .tram_card_fill:
+  return "􃀝"
+case .fuelpump_thermometer:
+  return "􃄹"
+case .fuelpump_thermometer_fill:
+  return "􃄺"
+case .thermometer_tirepressure:
+  return "􂿩"
+case .heat_waves_circle:
+  return "􃂤"
+case .heat_waves_circle_fill:
+  return "􃂥"
+case .vent_heat_waves_upward:
+  return "􃅅"
+case .figure_seated_side_left_air_distribution_indirect:
+  return "􃅃"
+case .figure_seated_side_left_air_distribution_upper_angled_and_dottedline_and_lower_angled:
+  return "􃅁"
+case .figure_seated_side_left_air_distribution_lower_angled_and_upper_angled:
+  return "􃄿"
+case .figure_seated_side_right_air_distribution_indirect:
+  return "􃅄"
+case .figure_seated_side_right_air_distribution_upper_angled_and_dottedline_and_lower_angled:
+  return "􃅂"
+case .figure_seated_side_right_air_distribution_lower_angled_and_upper_angled:
+  return "􃅀"
+case .gauge_open:
+  return "􃂄"
+case .umbrella_gauge_open:
+  return "􃂛"
+case .aqi_medium_gauge_open:
+  return "􃂜"
+case .flame_gauge_open:
+  return "􃂝"
+case .fan_gauge_open:
+  return "􃂞"
+case .heat_waves_gauge_open:
+  return "􃂟"
+case .thermometer_gauge_open:
+  return "􃂠"
+case .heart_gauge_open:
+  return "􃂡"
+case .gauge_open_righthalf_dotted_with_needle_and_arrow_trianglehead_backward:
+  return "􂼑"
+case .service_dog:
+  return "􃎢"
+case .service_dog_fill:
+  return "􃎣"
+case .jacket_circle:
+  return "􃁉"
+case .jacket_circle_fill:
+  return "􃁊"
+case .coat_circle:
+  return "􃁋"
+case .coat_circle_fill:
+  return "􃁌"
+case .eye_half_closed:
+  return "􂽁"
+case .eye_half_closed_fill:
+  return "􂽂"
+case .hand_thumbsdown_hand_thumbsup:
+  return "􃒄"
+case .hand_thumbsdown_hand_thumbsup_fill:
+  return "􃒅"
+case .hand_thumbsdown_filled_hand_thumbsup:
+  return "􃒆"
+case .hand_thumbsdown_hand_thumbsup_filled:
+  return "􃒇"
+case .lock_rectangle_dashed:
+  return "􃐭"
+case .rectangle_stack_slash:
+  return "􃈑"
+case .rectangle_stack_slash_fill:
+  return "􃈒"
+case .macwindow_stack:
+  return "􃑷"
+case .guidepoint_vertical_arrowtriangle_forward:
+  return "􃂲"
+case .guidepoint_vertical_numbers:
+  return "􃂳"
+case .guidepoint_horizontal:
+  return "􃐉"
+case .cube_circle:
+  return "􃅓"
+case .cube_circle_fill:
+  return "􃅔"
+case .f_cursive_slash:
+  return "􃒌"
+case .clock_badge_airplane:
+  return "􃋌"
+case .clock_badge_airplane_fill:
+  return "􃋍"
+case .clock_arrow_trianglehead_clockwise_rotate_90_path_dotted:
+  return "􃋐"
+case .cellularbars_circle:
+  return "􃋺"
+case .cellularbars_circle_fill:
+  return "􃋻"
+case .chart_bar_xaxis_descending:
+  return "􃒊"
+case .dot_crosshair:
+  return "􃆮"
+case .waveform_low:
+  return "􃊸"
+case .waveform_mid:
+  return "􃊹"
+case .text_square_filled:
+  return "􃆭"
+case .list_bullet_badge_ellipsis:
+  return "􃒜"
+case .list_dash_badge_ellipsis:
+  return "􃒞"
+case .list_number_badge_ellipsis:
+  return "􃒠"
+case .character_text_justify:
+  return "􃅗"
+case .underline_double:
+  return "􃐊"
+case .strikethrough_double:
+  return "􃐋"
+case .graph_2d:
+  return "􃈟"
+case .graph_3d:
+  return "􃈠"
+case .xmark_circle_badge_airplane:
+  return "􃋈"
+case .xmark_circle_badge_airplane_fill:
+  return "􃋉"
+case .checkmark_circle_badge_plus:
+  return "􃈆"
+case .checkmark_circle_badge_plus_fill:
+  return "􃈇"
+case .checkmark_circle_trianglebadge_exclamationmark_fill:
+  return "􃋂"
+case .checkmark_circle_badge_airplane:
+  return "􃋄"
+case .checkmark_circle_badge_airplane_fill:
+  return "􃋅"
+case .checkmark_circle_dotted:
+  return "􃑹"
+case .checkmark_app:
+  return "􂿲"
+case .checkmark_app_fill:
+  return "􂿳"
+case .arrow_down_circle_badge_pause:
+  return "􃇖"
+case .arrow_down_circle_badge_pause_fill:
+  return "􃇗"
+case .arrow_down_circle_badge_xmark:
+  return "􃇚"
+case .arrow_down_circle_badge_xmark_fill:
+  return "􃇛"
+case .arrow_trianglehead_turn_up_right:
+  return "􀙝"

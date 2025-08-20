@@ -42,11 +42,7 @@ def format_version_case(name_line: str) -> str:
 def main():
     # Ask for version number
     sfVersion: str = input("Enter SF Symbols Version: ")
-    iOSVersion: str = input("Enter iOS Version: ")
-    macOSVersion: str = input("Enter macOS Version: ")
-    watchOSVersion: str = input("Enter watchOS Version: ")
-    tvOSVersion: str = input("Enter tvOS Version: ")
-    visionOSVersion: str = input("Enter visionOS Version: ")
+    softwareVersion: str = input("Enter Software Version: ")
 
     # Input and output file names
     sf_names_file = 'sf_names.txt'
@@ -65,11 +61,11 @@ def main():
     # Write the name cases
     base_file = f'base.txt'
 
-    availability = f"""@available(iOS, introduced: {iOSVersion}, message: "This symbol is only available in iOS {iOSVersion} and above")
-@available(macOS, introduced: {macOSVersion}, message: "This symbol is only available in macOS {macOSVersion} and above")
-@available(watchOS, introduced: {watchOSVersion}, message: "This symbol is only available in watchOS {watchOSVersion} and above")
-@available(tvOS, introduced: {tvOSVersion}, message: "This symbol is only available in tvOS {tvOSVersion} and above")
-@available(visionOS, introduced: {visionOSVersion}, message: "This symbol is only available in visionOS {visionOSVersion} and above")"""
+    availability = f"""@available(iOS, introduced: {softwareVersion}, message: "This symbol is only available in iOS {softwareVersion} and above")
+@available(macOS, introduced: {softwareVersion}, message: "This symbol is only available in macOS {softwareVersion} and above")
+@available(watchOS, introduced: {softwareVersion}, message: "This symbol is only available in watchOS {softwareVersion} and above")
+@available(tvOS, introduced: {softwareVersion}, message: "This symbol is only available in tvOS {softwareVersion} and above")
+@available(visionOS, introduced: {softwareVersion}, message: "This symbol is only available in visionOS {softwareVersion} and above")"""
 
     with open(sf_names_file, 'r') as infile, open(base_file, 'w') as outfile:
         for line in infile:
@@ -80,12 +76,6 @@ def main():
 
     # Write the name cases
     version_file = f'SFSymbols+Version{sfVersion}.txt'
-
-    availability = f"""@available(iOS, introduced: {iOSVersion}, message: "This symbol is only available in iOS {iOSVersion} and above")
-@available(macOS, introduced: {macOSVersion}, message: "This symbol is only available in macOS {macOSVersion} and above")
-@available(watchOS, introduced: {watchOSVersion}, message: "This symbol is only available in watchOS {watchOSVersion} and above")
-@available(tvOS, introduced: {tvOSVersion}, message: "This symbol is only available in tvOS {tvOSVersion} and above")
-@available(visionOS, introduced: {visionOSVersion}, message: "This symbol is only available in visionOS {visionOSVersion} and above")"""
 
     with open(sf_names_file, 'r') as infile, open(version_file, 'w') as outfile:
         for line in infile:

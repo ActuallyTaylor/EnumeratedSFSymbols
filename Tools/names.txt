@@ -1,2030 +1,788 @@
-case .square_and_arrow_up_trianglebadge_exclamationmark_fill:
-  return "square.and.arrow.up.trianglebadge.exclamationmark.fill"
-case .square_and_arrow_down_badge_clock:
-  return "square.and.arrow.down.badge.clock"
-case .square_and_arrow_down_badge_clock_fill:
-  return "square.and.arrow.down.badge.clock.fill"
-case .heart_text_clipboard:
-  return "heart.text.clipboard"
-case .heart_text_clipboard_fill:
-  return "heart.text.clipboard.fill"
-case .chart_line_text_clipboard:
-  return "chart.line.text.clipboard"
-case .chart_line_text_clipboard_fill:
-  return "chart.line.text.clipboard.fill"
-case .text_page_slash:
-  return "text.page.slash"
-case .text_page_slash_fill:
-  return "text.page.slash.fill"
-case .checkmark_seal_text_page:
-  return "checkmark.seal.text.page"
-case .checkmark_seal_text_page_fill:
-  return "checkmark.seal.text.page.fill"
-case .calendar_and_person:
-  return "calendar.and.person"
-case .widget_small:
-  return "widget.small"
-case .widget_small_badge_plus:
-  return "widget.small.badge.plus"
-case .widget_medium:
-  return "widget.medium"
-case .widget_medium_badge_plus:
-  return "widget.medium.badge.plus"
-case .widget_large:
-  return "widget.large"
-case .widget_large_badge_plus:
-  return "widget.large.badge.plus"
-case .widget_extralarge:
-  return "widget.extralarge"
-case .widget_extralarge_badge_plus:
-  return "widget.extralarge.badge.plus"
-case .personalhotspot_slash:
-  return "personalhotspot.slash"
-case .person_badge_shield_exclamationmark:
-  return "person.badge.shield.exclamationmark"
-case .person_badge_shield_exclamationmark_fill:
-  return "person.badge.shield.exclamationmark.fill"
-case .person_2_badge_plus:
-  return "person.2.badge.plus"
-case .person_2_badge_plus_fill:
-  return "person.2.badge.plus.fill"
-case .person_2_badge_minus:
-  return "person.2.badge.minus"
-case .person_2_badge_minus_fill:
-  return "person.2.badge.minus.fill"
-case .person_crop_badge_magnifyingglass:
-  return "person.crop.badge.magnifyingglass"
-case .person_crop_badge_magnifyingglass_fill:
-  return "person.crop.badge.magnifyingglass.fill"
-case .person_crop_square_on_square_angled:
-  return "person.crop.square.on.square.angled"
-case .person_crop_square_on_square_angled_fill:
-  return "person.crop.square.on.square.angled.fill"
-case .figure_stand_dress:
-  return "figure.stand.dress"
-case .figure_2_right_holdinghands:
-  return "figure.2.right.holdinghands"
-case .figure_2_left_holdinghands:
-  return "figure.2.left.holdinghands"
-case .figure_walk_triangle:
-  return "figure.walk.triangle"
-case .figure_walk_triangle_fill:
-  return "figure.walk.triangle.fill"
-case .figure_run_treadmill:
-  return "figure.run.treadmill"
-case .figure_run_treadmill_circle:
-  return "figure.run.treadmill.circle"
-case .figure_run_treadmill_circle_fill:
-  return "figure.run.treadmill.circle.fill"
-case .figure_walk_treadmill:
-  return "figure.walk.treadmill"
-case .figure_walk_treadmill_circle:
-  return "figure.walk.treadmill.circle"
-case .figure_walk_treadmill_circle_fill:
-  return "figure.walk.treadmill.circle.fill"
-case .figure_roll_circle:
-  return "figure.roll.circle"
-case .figure_roll_circle_fill:
-  return "figure.roll.circle.fill"
-case .figure_roll_runningpace_circle:
-  return "figure.roll.runningpace.circle"
-case .figure_roll_runningpace_circle_fill:
-  return "figure.roll.runningpace.circle.fill"
-case .figure_american_football_circle:
-  return "figure.american.football.circle"
-case .figure_american_football_circle_fill:
-  return "figure.american.football.circle.fill"
-case .figure_archery_circle:
-  return "figure.archery.circle"
-case .figure_archery_circle_fill:
-  return "figure.archery.circle.fill"
-case .figure_australian_football_circle:
-  return "figure.australian.football.circle"
-case .figure_australian_football_circle_fill:
-  return "figure.australian.football.circle.fill"
-case .figure_badminton_circle:
-  return "figure.badminton.circle"
-case .figure_badminton_circle_fill:
-  return "figure.badminton.circle.fill"
-case .figure_barre_circle:
-  return "figure.barre.circle"
-case .figure_barre_circle_fill:
-  return "figure.barre.circle.fill"
-case .figure_baseball_circle:
-  return "figure.baseball.circle"
-case .figure_baseball_circle_fill:
-  return "figure.baseball.circle.fill"
-case .figure_basketball_circle:
-  return "figure.basketball.circle"
-case .figure_basketball_circle_fill:
-  return "figure.basketball.circle.fill"
-case .figure_bowling_circle:
-  return "figure.bowling.circle"
-case .figure_bowling_circle_fill:
-  return "figure.bowling.circle.fill"
-case .figure_boxing_circle:
-  return "figure.boxing.circle"
-case .figure_boxing_circle_fill:
-  return "figure.boxing.circle.fill"
-case .figure_climbing_circle:
-  return "figure.climbing.circle"
-case .figure_climbing_circle_fill:
-  return "figure.climbing.circle.fill"
-case .figure_cooldown_circle:
-  return "figure.cooldown.circle"
-case .figure_cooldown_circle_fill:
-  return "figure.cooldown.circle.fill"
-case .figure_core_training_circle:
-  return "figure.core.training.circle"
-case .figure_core_training_circle_fill:
-  return "figure.core.training.circle.fill"
-case .figure_cricket_circle:
-  return "figure.cricket.circle"
-case .figure_cricket_circle_fill:
-  return "figure.cricket.circle.fill"
-case .figure_skiing_crosscountry_circle:
-  return "figure.skiing.crosscountry.circle"
-case .figure_skiing_crosscountry_circle_fill:
-  return "figure.skiing.crosscountry.circle.fill"
-case .figure_cross_training_circle:
-  return "figure.cross.training.circle"
-case .figure_cross_training_circle_fill:
-  return "figure.cross.training.circle.fill"
-case .figure_curling_circle:
-  return "figure.curling.circle"
-case .figure_curling_circle_fill:
-  return "figure.curling.circle.fill"
-case .figure_dance_circle:
-  return "figure.dance.circle"
-case .figure_dance_circle_fill:
-  return "figure.dance.circle.fill"
-case .figure_disc_sports_circle:
-  return "figure.disc.sports.circle"
-case .figure_disc_sports_circle_fill:
-  return "figure.disc.sports.circle.fill"
-case .figure_skiing_downhill_circle:
-  return "figure.skiing.downhill.circle"
-case .figure_skiing_downhill_circle_fill:
-  return "figure.skiing.downhill.circle.fill"
-case .figure_elliptical_circle:
-  return "figure.elliptical.circle"
-case .figure_elliptical_circle_fill:
-  return "figure.elliptical.circle.fill"
-case .figure_equestrian_sports_circle:
-  return "figure.equestrian.sports.circle"
-case .figure_equestrian_sports_circle_fill:
-  return "figure.equestrian.sports.circle.fill"
-case .figure_fencing_circle:
-  return "figure.fencing.circle"
-case .figure_fencing_circle_fill:
-  return "figure.fencing.circle.fill"
-case .figure_fishing_circle:
-  return "figure.fishing.circle"
-case .figure_fishing_circle_fill:
-  return "figure.fishing.circle.fill"
-case .figure_flexibility_circle:
-  return "figure.flexibility.circle"
-case .figure_flexibility_circle_fill:
-  return "figure.flexibility.circle.fill"
-case .figure_strengthtraining_functional_circle:
-  return "figure.strengthtraining.functional.circle"
-case .figure_strengthtraining_functional_circle_fill:
-  return "figure.strengthtraining.functional.circle.fill"
-case .figure_golf_circle:
-  return "figure.golf.circle"
-case .figure_golf_circle_fill:
-  return "figure.golf.circle.fill"
-case .figure_gymnastics_circle:
-  return "figure.gymnastics.circle"
-case .figure_gymnastics_circle_fill:
-  return "figure.gymnastics.circle.fill"
-case .figure_hand_cycling_circle:
-  return "figure.hand.cycling.circle"
-case .figure_hand_cycling_circle_fill:
-  return "figure.hand.cycling.circle.fill"
-case .figure_handball_circle:
-  return "figure.handball.circle"
-case .figure_handball_circle_fill:
-  return "figure.handball.circle.fill"
-case .figure_highintensity_intervaltraining_circle:
-  return "figure.highintensity.intervaltraining.circle"
-case .figure_highintensity_intervaltraining_circle_fill:
-  return "figure.highintensity.intervaltraining.circle.fill"
-case .figure_hiking_circle:
-  return "figure.hiking.circle"
-case .figure_hiking_circle_fill:
-  return "figure.hiking.circle.fill"
-case .figure_hockey_circle:
-  return "figure.hockey.circle"
-case .figure_hockey_circle_fill:
-  return "figure.hockey.circle.fill"
-case .figure_field_hockey:
-  return "figure.field.hockey"
-case .figure_field_hockey_circle:
-  return "figure.field.hockey.circle"
-case .figure_field_hockey_circle_fill:
-  return "figure.field.hockey.circle.fill"
-case .figure_ice_hockey:
-  return "figure.ice.hockey"
-case .figure_ice_hockey_circle:
-  return "figure.ice.hockey.circle"
-case .figure_ice_hockey_circle_fill:
-  return "figure.ice.hockey.circle.fill"
-case .figure_hunting_circle:
-  return "figure.hunting.circle"
-case .figure_hunting_circle_fill:
-  return "figure.hunting.circle.fill"
-case .figure_indoor_cycle_circle:
-  return "figure.indoor.cycle.circle"
-case .figure_indoor_cycle_circle_fill:
-  return "figure.indoor.cycle.circle.fill"
-case .figure_jumprope_circle:
-  return "figure.jumprope.circle"
-case .figure_jumprope_circle_fill:
-  return "figure.jumprope.circle.fill"
-case .figure_kickboxing_circle:
-  return "figure.kickboxing.circle"
-case .figure_kickboxing_circle_fill:
-  return "figure.kickboxing.circle.fill"
-case .figure_lacrosse_circle:
-  return "figure.lacrosse.circle"
-case .figure_lacrosse_circle_fill:
-  return "figure.lacrosse.circle.fill"
-case .figure_martial_arts_circle:
-  return "figure.martial.arts.circle"
-case .figure_martial_arts_circle_fill:
-  return "figure.martial.arts.circle.fill"
-case .figure_mind_and_body_circle:
-  return "figure.mind.and.body.circle"
-case .figure_mind_and_body_circle_fill:
-  return "figure.mind.and.body.circle.fill"
-case .figure_mixed_cardio_circle:
-  return "figure.mixed.cardio.circle"
-case .figure_mixed_cardio_circle_fill:
-  return "figure.mixed.cardio.circle.fill"
-case .figure_open_water_swim_circle:
-  return "figure.open.water.swim.circle"
-case .figure_open_water_swim_circle_fill:
-  return "figure.open.water.swim.circle.fill"
-case .figure_outdoor_cycle_circle:
-  return "figure.outdoor.cycle.circle"
-case .figure_outdoor_cycle_circle_fill:
-  return "figure.outdoor.cycle.circle.fill"
-case .oar_2_crossed_circle:
-  return "oar.2.crossed.circle"
-case .oar_2_crossed_circle_fill:
-  return "oar.2.crossed.circle.fill"
-case .figure_pickleball_circle:
-  return "figure.pickleball.circle"
-case .figure_pickleball_circle_fill:
-  return "figure.pickleball.circle.fill"
-case .figure_pilates_circle:
-  return "figure.pilates.circle"
-case .figure_pilates_circle_fill:
-  return "figure.pilates.circle.fill"
-case .figure_play_circle:
-  return "figure.play.circle"
-case .figure_play_circle_fill:
-  return "figure.play.circle.fill"
-case .figure_pool_swim_circle:
-  return "figure.pool.swim.circle"
-case .figure_pool_swim_circle_fill:
-  return "figure.pool.swim.circle.fill"
-case .figure_racquetball_circle:
-  return "figure.racquetball.circle"
-case .figure_racquetball_circle_fill:
-  return "figure.racquetball.circle.fill"
-case .figure_rolling_circle:
-  return "figure.rolling.circle"
-case .figure_rolling_circle_fill:
-  return "figure.rolling.circle.fill"
-case .figure_indoor_rowing_circle:
-  return "figure.indoor.rowing.circle"
-case .figure_indoor_rowing_circle_fill:
-  return "figure.indoor.rowing.circle.fill"
-case .figure_outdoor_rowing:
-  return "figure.outdoor.rowing"
-case .figure_outdoor_rowing_circle:
-  return "figure.outdoor.rowing.circle"
-case .figure_outdoor_rowing_circle_fill:
-  return "figure.outdoor.rowing.circle.fill"
-case .figure_rugby_circle:
-  return "figure.rugby.circle"
-case .figure_rugby_circle_fill:
-  return "figure.rugby.circle.fill"
-case .figure_sailing_circle:
-  return "figure.sailing.circle"
-case .figure_sailing_circle_fill:
-  return "figure.sailing.circle.fill"
-case .figure_skateboarding_circle:
-  return "figure.skateboarding.circle"
-case .figure_skateboarding_circle_fill:
-  return "figure.skateboarding.circle.fill"
-case .figure_ice_skating:
-  return "figure.ice.skating"
-case .figure_ice_skating_circle:
-  return "figure.ice.skating.circle"
-case .figure_ice_skating_circle_fill:
-  return "figure.ice.skating.circle.fill"
-case .figure_snowboarding_circle:
-  return "figure.snowboarding.circle"
-case .figure_snowboarding_circle_fill:
-  return "figure.snowboarding.circle.fill"
-case .figure_indoor_soccer_circle:
-  return "figure.indoor.soccer.circle"
-case .figure_indoor_soccer_circle_fill:
-  return "figure.indoor.soccer.circle.fill"
-case .figure_outdoor_soccer:
-  return "figure.outdoor.soccer"
-case .figure_outdoor_soccer_circle:
-  return "figure.outdoor.soccer.circle"
-case .figure_outdoor_soccer_circle_fill:
-  return "figure.outdoor.soccer.circle.fill"
-case .figure_socialdance_circle:
-  return "figure.socialdance.circle"
-case .figure_socialdance_circle_fill:
-  return "figure.socialdance.circle.fill"
-case .figure_softball_circle:
-  return "figure.softball.circle"
-case .figure_softball_circle_fill:
-  return "figure.softball.circle.fill"
-case .figure_squash_circle:
-  return "figure.squash.circle"
-case .figure_squash_circle_fill:
-  return "figure.squash.circle.fill"
-case .figure_stair_stepper_circle:
-  return "figure.stair.stepper.circle"
-case .figure_stair_stepper_circle_fill:
-  return "figure.stair.stepper.circle.fill"
-case .figure_stairs_circle:
-  return "figure.stairs.circle"
-case .figure_stairs_circle_fill:
-  return "figure.stairs.circle.fill"
-case .figure_step_training_circle:
-  return "figure.step.training.circle"
-case .figure_step_training_circle_fill:
-  return "figure.step.training.circle.fill"
-case .figure_surfing_circle:
-  return "figure.surfing.circle"
-case .figure_surfing_circle_fill:
-  return "figure.surfing.circle.fill"
-case .figure_table_tennis_circle:
-  return "figure.table.tennis.circle"
-case .figure_table_tennis_circle_fill:
-  return "figure.table.tennis.circle.fill"
-case .figure_taichi_circle:
-  return "figure.taichi.circle"
-case .figure_taichi_circle_fill:
-  return "figure.taichi.circle.fill"
-case .figure_tennis_circle:
-  return "figure.tennis.circle"
-case .figure_tennis_circle_fill:
-  return "figure.tennis.circle.fill"
-case .figure_track_and_field_circle:
-  return "figure.track.and.field.circle"
-case .figure_track_and_field_circle_fill:
-  return "figure.track.and.field.circle.fill"
-case .figure_strengthtraining_traditional_circle:
-  return "figure.strengthtraining.traditional.circle"
-case .figure_strengthtraining_traditional_circle_fill:
-  return "figure.strengthtraining.traditional.circle.fill"
-case .figure_volleyball_circle:
-  return "figure.volleyball.circle"
-case .figure_volleyball_circle_fill:
-  return "figure.volleyball.circle.fill"
-case .figure_water_fitness_circle:
-  return "figure.water.fitness.circle"
-case .figure_water_fitness_circle_fill:
-  return "figure.water.fitness.circle.fill"
-case .figure_waterpolo_circle:
-  return "figure.waterpolo.circle"
-case .figure_waterpolo_circle_fill:
-  return "figure.waterpolo.circle.fill"
-case .figure_wrestling_circle:
-  return "figure.wrestling.circle"
-case .figure_wrestling_circle_fill:
-  return "figure.wrestling.circle.fill"
-case .figure_yoga_circle:
-  return "figure.yoga.circle"
-case .figure_yoga_circle_fill:
-  return "figure.yoga.circle.fill"
-case .baseball_diamond_bases_outs_indicator:
-  return "baseball.diamond.bases.outs.indicator"
-case .american_football_professional:
-  return "american.football.professional"
-case .american_football_professional_fill:
-  return "american.football.professional.fill"
-case .american_football_professional_circle:
-  return "american.football.professional.circle"
-case .american_football_professional_circle_fill:
-  return "american.football.professional.circle.fill"
-case .australian_football:
-  return "australian.football"
-case .australian_football_fill:
-  return "australian.football.fill"
-case .australian_football_circle:
-  return "australian.football.circle"
-case .australian_football_circle_fill:
-  return "australian.football.circle.fill"
-case .rugbyball:
-  return "rugbyball"
-case .rugbyball_fill:
-  return "rugbyball.fill"
-case .rugbyball_circle:
-  return "rugbyball.circle"
-case .rugbyball_circle_fill:
-  return "rugbyball.circle.fill"
-case .progress_indicator:
-  return "progress.indicator"
-case .beziercurve:
-  return "beziercurve"
-case .sun_lefthalf_filled:
-  return "sun.lefthalf.filled"
-case .sun_righthalf_filled:
-  return "sun.righthalf.filled"
-case .thermometer_variable:
-  return "thermometer.variable"
-case .degreesign_fahrenheit:
-  return "degreesign.fahrenheit"
-case .degreesign_celsius:
-  return "degreesign.celsius"
-case .fire_extinguisher:
-  return "fire.extinguisher"
-case .fire_extinguisher_fill:
-  return "fire.extinguisher.fill"
-case .speaker_wave_1_arrowtriangles_up_right_down_left:
-  return "speaker.wave.1.arrowtriangles.up.right.down.left"
-case .arrow_trianglehead_2_clockwise:
-  return "arrow.trianglehead.2.clockwise"
-case .arrow_trianglehead_2_counterclockwise:
-  return "arrow.trianglehead.2.counterclockwise"
-case .arrow_trianglehead_clockwise_rotate_90:
-  return "arrow.trianglehead.clockwise.rotate.90"
-case .malaysianringgitsign_arrow_trianglehead_counterclockwise_rotate_90:
-  return "malaysianringgitsign.arrow.trianglehead.counterclockwise.rotate.90"
-case .peruviansolessign_arrow_trianglehead_counterclockwise_rotate_90:
-  return "peruviansolessign.arrow.trianglehead.counterclockwise.rotate.90"
-case .singaporedollarsign_arrow_trianglehead_counterclockwise_rotate_90:
-  return "singaporedollarsign.arrow.trianglehead.counterclockwise.rotate.90"
-case .arrow_trianglehead_2_counterclockwise_rotate_90:
-  return "arrow.trianglehead.2.counterclockwise.rotate.90"
-case .arrow_trianglehead_bottomleft_capsulepath_clockwise:
-  return "arrow.trianglehead.bottomleft.capsulepath.clockwise"
-case .microphone_badge_ellipsis:
-  return "microphone.badge.ellipsis"
-case .microphone_badge_ellipsis_fill:
-  return "microphone.badge.ellipsis.fill"
-case .questionmark_circle_dashed:
-  return "questionmark.circle.dashed"
-case .app_badge_clock:
-  return "app.badge.clock"
-case .app_badge_clock_fill:
-  return "app.badge.clock.fill"
-case .inset_filled_righthalf_lefthalf_rectangle:
-  return "inset.filled.righthalf.lefthalf.rectangle"
-case .inset_filled_lefthalf_righthalf_rectangle:
-  return "inset.filled.lefthalf.righthalf.rectangle"
-case .inset_filled_trailinghalf_leadinghalf_rectangle:
-  return "inset.filled.trailinghalf.leadinghalf.rectangle"
-case .inset_filled_leadinghalf_trailinghalf_rectangle:
-  return "inset.filled.leadinghalf.trailinghalf.rectangle"
-case .inset_filled_topleft_bottomleft_righthalf_rectangle:
-  return "inset.filled.topleft.bottomleft.righthalf.rectangle"
-case .inset_filled_lefthalf_topright_bottomright_rectangle:
-  return "inset.filled.lefthalf.topright.bottomright.rectangle"
-case .inset_filled_topleading_bottomleading_trailinghalf_rectangle:
-  return "inset.filled.topleading.bottomleading.trailinghalf.rectangle"
-case .inset_filled_leadinghalf_toptrailing_bottomtrailing_rectangle:
-  return "inset.filled.leadinghalf.toptrailing.bottomtrailing.rectangle"
-case .inset_filled_tophalf_bottomhalf_rectangle:
-  return "inset.filled.tophalf.bottomhalf.rectangle"
-case .inset_filled_bottomhalf_tophalf_rectangle:
-  return "inset.filled.bottomhalf.tophalf.rectangle"
-case .inset_filled_tophalf_bottomleft_bottomright_rectangle:
-  return "inset.filled.tophalf.bottomleft.bottomright.rectangle"
-case .inset_filled_topleft_topright_bottomhalf_rectangle:
-  return "inset.filled.topleft.topright.bottomhalf.rectangle"
-case .inset_filled_topleft_topright_bottomleft_bottomright_rectangle:
-  return "inset.filled.topleft.topright.bottomleft.bottomright.rectangle"
-case .arrow_up_left_and_arrow_down_right_rectangle:
-  return "arrow.up.left.and.arrow.down.right.rectangle"
-case .arrow_up_left_and_arrow_down_right_rectangle_fill:
-  return "arrow.up.left.and.arrow.down.right.rectangle.fill"
-case .arrow_up_backward_and_arrow_down_forward_rectangle:
-  return "arrow.up.backward.and.arrow.down.forward.rectangle"
-case .arrow_up_backward_and_arrow_down_forward_rectangle_fill:
-  return "arrow.up.backward.and.arrow.down.forward.rectangle.fill"
-case .arrow_down_left_and_arrow_up_right_rectangle:
-  return "arrow.down.left.and.arrow.up.right.rectangle"
-case .arrow_down_left_and_arrow_up_right_rectangle_fill:
-  return "arrow.down.left.and.arrow.up.right.rectangle.fill"
-case .arrow_down_backward_and_arrow_up_forward_rectangle:
-  return "arrow.down.backward.and.arrow.up.forward.rectangle"
-case .arrow_down_backward_and_arrow_up_forward_rectangle_fill:
-  return "arrow.down.backward.and.arrow.up.forward.rectangle.fill"
-case .arrow_down_right_and_arrow_up_left_rectangle:
-  return "arrow.down.right.and.arrow.up.left.rectangle"
-case .arrow_down_right_and_arrow_up_left_rectangle_fill:
-  return "arrow.down.right.and.arrow.up.left.rectangle.fill"
-case .arrow_down_forward_and_arrow_up_backward_rectangle:
-  return "arrow.down.forward.and.arrow.up.backward.rectangle"
-case .arrow_down_forward_and_arrow_up_backward_rectangle_fill:
-  return "arrow.down.forward.and.arrow.up.backward.rectangle.fill"
-case .arrow_up_forward_and_arrow_down_backward_rectangle:
-  return "arrow.up.forward.and.arrow.down.backward.rectangle"
-case .arrow_up_forward_and_arrow_down_backward_rectangle_fill:
-  return "arrow.up.forward.and.arrow.down.backward.rectangle.fill"
-case .rectangle_on_rectangle_dashed:
-  return "rectangle.on.rectangle.dashed"
-case .lock_rectangle_on_rectangle_dashed:
-  return "lock.rectangle.on.rectangle.dashed"
-case .rectangle_grid_3x3:
-  return "rectangle.grid.3x3"
-case .rectangle_grid_3x3_fill:
-  return "rectangle.grid.3x3.fill"
-case .capsule_on_capsule:
-  return "capsule.on.capsule"
-case .capsule_on_capsule_fill:
-  return "capsule.on.capsule.fill"
-case .capsule_on_rectangle:
-  return "capsule.on.rectangle"
-case .capsule_on_rectangle_fill:
-  return "capsule.on.rectangle.fill"
-case .location_app:
-  return "location.app"
-case .location_app_fill:
-  return "location.app.fill"
-case .squareroot:
-  return "squareroot"
-case .text_bubble_badge_clock:
-  return "text.bubble.badge.clock"
-case .text_bubble_badge_clock_fill:
-  return "text.bubble.badge.clock.fill"
-case .bubble_and_pencil:
-  return "bubble.and.pencil"
-case .phone_badge_clock:
-  return "phone.badge.clock"
-case .phone_badge_clock_fill:
-  return "phone.badge.clock.fill"
-case .envelope_front:
-  return "envelope.front"
-case .envelope_front_fill:
-  return "envelope.front.fill"
-case .apple_intelligence:
-  return "apple.intelligence"
-case .apple_image_playground:
-  return "apple.image.playground"
-case .apple_image_playground_fill:
-  return "apple.image.playground.fill"
-case .apple_haptics_and_music_note:
-  return "apple.haptics.and.music.note"
-case .apple_haptics_and_music_note_slash:
-  return "apple.haptics.and.music.note.slash"
-case .apple_haptics_and_exclamationmark_triangle:
-  return "apple.haptics.and.exclamationmark.triangle"
-case .cart_badge_clock:
-  return "cart.badge.clock"
-case .cart_badge_clock_fill:
-  return "cart.badge.clock.fill"
-case .wallet_bifold:
-  return "wallet.bifold"
-case .wallet_bifold_fill:
-  return "wallet.bifold.fill"
-case .square_grid_3x3_square_badge_ellipsis:
-  return "square.grid.3x3.square.badge.ellipsis"
-case .inhaler:
-  return "inhaler"
-case .inhaler_fill:
-  return "inhaler.fill"
-case .printer_inverse:
-  return "printer.inverse"
-case .printer_filled_and_paper_inverse:
-  return "printer.filled.and.paper.inverse"
-case .printer_dotmatrix_inverse:
-  return "printer.dotmatrix.inverse"
-case .printer_dotmatrix_filled_and_paper_inverse:
-  return "printer.dotmatrix.filled.and.paper.inverse"
-case .matter_logo:
-  return "matter.logo"
-case .house_slash:
-  return "house.slash"
-case .house_slash_fill:
-  return "house.slash.fill"
-case .house_badge_exclamationmark:
-  return "house.badge.exclamationmark"
-case .house_badge_exclamationmark_fill:
-  return "house.badge.exclamationmark.fill"
-case .house_badge_wifi:
-  return "house.badge.wifi"
-case .house_badge_wifi_fill:
-  return "house.badge.wifi.fill"
-case .australsign_gauge_chart_lefthalf_righthalf:
-  return "australsign.gauge.chart.lefthalf.righthalf"
-case .australiandollarsign_gauge_chart_lefthalf_righthalf:
-  return "australiandollarsign.gauge.chart.lefthalf.righthalf"
-case .bahtsign_gauge_chart_lefthalf_righthalf:
-  return "bahtsign.gauge.chart.lefthalf.righthalf"
-case .bitcoinsign_gauge_chart_lefthalf_righthalf:
-  return "bitcoinsign.gauge.chart.lefthalf.righthalf"
-case .brazilianrealsign_gauge_chart_lefthalf_righthalf:
-  return "brazilianrealsign.gauge.chart.lefthalf.righthalf"
-case .cedisign_gauge_chart_lefthalf_righthalf:
-  return "cedisign.gauge.chart.lefthalf.righthalf"
-case .centsign_gauge_chart_lefthalf_righthalf:
-  return "centsign.gauge.chart.lefthalf.righthalf"
-case .chineseyuanrenminbisign_gauge_chart_lefthalf_righthalf:
-  return "chineseyuanrenminbisign.gauge.chart.lefthalf.righthalf"
-case .coloncurrencysign_gauge_chart_lefthalf_righthalf:
-  return "coloncurrencysign.gauge.chart.lefthalf.righthalf"
-case .cruzeirosign_gauge_chart_lefthalf_righthalf:
-  return "cruzeirosign.gauge.chart.lefthalf.righthalf"
-case .danishkronesign_gauge_chart_lefthalf_righthalf:
-  return "danishkronesign.gauge.chart.lefthalf.righthalf"
-case .dongsign_gauge_chart_lefthalf_righthalf:
-  return "dongsign.gauge.chart.lefthalf.righthalf"
-case .dollarsign_gauge_chart_lefthalf_righthalf:
-  return "dollarsign.gauge.chart.lefthalf.righthalf"
-case .eurosign_gauge_chart_lefthalf_righthalf:
-  return "eurosign.gauge.chart.lefthalf.righthalf"
-case .eurozonesign_gauge_chart_lefthalf_righthalf:
-  return "eurozonesign.gauge.chart.lefthalf.righthalf"
-case .florinsign_gauge_chart_lefthalf_righthalf:
-  return "florinsign.gauge.chart.lefthalf.righthalf"
-case .francsign_gauge_chart_lefthalf_righthalf:
-  return "francsign.gauge.chart.lefthalf.righthalf"
-case .guaranisign_gauge_chart_lefthalf_righthalf:
-  return "guaranisign.gauge.chart.lefthalf.righthalf"
-case .hryvniasign_gauge_chart_lefthalf_righthalf:
-  return "hryvniasign.gauge.chart.lefthalf.righthalf"
-case .indianrupeesign_gauge_chart_lefthalf_righthalf:
-  return "indianrupeesign.gauge.chart.lefthalf.righthalf"
-case .kipsign_gauge_chart_lefthalf_righthalf:
-  return "kipsign.gauge.chart.lefthalf.righthalf"
-case .larisign_gauge_chart_lefthalf_righthalf:
-  return "larisign.gauge.chart.lefthalf.righthalf"
-case .lirasign_gauge_chart_lefthalf_righthalf:
-  return "lirasign.gauge.chart.lefthalf.righthalf"
-case .manatsign_gauge_chart_lefthalf_righthalf:
-  return "manatsign.gauge.chart.lefthalf.righthalf"
-case .malaysianringgitsign_gauge_chart_lefthalf_righthalf:
-  return "malaysianringgitsign.gauge.chart.lefthalf.righthalf"
-case .millsign_gauge_chart_lefthalf_righthalf:
-  return "millsign.gauge.chart.lefthalf.righthalf"
-case .nairasign_gauge_chart_lefthalf_righthalf:
-  return "nairasign.gauge.chart.lefthalf.righthalf"
-case .norwegiankronesign_gauge_chart_lefthalf_righthalf:
-  return "norwegiankronesign.gauge.chart.lefthalf.righthalf"
-case .peruviansolessign_gauge_chart_lefthalf_righthalf:
-  return "peruviansolessign.gauge.chart.lefthalf.righthalf"
-case .pesetasign_gauge_chart_lefthalf_righthalf:
-  return "pesetasign.gauge.chart.lefthalf.righthalf"
-case .pesosign_gauge_chart_lefthalf_righthalf:
-  return "pesosign.gauge.chart.lefthalf.righthalf"
-case .polishzlotysign_gauge_chart_lefthalf_righthalf:
-  return "polishzlotysign.gauge.chart.lefthalf.righthalf"
-case .rublesign_gauge_chart_lefthalf_righthalf:
-  return "rublesign.gauge.chart.lefthalf.righthalf"
-case .rupeesign_gauge_chart_lefthalf_righthalf:
-  return "rupeesign.gauge.chart.lefthalf.righthalf"
-case .shekelsign_gauge_chart_lefthalf_righthalf:
-  return "shekelsign.gauge.chart.lefthalf.righthalf"
-case .singaporedollarsign_gauge_chart_lefthalf_righthalf:
-  return "singaporedollarsign.gauge.chart.lefthalf.righthalf"
-case .sterlingsign_gauge_chart_lefthalf_righthalf:
-  return "sterlingsign.gauge.chart.lefthalf.righthalf"
-case .swedishkronasign_gauge_chart_lefthalf_righthalf:
-  return "swedishkronasign.gauge.chart.lefthalf.righthalf"
-case .tengesign_gauge_chart_lefthalf_righthalf:
-  return "tengesign.gauge.chart.lefthalf.righthalf"
-case .tugriksign_gauge_chart_lefthalf_righthalf:
-  return "tugriksign.gauge.chart.lefthalf.righthalf"
-case .turkishlirasign_gauge_chart_lefthalf_righthalf:
-  return "turkishlirasign.gauge.chart.lefthalf.righthalf"
-case .yensign_gauge_chart_lefthalf_righthalf:
-  return "yensign.gauge.chart.lefthalf.righthalf"
-case .wonsign_gauge_chart_lefthalf_righthalf:
-  return "wonsign.gauge.chart.lefthalf.righthalf"
-case .australsign_gauge_chart_leftthird_topthird_rightthird:
-  return "australsign.gauge.chart.leftthird.topthird.rightthird"
-case .australiandollarsign_gauge_chart_leftthird_topthird_rightthird:
-  return "australiandollarsign.gauge.chart.leftthird.topthird.rightthird"
-case .bahtsign_gauge_chart_leftthird_topthird_rightthird:
-  return "bahtsign.gauge.chart.leftthird.topthird.rightthird"
-case .bitcoinsign_gauge_chart_leftthird_topthird_rightthird:
-  return "bitcoinsign.gauge.chart.leftthird.topthird.rightthird"
-case .brazilianrealsign_gauge_chart_leftthird_topthird_rightthird:
-  return "brazilianrealsign.gauge.chart.leftthird.topthird.rightthird"
-case .cedisign_gauge_chart_leftthird_topthird_rightthird:
-  return "cedisign.gauge.chart.leftthird.topthird.rightthird"
-case .centsign_gauge_chart_leftthird_topthird_rightthird:
-  return "centsign.gauge.chart.leftthird.topthird.rightthird"
-case .chineseyuanrenminbisign_gauge_chart_leftthird_topthird_rightthird:
-  return "chineseyuanrenminbisign.gauge.chart.leftthird.topthird.rightthird"
-case .coloncurrencysign_gauge_chart_leftthird_topthird_rightthird:
-  return "coloncurrencysign.gauge.chart.leftthird.topthird.rightthird"
-case .cruzeirosign_gauge_chart_leftthird_topthird_rightthird:
-  return "cruzeirosign.gauge.chart.leftthird.topthird.rightthird"
-case .danishkronesign_gauge_chart_leftthird_topthird_rightthird:
-  return "danishkronesign.gauge.chart.leftthird.topthird.rightthird"
-case .dongsign_gauge_chart_leftthird_topthird_rightthird:
-  return "dongsign.gauge.chart.leftthird.topthird.rightthird"
-case .dollarsign_gauge_chart_leftthird_topthird_rightthird:
-  return "dollarsign.gauge.chart.leftthird.topthird.rightthird"
-case .eurosign_gauge_chart_leftthird_topthird_rightthird:
-  return "eurosign.gauge.chart.leftthird.topthird.rightthird"
-case .eurozonesign_gauge_chart_leftthird_topthird_rightthird:
-  return "eurozonesign.gauge.chart.leftthird.topthird.rightthird"
-case .florinsign_gauge_chart_leftthird_topthird_rightthird:
-  return "florinsign.gauge.chart.leftthird.topthird.rightthird"
-case .francsign_gauge_chart_leftthird_topthird_rightthird:
-  return "francsign.gauge.chart.leftthird.topthird.rightthird"
-case .guaranisign_gauge_chart_leftthird_topthird_rightthird:
-  return "guaranisign.gauge.chart.leftthird.topthird.rightthird"
-case .hryvniasign_gauge_chart_leftthird_topthird_rightthird:
-  return "hryvniasign.gauge.chart.leftthird.topthird.rightthird"
-case .indianrupeesign_gauge_chart_leftthird_topthird_rightthird:
-  return "indianrupeesign.gauge.chart.leftthird.topthird.rightthird"
-case .kipsign_gauge_chart_leftthird_topthird_rightthird:
-  return "kipsign.gauge.chart.leftthird.topthird.rightthird"
-case .larisign_gauge_chart_leftthird_topthird_rightthird:
-  return "larisign.gauge.chart.leftthird.topthird.rightthird"
-case .lirasign_gauge_chart_leftthird_topthird_rightthird:
-  return "lirasign.gauge.chart.leftthird.topthird.rightthird"
-case .manatsign_gauge_chart_leftthird_topthird_rightthird:
-  return "manatsign.gauge.chart.leftthird.topthird.rightthird"
-case .malaysianringgitsign_gauge_chart_leftthird_topthird_rightthird:
-  return "malaysianringgitsign.gauge.chart.leftthird.topthird.rightthird"
-case .millsign_gauge_chart_leftthird_topthird_rightthird:
-  return "millsign.gauge.chart.leftthird.topthird.rightthird"
-case .nairasign_gauge_chart_leftthird_topthird_rightthird:
-  return "nairasign.gauge.chart.leftthird.topthird.rightthird"
-case .norwegiankronesign_gauge_chart_leftthird_topthird_rightthird:
-  return "norwegiankronesign.gauge.chart.leftthird.topthird.rightthird"
-case .peruviansolessign_gauge_chart_leftthird_topthird_rightthird:
-  return "peruviansolessign.gauge.chart.leftthird.topthird.rightthird"
-case .pesetasign_gauge_chart_leftthird_topthird_rightthird:
-  return "pesetasign.gauge.chart.leftthird.topthird.rightthird"
-case .pesosign_gauge_chart_leftthird_topthird_rightthird:
-  return "pesosign.gauge.chart.leftthird.topthird.rightthird"
-case .polishzlotysign_gauge_chart_leftthird_topthird_rightthird:
-  return "polishzlotysign.gauge.chart.leftthird.topthird.rightthird"
-case .rublesign_gauge_chart_leftthird_topthird_rightthird:
-  return "rublesign.gauge.chart.leftthird.topthird.rightthird"
-case .rupeesign_gauge_chart_leftthird_topthird_rightthird:
-  return "rupeesign.gauge.chart.leftthird.topthird.rightthird"
-case .shekelsign_gauge_chart_leftthird_topthird_rightthird:
-  return "shekelsign.gauge.chart.leftthird.topthird.rightthird"
-case .singaporedollarsign_gauge_chart_leftthird_topthird_rightthird:
-  return "singaporedollarsign.gauge.chart.leftthird.topthird.rightthird"
-case .sterlingsign_gauge_chart_leftthird_topthird_rightthird:
-  return "sterlingsign.gauge.chart.leftthird.topthird.rightthird"
-case .swedishkronasign_gauge_chart_leftthird_topthird_rightthird:
-  return "swedishkronasign.gauge.chart.leftthird.topthird.rightthird"
-case .tengesign_gauge_chart_leftthird_topthird_rightthird:
-  return "tengesign.gauge.chart.leftthird.topthird.rightthird"
-case .tugriksign_gauge_chart_leftthird_topthird_rightthird:
-  return "tugriksign.gauge.chart.leftthird.topthird.rightthird"
-case .turkishlirasign_gauge_chart_leftthird_topthird_rightthird:
-  return "turkishlirasign.gauge.chart.leftthird.topthird.rightthird"
-case .yensign_gauge_chart_leftthird_topthird_rightthird:
-  return "yensign.gauge.chart.leftthird.topthird.rightthird"
-case .wonsign_gauge_chart_leftthird_topthird_rightthird:
-  return "wonsign.gauge.chart.leftthird.topthird.rightthird"
-case .australsign_ring_dashed:
-  return "australsign.ring.dashed"
-case .australiandollarsign_ring_dashed:
-  return "australiandollarsign.ring.dashed"
-case .bahtsign_ring_dashed:
-  return "bahtsign.ring.dashed"
-case .bitcoinsign_ring_dashed:
-  return "bitcoinsign.ring.dashed"
-case .brazilianrealsign_ring_dashed:
-  return "brazilianrealsign.ring.dashed"
-case .cedisign_ring_dashed:
-  return "cedisign.ring.dashed"
-case .centsign_ring_dashed:
-  return "centsign.ring.dashed"
-case .chineseyuanrenminbisign_ring_dashed:
-  return "chineseyuanrenminbisign.ring.dashed"
-case .coloncurrencysign_ring_dashed:
-  return "coloncurrencysign.ring.dashed"
-case .cruzeirosign_ring_dashed:
-  return "cruzeirosign.ring.dashed"
-case .danishkronesign_ring_dashed:
-  return "danishkronesign.ring.dashed"
-case .dongsign_ring_dashed:
-  return "dongsign.ring.dashed"
-case .dollarsign_ring_dashed:
-  return "dollarsign.ring.dashed"
-case .eurosign_ring_dashed:
-  return "eurosign.ring.dashed"
-case .eurozonesign_ring_dashed:
-  return "eurozonesign.ring.dashed"
-case .florinsign_ring_dashed:
-  return "florinsign.ring.dashed"
-case .francsign_ring_dashed:
-  return "francsign.ring.dashed"
-case .guaranisign_ring_dashed:
-  return "guaranisign.ring.dashed"
-case .hryvniasign_ring_dashed:
-  return "hryvniasign.ring.dashed"
-case .indianrupeesign_ring_dashed:
-  return "indianrupeesign.ring.dashed"
-case .kipsign_ring_dashed:
-  return "kipsign.ring.dashed"
-case .larisign_ring_dashed:
-  return "larisign.ring.dashed"
-case .lirasign_ring_dashed:
-  return "lirasign.ring.dashed"
-case .manatsign_ring_dashed:
-  return "manatsign.ring.dashed"
-case .malaysianringgitsign_ring_dashed:
-  return "malaysianringgitsign.ring.dashed"
-case .millsign_ring_dashed:
-  return "millsign.ring.dashed"
-case .nairasign_ring_dashed:
-  return "nairasign.ring.dashed"
-case .norwegiankronesign_ring_dashed:
-  return "norwegiankronesign.ring.dashed"
-case .peruviansolessign_ring_dashed:
-  return "peruviansolessign.ring.dashed"
-case .pesetasign_ring_dashed:
-  return "pesetasign.ring.dashed"
-case .pesosign_ring_dashed:
-  return "pesosign.ring.dashed"
-case .polishzlotysign_ring_dashed:
-  return "polishzlotysign.ring.dashed"
-case .rublesign_ring_dashed:
-  return "rublesign.ring.dashed"
-case .rupeesign_ring_dashed:
-  return "rupeesign.ring.dashed"
-case .shekelsign_ring_dashed:
-  return "shekelsign.ring.dashed"
-case .singaporedollarsign_ring_dashed:
-  return "singaporedollarsign.ring.dashed"
-case .sterlingsign_ring_dashed:
-  return "sterlingsign.ring.dashed"
-case .swedishkronasign_ring_dashed:
-  return "swedishkronasign.ring.dashed"
-case .tengesign_ring_dashed:
-  return "tengesign.ring.dashed"
-case .tugriksign_ring_dashed:
-  return "tugriksign.ring.dashed"
-case .turkishlirasign_ring_dashed:
-  return "turkishlirasign.ring.dashed"
-case .yensign_ring_dashed:
-  return "yensign.ring.dashed"
-case .wonsign_ring_dashed:
-  return "wonsign.ring.dashed"
-case .australsign_ring:
-  return "australsign.ring"
-case .australiandollarsign_ring:
-  return "australiandollarsign.ring"
-case .bahtsign_ring:
-  return "bahtsign.ring"
-case .bitcoinsign_ring:
-  return "bitcoinsign.ring"
-case .brazilianrealsign_ring:
-  return "brazilianrealsign.ring"
-case .cedisign_ring:
-  return "cedisign.ring"
-case .centsign_ring:
-  return "centsign.ring"
-case .chineseyuanrenminbisign_ring:
-  return "chineseyuanrenminbisign.ring"
-case .coloncurrencysign_ring:
-  return "coloncurrencysign.ring"
-case .cruzeirosign_ring:
-  return "cruzeirosign.ring"
-case .danishkronesign_ring:
-  return "danishkronesign.ring"
-case .dongsign_ring:
-  return "dongsign.ring"
-case .dollarsign_ring:
-  return "dollarsign.ring"
-case .eurosign_ring:
-  return "eurosign.ring"
-case .eurozonesign_ring:
-  return "eurozonesign.ring"
-case .florinsign_ring:
-  return "florinsign.ring"
-case .francsign_ring:
-  return "francsign.ring"
-case .guaranisign_ring:
-  return "guaranisign.ring"
-case .hryvniasign_ring:
-  return "hryvniasign.ring"
-case .indianrupeesign_ring:
-  return "indianrupeesign.ring"
-case .kipsign_ring:
-  return "kipsign.ring"
-case .larisign_ring:
-  return "larisign.ring"
-case .lirasign_ring:
-  return "lirasign.ring"
-case .manatsign_ring:
-  return "manatsign.ring"
-case .malaysianringgitsign_ring:
-  return "malaysianringgitsign.ring"
-case .millsign_ring:
-  return "millsign.ring"
-case .nairasign_ring:
-  return "nairasign.ring"
-case .norwegiankronesign_ring:
-  return "norwegiankronesign.ring"
-case .peruviansolessign_ring:
-  return "peruviansolessign.ring"
-case .pesetasign_ring:
-  return "pesetasign.ring"
-case .pesosign_ring:
-  return "pesosign.ring"
-case .polishzlotysign_ring:
-  return "polishzlotysign.ring"
-case .rublesign_ring:
-  return "rublesign.ring"
-case .rupeesign_ring:
-  return "rupeesign.ring"
-case .shekelsign_ring:
-  return "shekelsign.ring"
-case .singaporedollarsign_ring:
-  return "singaporedollarsign.ring"
-case .sterlingsign_ring:
-  return "sterlingsign.ring"
-case .swedishkronasign_ring:
-  return "swedishkronasign.ring"
-case .tengesign_ring:
-  return "tengesign.ring"
-case .tugriksign_ring:
-  return "tugriksign.ring"
-case .turkishlirasign_ring:
-  return "turkishlirasign.ring"
-case .yensign_ring:
-  return "yensign.ring"
-case .wonsign_ring:
-  return "wonsign.ring"
-case .powerplug_portrait:
-  return "powerplug.portrait"
-case .powerplug_portrait_fill:
-  return "powerplug.portrait.fill"
-case .robotic_vacuum:
-  return "robotic.vacuum"
-case .robotic_vacuum_fill:
-  return "robotic.vacuum.fill"
-case .key_2_on_ring:
-  return "key.2.on.ring"
-case .key_2_on_ring_fill:
-  return "key.2.on.ring.fill"
-case .desktopcomputer_and_macbook:
-  return "desktopcomputer.and.macbook"
-case .macbook_slash:
-  return "macbook.slash"
-case .macbook_and_applewatch:
-  return "macbook.and.applewatch"
-case .iphone_gen1_crop_circle:
-  return "iphone.gen1.crop.circle"
-case .iphone_gen1_landscape_slash:
-  return "iphone.gen1.landscape.slash"
-case .iphone_gen1_badge_location:
-  return "iphone.gen1.badge.location"
-case .iphone_gen1_motion:
-  return "iphone.gen1.motion"
-case .iphone_gen1_and_arrow_left:
-  return "iphone.gen1.and.arrow.left"
-case .iphone_gen2_crop_circle:
-  return "iphone.gen2.crop.circle"
-case .iphone_gen2_landscape_slash:
-  return "iphone.gen2.landscape.slash"
-case .iphone_gen2_badge_location:
-  return "iphone.gen2.badge.location"
-case .iphone_gen2_motion:
-  return "iphone.gen2.motion"
-case .iphone_gen2_and_arrow_left_and_arrow_right_inward:
-  return "iphone.gen2.and.arrow.left.and.arrow.right.inward"
-case .iphone_gen3_crop_circle:
-  return "iphone.gen3.crop.circle"
-case .iphone_gen3_landscape_slash:
-  return "iphone.gen3.landscape.slash"
-case .iphone_gen3_badge_location:
-  return "iphone.gen3.badge.location"
-case .iphone_gen3_motion:
-  return "iphone.gen3.motion"
-case .iphone_gen3_and_arrow_left_and_arrow_right_inward:
-  return "iphone.gen3.and.arrow.left.and.arrow.right.inward"
-case .iphone_crop_circle:
-  return "iphone.crop.circle"
-case .iphone_badge_location:
-  return "iphone.badge.location"
-case .iphone_motion:
-  return "iphone.motion"
-case .iphone_and_arrow_right_inward:
-  return "iphone.and.arrow.right.inward"
-case .iphone_and_arrow_right_outward:
-  return "iphone.and.arrow.right.outward"
-case .iphone_and_arrow_forward_outward:
-  return "iphone.and.arrow.forward.outward"
-case .iphone_app_switcher:
-  return "iphone.app.switcher"
-case .ipad_gen1_slash:
-  return "ipad.gen1.slash"
-case .ipad_gen1_badge_location:
-  return "ipad.gen1.badge.location"
-case .ipad_gen1_landscape_slash:
-  return "ipad.gen1.landscape.slash"
-case .ipad_gen1_landscape_badge_location:
-  return "ipad.gen1.landscape.badge.location"
-case .ipad_gen2_slash:
-  return "ipad.gen2.slash"
-case .ipad_gen2_badge_location:
-  return "ipad.gen2.badge.location"
-case .ipad_gen2_landscape_slash:
-  return "ipad.gen2.landscape.slash"
-case .ipad_gen2_landscape_badge_location:
-  return "ipad.gen2.landscape.badge.location"
-case .ipad_badge_location:
-  return "ipad.badge.location"
-case .ipad_landscape_badge_location:
-  return "ipad.landscape.badge.location"
-case .applewatch_case_sizes:
-  return "applewatch.case.sizes"
-case .vision_pro_trianglebadge_exclamationmark:
-  return "vision.pro.trianglebadge.exclamationmark"
-case .vision_pro_trianglebadge_exclamationmark_fill:
-  return "vision.pro.trianglebadge.exclamationmark.fill"
-case .applepencil_hover:
-  return "applepencil.hover"
-case .applepencil_squeeze:
-  return "applepencil.squeeze"
-case .applepencil_doubletap:
-  return "applepencil.doubletap"
-case .headphones_slash:
-  return "headphones.slash"
-case .headset:
-  return "headset"
-case .headset_circle:
-  return "headset.circle"
-case .headset_circle_fill:
-  return "headset.circle.fill"
-case .homepod_mini_arrow_forward:
-  return "homepod.mini.arrow.forward"
-case .homepod_mini_arrow_forward_fill:
-  return "homepod.mini.arrow.forward.fill"
-case .homepod_mini_badge_plus:
-  return "homepod.mini.badge.plus"
-case .homepod_mini_badge_plus_fill:
-  return "homepod.mini.badge.plus.fill"
-case .homepod_mini_badge_minus:
-  return "homepod.mini.badge.minus"
-case .homepod_mini_badge_minus_fill:
-  return "homepod.mini.badge.minus.fill"
-case .homepod_mini_2_badge_plus:
-  return "homepod.mini.2.badge.plus"
-case .homepod_mini_2_badge_plus_fill:
-  return "homepod.mini.2.badge.plus.fill"
-case .homepod_mini_2_badge_minus:
-  return "homepod.mini.2.badge.minus"
-case .homepod_mini_2_badge_minus_fill:
-  return "homepod.mini.2.badge.minus.fill"
-case .homepod_and_homepod_mini_badge_plus:
-  return "homepod.and.homepod.mini.badge.plus"
-case .homepod_and_homepod_mini_badge_plus_fill:
-  return "homepod.and.homepod.mini.badge.plus.fill"
-case .homepod_and_homepod_mini_badge_minus:
-  return "homepod.and.homepod.mini.badge.minus"
-case .homepod_and_homepod_mini_badge_minus_fill:
-  return "homepod.and.homepod.mini.badge.minus.fill"
-case .hifispeaker_and_homepod_mini_badge_plus:
-  return "hifispeaker.and.homepod.mini.badge.plus"
-case .hifispeaker_and_homepod_mini_badge_plus_fill:
-  return "hifispeaker.and.homepod.mini.badge.plus.fill"
-case .hifispeaker_and_homepod_mini_badge_minus:
-  return "hifispeaker.and.homepod.mini.badge.minus"
-case .hifispeaker_and_homepod_mini_badge_minus_fill:
-  return "hifispeaker.and.homepod.mini.badge.minus.fill"
-case .homepod_arrow_forward:
-  return "homepod.arrow.forward"
-case .homepod_arrow_forward_fill:
-  return "homepod.arrow.forward.fill"
-case .homepod_badge_plus:
-  return "homepod.badge.plus"
-case .homepod_badge_plus_fill:
-  return "homepod.badge.plus.fill"
-case .homepod_badge_minus:
-  return "homepod.badge.minus"
-case .homepod_badge_minus_fill:
-  return "homepod.badge.minus.fill"
-case .homepod_2_badge_plus:
-  return "homepod.2.badge.plus"
-case .homepod_2_badge_plus_fill:
-  return "homepod.2.badge.plus.fill"
-case .homepod_2_badge_minus:
-  return "homepod.2.badge.minus"
-case .homepod_2_badge_minus_fill:
-  return "homepod.2.badge.minus.fill"
-case .hifispeaker_and_homepod_badge_plus:
-  return "hifispeaker.and.homepod.badge.plus"
-case .hifispeaker_and_homepod_badge_plus_fill:
-  return "hifispeaker.and.homepod.badge.plus.fill"
-case .hifispeaker_and_homepod_badge_minus:
-  return "hifispeaker.and.homepod.badge.minus"
-case .hifispeaker_and_homepod_badge_minus_fill:
-  return "hifispeaker.and.homepod.badge.minus.fill"
-case .hifispeaker_arrow_forward:
-  return "hifispeaker.arrow.forward"
-case .hifispeaker_arrow_forward_fill:
-  return "hifispeaker.arrow.forward.fill"
-case .hifispeaker_badge_plus:
-  return "hifispeaker.badge.plus"
-case .hifispeaker_badge_plus_fill:
-  return "hifispeaker.badge.plus.fill"
-case .hifispeaker_badge_minus:
-  return "hifispeaker.badge.minus"
-case .hifispeaker_badge_minus_fill:
-  return "hifispeaker.badge.minus.fill"
-case .hifispeaker_2_badge_plus:
-  return "hifispeaker.2.badge.plus"
-case .hifispeaker_2_badge_plus_fill:
-  return "hifispeaker.2.badge.plus.fill"
-case .hifispeaker_2_badge_minus:
-  return "hifispeaker.2.badge.minus"
-case .hifispeaker_2_badge_minus_fill:
-  return "hifispeaker.2.badge.minus.fill"
-case .wave_3_up:
-  return "wave.3.up"
-case .wave_3_up_circle:
-  return "wave.3.up.circle"
-case .wave_3_up_circle_fill:
-  return "wave.3.up.circle.fill"
-case .wave_3_down:
-  return "wave.3.down"
-case .wave_3_down_circle:
-  return "wave.3.down.circle"
-case .wave_3_down_circle_fill:
-  return "wave.3.down.circle.fill"
-case .antenna_radiowaves_left_and_right_slash_circle:
-  return "antenna.radiowaves.left.and.right.slash.circle"
-case .antenna_radiowaves_left_and_right_slash_circle_fill:
-  return "antenna.radiowaves.left.and.right.slash.circle.fill"
-case .car_front_waves_left_and_right_and_up:
-  return "car.front.waves.left.and.right.and.up"
-case .car_front_waves_left_and_right_and_up_fill:
-  return "car.front.waves.left.and.right.and.up.fill"
-case .car_badge_gearshape:
-  return "car.badge.gearshape"
-case .car_badge_gearshape_fill:
-  return "car.badge.gearshape.fill"
-case .car_rear_and_tire_marks_off:
-  return "car.rear.and.tire.marks.off"
-case .drone:
-  return "drone"
-case .drone_fill:
-  return "drone.fill"
-case .wheelchair:
-  return "wheelchair"
-case .helmet:
-  return "helmet"
-case .helmet_fill:
-  return "helmet.fill"
-case .moped:
-  return "moped"
-case .moped_fill:
-  return "moped.fill"
-case .motorcycle:
-  return "motorcycle"
-case .motorcycle_fill:
-  return "motorcycle.fill"
-case .parkingsign_square:
-  return "parkingsign.square"
-case .parkingsign_square_fill:
-  return "parkingsign.square.fill"
-case .parkingsign_radiowaves_left_and_right_slash:
-  return "parkingsign.radiowaves.left.and.right.slash"
-case .parkingsign_radiowaves_down_right_off:
-  return "parkingsign.radiowaves.down.right.off"
-case .fuelpump_and_filter:
-  return "fuelpump.and.filter"
-case .oilcan_and_thermometer:
-  return "oilcan.and.thermometer"
-case .oilcan_and_thermometer_fill:
-  return "oilcan.and.thermometer.fill"
-case .figure_seated_seatbelt_left_drive_seats_3_3_3:
-  return "figure.seated.seatbelt.left.drive.seats.3.3.3"
-case .figure_seated_seatbelt_left_drive_seats_3_3_3_fill:
-  return "figure.seated.seatbelt.left.drive.seats.3.3.3.fill"
-case .figure_seated_seatbelt_left_drive_seats_2_3_3:
-  return "figure.seated.seatbelt.left.drive.seats.2.3.3"
-case .figure_seated_seatbelt_left_drive_seats_2_3_3_fill:
-  return "figure.seated.seatbelt.left.drive.seats.2.3.3.fill"
-case .figure_seated_seatbelt_left_drive_seats_2_3_2:
-  return "figure.seated.seatbelt.left.drive.seats.2.3.2"
-case .figure_seated_seatbelt_left_drive_seats_2_3_2_fill:
-  return "figure.seated.seatbelt.left.drive.seats.2.3.2.fill"
-case .figure_seated_seatbelt_left_drive_seats_2_2_2:
-  return "figure.seated.seatbelt.left.drive.seats.2.2.2"
-case .figure_seated_seatbelt_left_drive_seats_2_2_2_fill:
-  return "figure.seated.seatbelt.left.drive.seats.2.2.2.fill"
-case .figure_seated_seatbelt_left_drive_seats_2_2_3:
-  return "figure.seated.seatbelt.left.drive.seats.2.2.3"
-case .figure_seated_seatbelt_left_drive_seats_2_2_3_fill:
-  return "figure.seated.seatbelt.left.drive.seats.2.2.3.fill"
-case .figure_seated_seatbelt_left_drive_seats_3_3:
-  return "figure.seated.seatbelt.left.drive.seats.3.3"
-case .figure_seated_seatbelt_left_drive_seats_3_3_fill:
-  return "figure.seated.seatbelt.left.drive.seats.3.3.fill"
-case .figure_seated_seatbelt_left_drive_seats_2_3:
-  return "figure.seated.seatbelt.left.drive.seats.2.3"
-case .figure_seated_seatbelt_left_drive_seats_2_3_fill:
-  return "figure.seated.seatbelt.left.drive.seats.2.3.fill"
-case .figure_seated_seatbelt_left_drive_seats_2_2:
-  return "figure.seated.seatbelt.left.drive.seats.2.2"
-case .figure_seated_seatbelt_left_drive_seats_2_2_fill:
-  return "figure.seated.seatbelt.left.drive.seats.2.2.fill"
-case .figure_seated_seatbelt_left_drive_seats_1_2:
-  return "figure.seated.seatbelt.left.drive.seats.1.2"
-case .figure_seated_seatbelt_left_drive_seats_1_2_fill:
-  return "figure.seated.seatbelt.left.drive.seats.1.2.fill"
-case .figure_seated_seatbelt_left_drive_seats_1_1:
-  return "figure.seated.seatbelt.left.drive.seats.1.1"
-case .figure_seated_seatbelt_left_drive_seats_1_1_fill:
-  return "figure.seated.seatbelt.left.drive.seats.1.1.fill"
-case .figure_seated_seatbelt_left_drive_seats_3:
-  return "figure.seated.seatbelt.left.drive.seats.3"
-case .figure_seated_seatbelt_left_drive_seats_3_fill:
-  return "figure.seated.seatbelt.left.drive.seats.3.fill"
-case .figure_seated_seatbelt_left_drive_seats_2:
-  return "figure.seated.seatbelt.left.drive.seats.2"
-case .figure_seated_seatbelt_left_drive_seats_2_fill:
-  return "figure.seated.seatbelt.left.drive.seats.2.fill"
-case .figure_seated_seatbelt_left_drive_seats_1:
-  return "figure.seated.seatbelt.left.drive.seats.1"
-case .figure_seated_seatbelt_left_drive_seats_1_fill:
-  return "figure.seated.seatbelt.left.drive.seats.1.fill"
-case .figure_seated_side_right_airbag_on:
-  return "figure.seated.side.right.airbag.on"
-case .figure_seated_side_right_airbag_off:
-  return "figure.seated.side.right.airbag.off"
-case .figure_seated_side_right_airbag_on_2:
-  return "figure.seated.side.right.airbag.on.2"
-case .figure_seated_side_right_airbag_off_2:
-  return "figure.seated.side.right.airbag.off.2"
-case .figure_seated_side_right:
-  return "figure.seated.side.right"
-case .figure_seated_side_right_air_distribution_upper:
-  return "figure.seated.side.right.air.distribution.upper"
-case .figure_seated_side_right_air_distribution_lower:
-  return "figure.seated.side.right.air.distribution.lower"
-case .figure_seated_side_right_air_distribution_middle:
-  return "figure.seated.side.right.air.distribution.middle"
-case .figure_seated_side_right_air_distribution_middle_and_lower:
-  return "figure.seated.side.right.air.distribution.middle.and.lower"
-case .figure_seated_side_right_air_distribution_upper_angled_and_middle:
-  return "figure.seated.side.right.air.distribution.upper.angled.and.middle"
-case .figure_seated_side_right_air_distribution_upper_angled_and_lower_angled:
-  return "figure.seated.side.right.air.distribution.upper.angled.and.lower.angled"
-case .figure_seated_side_right_air_distribution_middle_and_lower_angled:
-  return "figure.seated.side.right.air.distribution.middle.and.lower.angled"
-case .figure_seated_side_right_air_distribution_upper_angled_and_middle_and_lower_angled:
-  return "figure.seated.side.right.air.distribution.upper.angled.and.middle.and.lower.angled"
-case .figure_seated_side_right_windshield_front_and_heat_waves:
-  return "figure.seated.side.right.windshield.front.and.heat.waves"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_upper_and_middle_and_lower:
-  return "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper.and.middle.and.lower"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_middle_and_lower:
-  return "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.middle.and.lower"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_upper_and_middle:
-  return "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper.and.middle"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_upper_and_lower:
-  return "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper.and.lower"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_upper:
-  return "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_lower:
-  return "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.lower"
-case .figure_seated_side_right_windshield_front_and_heat_waves_air_distribution_middle:
-  return "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.middle"
-case .figure_seated_side_left_steeringwheel:
-  return "figure.seated.side.left.steeringwheel"
-case .figure_seated_side_right_steeringwheel:
-  return "figure.seated.side.right.steeringwheel"
-case .figure_seated_side_right_automatic:
-  return "figure.seated.side.right.automatic"
-case .figure_seated_side_left_fan:
-  return "figure.seated.side.left.fan"
-case .figure_seated_side_right_fan:
-  return "figure.seated.side.right.fan"
-case .heat_waves_and_fan:
-  return "heat.waves.and.fan"
-case .car_rear_hazardsign:
-  return "car.rear.hazardsign"
-case .car_rear_hazardsign_fill:
-  return "car.rear.hazardsign.fill"
-case .thermometer_and_liquid_waves_snowflake:
-  return "thermometer.and.liquid.waves.snowflake"
-case .thermometer_and_liquid_waves_trianglebadge_exclamationmark:
-  return "thermometer.and.liquid.waves.trianglebadge.exclamationmark"
-case .steeringwheel_and_hands:
-  return "steeringwheel.and.hands"
-case .steeringwheel_arrow_trianglehead_counterclockwise_and_clockwise:
-  return "steeringwheel.arrow.trianglehead.counterclockwise.and.clockwise"
-case .tire:
-  return "tire"
-case .tire_badge_snowflake:
-  return "tire.badge.snowflake"
-case .tow_hitch:
-  return "tow.hitch"
-case .tow_hitch_fill:
-  return "tow.hitch.fill"
-case .tow_hitch_exclamationmark:
-  return "tow.hitch.exclamationmark"
-case .tow_hitch_exclamationmark_fill:
-  return "tow.hitch.exclamationmark.fill"
-case .car_side_front_open_crop:
-  return "car.side.front.open.crop"
-case .car_side_front_open_crop_fill:
-  return "car.side.front.open.crop.fill"
-case .car_side_rear_open_crop:
-  return "car.side.rear.open.crop"
-case .car_side_rear_open_crop_fill:
-  return "car.side.rear.open.crop.fill"
-case .car_side_rear_tow_hitch:
-  return "car.side.rear.tow.hitch"
-case .car_side_rear_tow_hitch_fill:
-  return "car.side.rear.tow.hitch.fill"
-case .car_side_rear_crop_trunk_partition:
-  return "car.side.rear.crop.trunk.partition"
-case .car_side_rear_crop_trunk_partition_fill:
-  return "car.side.rear.crop.trunk.partition.fill"
-case .car_side_roof_cargo_carrier:
-  return "car.side.roof.cargo.carrier"
-case .car_side_roof_cargo_carrier_fill:
-  return "car.side.roof.cargo.carrier.fill"
-case .car_side_roof_cargo_carrier_slash:
-  return "car.side.roof.cargo.carrier.slash"
-case .car_side_roof_cargo_carrier_slash_fill:
-  return "car.side.roof.cargo.carrier.slash.fill"
-case .air_car_side:
-  return "air.car.side"
-case .air_car_side_fill:
-  return "air.car.side.fill"
-case .wave_3_down_car_side:
-  return "wave.3.down.car.side"
-case .wave_3_down_car_side_fill:
-  return "wave.3.down.car.side.fill"
-case .suv_side_front_open_crop:
-  return "suv.side.front.open.crop"
-case .suv_side_front_open_crop_fill:
-  return "suv.side.front.open.crop.fill"
-case .suv_side_rear_open_crop:
-  return "suv.side.rear.open.crop"
-case .suv_side_rear_open_crop_fill:
-  return "suv.side.rear.open.crop.fill"
-case .suv_side_roof_cargo_carrier:
-  return "suv.side.roof.cargo.carrier"
-case .suv_side_roof_cargo_carrier_fill:
-  return "suv.side.roof.cargo.carrier.fill"
-case .suv_side_roof_cargo_carrier_slash:
-  return "suv.side.roof.cargo.carrier.slash"
-case .suv_side_roof_cargo_carrier_slash_fill:
-  return "suv.side.roof.cargo.carrier.slash.fill"
-case .air_suv_side:
-  return "air.suv.side"
-case .air_suv_side_fill:
-  return "air.suv.side.fill"
-case .wave_3_down_suv_side:
-  return "wave.3.down.suv.side"
-case .wave_3_down_suv_side_fill:
-  return "wave.3.down.suv.side.fill"
-case .truck_pickup_side_front_open_crop:
-  return "truck.pickup.side.front.open.crop"
-case .truck_pickup_side_front_open_crop_fill:
-  return "truck.pickup.side.front.open.crop.fill"
-case .truck_side_roof_cargo_carrier:
-  return "truck.side.roof.cargo.carrier"
-case .truck_side_roof_cargo_carrier_fill:
-  return "truck.side.roof.cargo.carrier.fill"
-case .truck_side_roof_cargo_carrier_slash:
-  return "truck.side.roof.cargo.carrier.slash"
-case .truck_side_roof_cargo_carrier_slash_fill:
-  return "truck.side.roof.cargo.carrier.slash.fill"
-case .air_pickup_side:
-  return "air.pickup.side"
-case .air_pickup_side_fill:
-  return "air.pickup.side.fill"
-case .wave_3_down_pickup_side:
-  return "wave.3.down.pickup.side"
-case .wave_3_down_pickup_side_fill:
-  return "wave.3.down.pickup.side.fill"
-case .convertible_side:
-  return "convertible.side"
-case .convertible_side_fill:
-  return "convertible.side.fill"
-case .convertible_side_front_open:
-  return "convertible.side.front.open"
-case .convertible_side_front_open_fill:
-  return "convertible.side.front.open.fill"
-case .convertible_side_front_open_crop:
-  return "convertible.side.front.open.crop"
-case .convertible_side_front_open_crop_fill:
-  return "convertible.side.front.open.crop.fill"
-case .convertible_side_air_circulate:
-  return "convertible.side.air.circulate"
-case .convertible_side_air_circulate_fill:
-  return "convertible.side.air.circulate.fill"
-case .convertible_side_air_fresh:
-  return "convertible.side.air.fresh"
-case .convertible_side_air_fresh_fill:
-  return "convertible.side.air.fresh.fill"
-case .convertible_side_and_exclamationmark:
-  return "convertible.side.and.exclamationmark"
-case .convertible_side_and_exclamationmark_fill:
-  return "convertible.side.and.exclamationmark.fill"
-case .convertible_side_arrowtriangle_up_arrowtriangle_down:
-  return "convertible.side.arrowtriangle.up.arrowtriangle.down"
-case .convertible_side_arrowtriangle_up_arrowtriangle_down_fill:
-  return "convertible.side.arrowtriangle.up.arrowtriangle.down.fill"
-case .convertible_side_arrowtriangle_up:
-  return "convertible.side.arrowtriangle.up"
-case .convertible_side_arrowtriangle_up_fill:
-  return "convertible.side.arrowtriangle.up.fill"
-case .convertible_side_arrowtriangle_down:
-  return "convertible.side.arrowtriangle.down"
-case .convertible_side_arrowtriangle_down_fill:
-  return "convertible.side.arrowtriangle.down.fill"
-case .convertible_side_lock:
-  return "convertible.side.lock"
-case .convertible_side_lock_fill:
-  return "convertible.side.lock.fill"
-case .convertible_side_lock_open:
-  return "convertible.side.lock.open"
-case .convertible_side_lock_open_fill:
-  return "convertible.side.lock.open.fill"
-case .air_convertible_side:
-  return "air.convertible.side"
-case .air_convertible_side_fill:
-  return "air.convertible.side.fill"
-case .wave_3_down_convertible_side:
-  return "wave.3.down.convertible.side"
-case .wave_3_down_convertible_side_fill:
-  return "wave.3.down.convertible.side.fill"
-case .convertible_side_arrow_trianglehead_forward:
-  return "convertible.side.arrow.trianglehead.forward"
-case .convertible_side_arrow_trianglehead_forward_fill:
-  return "convertible.side.arrow.trianglehead.forward.fill"
-case .convertible_side_arrow_trianglehead_backward:
-  return "convertible.side.arrow.trianglehead.backward"
-case .convertible_side_arrow_trianglehead_backward_fill:
-  return "convertible.side.arrow.trianglehead.backward.fill"
-case .convertible_side_arrow_trianglehead_forward_and_backward:
-  return "convertible.side.arrow.trianglehead.forward.and.backward"
-case .convertible_side_arrow_trianglehead_forward_and_backward_fill:
-  return "convertible.side.arrow.trianglehead.forward.and.backward.fill"
-case .convertible_side_hill_up:
-  return "convertible.side.hill.up"
-case .convertible_side_hill_up_fill:
-  return "convertible.side.hill.up.fill"
-case .convertible_side_hill_down:
-  return "convertible.side.hill.down"
-case .convertible_side_hill_down_fill:
-  return "convertible.side.hill.down.fill"
-case .car_side_hill_descent_control:
-  return "car.side.hill.descent.control"
-case .car_side_hill_descent_control_fill:
-  return "car.side.hill.descent.control.fill"
-case .suv_side_hill_descent_control:
-  return "suv.side.hill.descent.control"
-case .suv_side_hill_descent_control_fill:
-  return "suv.side.hill.descent.control.fill"
-case .truck_side_hill_descent_control:
-  return "truck.side.hill.descent.control"
-case .truck_side_hill_descent_control_fill:
-  return "truck.side.hill.descent.control.fill"
-case .convertible_side_hill_descent_control:
-  return "convertible.side.hill.descent.control"
-case .convertible_side_hill_descent_control_fill:
-  return "convertible.side.hill.descent.control.fill"
-case .car_side_rear_and_exclamationmark_and_car_side_front_off:
-  return "car.side.rear.and.exclamationmark.and.car.side.front.off"
-case .car_top_video_rear_left:
-  return "car.top.video.rear.left"
-case .car_top_video_rear_left_fill:
-  return "car.top.video.rear.left.fill"
-case .car_top_video_rear_right:
-  return "car.top.video.rear.right"
-case .car_top_video_rear_right_fill:
-  return "car.top.video.rear.right.fill"
-case .car_top_radiowaves_rear_right_car_top_front:
-  return "car.top.radiowaves.rear.right.car.top.front"
-case .car_top_radiowaves_rear_right_car_top_front_fill:
-  return "car.top.radiowaves.rear.right.car.top.front.fill"
-case .car_top_radiowaves_rear_left_car_top_front:
-  return "car.top.radiowaves.rear.left.car.top.front"
-case .car_top_radiowaves_rear_left_car_top_front_fill:
-  return "car.top.radiowaves.rear.left.car.top.front.fill"
-case .car_top_front_radiowaves_front_left_and_front_and_front_right:
-  return "car.top.front.radiowaves.front.left.and.front.and.front.right"
-case .car_top_front_radiowaves_front_left_and_front_and_front_right_fill:
-  return "car.top.front.radiowaves.front.left.and.front.and.front.right.fill"
-case .car_top_rear_radiowaves_rear_left_and_rear_and_rear_right:
-  return "car.top.rear.radiowaves.rear.left.and.rear.and.rear.right"
-case .car_top_rear_radiowaves_rear_left_and_rear_and_rear_right_fill:
-  return "car.top.rear.radiowaves.rear.left.and.rear.and.rear.right.fill"
-case .suspension_shock:
-  return "suspension.shock"
-case .key_card:
-  return "key.card"
-case .key_card_fill:
-  return "key.card.fill"
-case .key_car_radiowaves_forward:
-  return "key.car.radiowaves.forward"
-case .key_car_radiowaves_forward_fill:
-  return "key.car.radiowaves.forward.fill"
-case .fluid_batteryblock:
-  return "fluid.batteryblock"
-case .batteryblock_stack:
-  return "batteryblock.stack"
-case .batteryblock_stack_fill:
-  return "batteryblock.stack.fill"
-case .batteryblock_stack_badge_snowflake:
-  return "batteryblock.stack.badge.snowflake"
-case .batteryblock_stack_badge_snowflake_fill:
-  return "batteryblock.stack.badge.snowflake.fill"
-case .batteryblock_stack_trianglebadge_exclamationmark:
-  return "batteryblock.stack.trianglebadge.exclamationmark"
-case .batteryblock_stack_trianglebadge_exclamationmark_fill:
-  return "batteryblock.stack.trianglebadge.exclamationmark.fill"
-case .fluid_coolant:
-  return "fluid.coolant"
-case .moon_road_lanes:
-  return "moon.road.lanes"
-case .car_rear_tilt_road_lanes_curved_right:
-  return "car.rear.tilt.road.lanes.curved.right"
-case .car_rear_road_lane_off:
-  return "car.rear.road.lane.off"
-case .car_rear_road_lane_wave_up:
-  return "car.rear.road.lane.wave.up"
-case .car_rear_road_lane_distance_1:
-  return "car.rear.road.lane.distance.1"
-case .car_rear_road_lane_distance_2:
-  return "car.rear.road.lane.distance.2"
-case .car_rear_road_lane_distance_3:
-  return "car.rear.road.lane.distance.3"
-case .car_rear_road_lane_distance_4:
-  return "car.rear.road.lane.distance.4"
-case .car_rear_road_lane_distance_5:
-  return "car.rear.road.lane.distance.5"
-case .car_rear_road_lane_distance_1_and_gauge_open_with_lines_needle_67percent_and_arrowtriangle:
-  return "car.rear.road.lane.distance.1.and.gauge.open.with.lines.needle.67percent.and.arrowtriangle"
-case .car_rear_road_lane_distance_2_and_gauge_open_with_lines_needle_67percent_and_arrowtriangle:
-  return "car.rear.road.lane.distance.2.and.gauge.open.with.lines.needle.67percent.and.arrowtriangle"
-case .car_rear_road_lane_distance_3_and_gauge_open_with_lines_needle_67percent_and_arrowtriangle:
-  return "car.rear.road.lane.distance.3.and.gauge.open.with.lines.needle.67percent.and.arrowtriangle"
-case .car_rear_road_lane_distance_4_and_gauge_open_with_lines_needle_67percent_and_arrowtriangle:
-  return "car.rear.road.lane.distance.4.and.gauge.open.with.lines.needle.67percent.and.arrowtriangle"
-case .car_rear_road_lane_distance_5_and_gauge_open_with_lines_needle_67percent_and_arrowtriangle:
-  return "car.rear.road.lane.distance.5.and.gauge.open.with.lines.needle.67percent.and.arrowtriangle"
-case .tachometer:
-  return "tachometer"
-case .powermeter:
-  return "powermeter"
-case .arrow_right_filled_filter_arrow_right:
-  return "arrow.right.filled.filter.arrow.right"
-case .engine_emission_and_filter:
-  return "engine.emission.and.filter"
-case .engine_emission_and_exclamationmark:
-  return "engine.emission.and.exclamationmark"
-case .tsa:
-  return "tsa"
-case .tsa_circle:
-  return "tsa.circle"
-case .tsa_circle_fill:
-  return "tsa.circle.fill"
-case .tsa_slash:
-  return "tsa.slash"
-case .mecca:
-  return "mecca"
-case .apple_meditate_circle:
-  return "apple.meditate.circle"
-case .apple_meditate_circle_fill:
-  return "apple.meditate.circle.fill"
-case .ladybug_slash:
-  return "ladybug.slash"
-case .ladybug_slash_fill:
-  return "ladybug.slash.fill"
-case .ladybug_slash_circle:
-  return "ladybug.slash.circle"
-case .ladybug_slash_circle_fill:
-  return "ladybug.slash.circle.fill"
-case .camera_macro_slash:
-  return "camera.macro.slash"
-case .camera_macro_slash_circle:
-  return "camera.macro.slash.circle"
-case .camera_macro_slash_circle_fill:
-  return "camera.macro.slash.circle.fill"
-case .hat_widebrim:
-  return "hat.widebrim"
-case .hat_widebrim_fill:
-  return "hat.widebrim.fill"
-case .hat_cap:
-  return "hat.cap"
-case .hat_cap_fill:
-  return "hat.cap.fill"
-case .jacket:
-  return "jacket"
-case .jacket_fill:
-  return "jacket.fill"
-case .coat:
-  return "coat"
-case .coat_fill:
-  return "coat.fill"
-case .xmark_triangle_circle_square:
-  return "xmark.triangle.circle.square"
-case .xmark_triangle_circle_square_fill:
-  return "xmark.triangle.circle.square.fill"
-case .hand_raised_palm_facing:
-  return "hand.raised.palm.facing"
-case .hand_raised_palm_facing_fill:
-  return "hand.raised.palm.facing.fill"
-case .hand_draw_badge_ellipsis:
-  return "hand.draw.badge.ellipsis"
-case .hand_draw_badge_ellipsis_fill:
-  return "hand.draw.badge.ellipsis.fill"
-case .hand_rays:
-  return "hand.rays"
-case .hand_rays_fill:
-  return "hand.rays.fill"
-case .hand_point_up_braille_badge_ellipsis:
-  return "hand.point.up.braille.badge.ellipsis"
-case .hand_point_up_braille_badge_ellipsis_fill:
-  return "hand.point.up.braille.badge.ellipsis.fill"
-case .hand_palm_facing:
-  return "hand.palm.facing"
-case .hand_palm_facing_fill:
-  return "hand.palm.facing.fill"
-case .hand_pinch:
-  return "hand.pinch"
-case .hand_pinch_fill:
-  return "hand.pinch.fill"
-case .iphone_dock_motorized_viewfinder:
-  return "iphone.dock.motorized.viewfinder"
-case .photo_badge_exclamationmark:
-  return "photo.badge.exclamationmark"
-case .photo_badge_exclamationmark_fill:
-  return "photo.badge.exclamationmark.fill"
-case .photo_on_rectangle_angled_fill:
-  return "photo.on.rectangle.angled.fill"
-case .distribute_vertical:
-  return "distribute.vertical"
-case .distribute_vertical_fill:
-  return "distribute.vertical.fill"
-case .distribute_horizontal:
-  return "distribute.horizontal"
-case .distribute_horizontal_fill:
-  return "distribute.horizontal.fill"
-case .point_topright_arrow_triangle_backward_to_point_bottomleft_scurvepath:
-  return "point.topright.arrow.triangle.backward.to.point.bottomleft.scurvepath"
-case .point_topright_arrow_triangle_backward_to_point_bottomleft_scurvepath_fill:
-  return "point.topright.arrow.triangle.backward.to.point.bottomleft.scurvepath.fill"
-case .point_topright_filled_arrow_triangle_backward_to_point_bottomleft_scurvepath:
-  return "point.topright.filled.arrow.triangle.backward.to.point.bottomleft.scurvepath"
-case .point_topright_arrow_triangle_backward_to_point_bottomleft_filled_scurvepath:
-  return "point.topright.arrow.triangle.backward.to.point.bottomleft.filled.scurvepath"
-case .point_bottomleft_forward_to_arrow_triangle_scurvepath:
-  return "point.bottomleft.forward.to.arrow.triangle.scurvepath"
-case .point_bottomleft_forward_to_arrow_triangle_scurvepath_fill:
-  return "point.bottomleft.forward.to.arrow.triangle.scurvepath.fill"
-case .gamecontroller_circle:
-  return "gamecontroller.circle"
-case .gamecontroller_circle_fill:
-  return "gamecontroller.circle.fill"
-case .formfitting_gamecontroller:
-  return "formfitting.gamecontroller"
-case .formfitting_gamecontroller_fill:
-  return "formfitting.gamecontroller.fill"
-case .cup_and_heat_waves:
-  return "cup.and.heat.waves"
-case .cup_and_heat_waves_fill:
-  return "cup.and.heat.waves.fill"
-case .rectangle_expand_diagonal:
-  return "rectangle.expand.diagonal"
-case .chart_bar_yaxis:
-  return "chart.bar.yaxis"
-case .hourglass_badge_eye:
-  return "hourglass.badge.eye"
-case .australsign_bank_building:
-  return "australsign.bank.building"
-case .australsign_bank_building_fill:
-  return "australsign.bank.building.fill"
-case .australiandollarsign_bank_building:
-  return "australiandollarsign.bank.building"
-case .australiandollarsign_bank_building_fill:
-  return "australiandollarsign.bank.building.fill"
-case .bahtsign_bank_building:
-  return "bahtsign.bank.building"
-case .bahtsign_bank_building_fill:
-  return "bahtsign.bank.building.fill"
-case .bitcoinsign_bank_building:
-  return "bitcoinsign.bank.building"
-case .bitcoinsign_bank_building_fill:
-  return "bitcoinsign.bank.building.fill"
-case .brazilianrealsign_bank_building:
-  return "brazilianrealsign.bank.building"
-case .brazilianrealsign_bank_building_fill:
-  return "brazilianrealsign.bank.building.fill"
-case .cedisign_bank_building:
-  return "cedisign.bank.building"
-case .cedisign_bank_building_fill:
-  return "cedisign.bank.building.fill"
-case .centsign_bank_building:
-  return "centsign.bank.building"
-case .centsign_bank_building_fill:
-  return "centsign.bank.building.fill"
-case .chineseyuanrenminbisign_bank_building:
-  return "chineseyuanrenminbisign.bank.building"
-case .chineseyuanrenminbisign_bank_building_fill:
-  return "chineseyuanrenminbisign.bank.building.fill"
-case .coloncurrencysign_bank_building:
-  return "coloncurrencysign.bank.building"
-case .coloncurrencysign_bank_building_fill:
-  return "coloncurrencysign.bank.building.fill"
-case .cruzeirosign_bank_building:
-  return "cruzeirosign.bank.building"
-case .cruzeirosign_bank_building_fill:
-  return "cruzeirosign.bank.building.fill"
-case .danishkronesign_bank_building:
-  return "danishkronesign.bank.building"
-case .danishkronesign_bank_building_fill:
-  return "danishkronesign.bank.building.fill"
-case .dollarsign_bank_building:
-  return "dollarsign.bank.building"
-case .dollarsign_bank_building_fill:
-  return "dollarsign.bank.building.fill"
-case .dongsign_bank_building:
-  return "dongsign.bank.building"
-case .dongsign_bank_building_fill:
-  return "dongsign.bank.building.fill"
-case .eurosign_bank_building:
-  return "eurosign.bank.building"
-case .eurosign_bank_building_fill:
-  return "eurosign.bank.building.fill"
-case .eurozonesign_bank_building:
-  return "eurozonesign.bank.building"
-case .eurozonesign_bank_building_fill:
-  return "eurozonesign.bank.building.fill"
-case .florinsign_bank_building:
-  return "florinsign.bank.building"
-case .florinsign_bank_building_fill:
-  return "florinsign.bank.building.fill"
-case .francsign_bank_building:
-  return "francsign.bank.building"
-case .francsign_bank_building_fill:
-  return "francsign.bank.building.fill"
-case .guaranisign_bank_building:
-  return "guaranisign.bank.building"
-case .guaranisign_bank_building_fill:
-  return "guaranisign.bank.building.fill"
-case .hryvniasign_bank_building:
-  return "hryvniasign.bank.building"
-case .hryvniasign_bank_building_fill:
-  return "hryvniasign.bank.building.fill"
-case .indianrupeesign_bank_building:
-  return "indianrupeesign.bank.building"
-case .indianrupeesign_bank_building_fill:
-  return "indianrupeesign.bank.building.fill"
-case .kipsign_bank_building:
-  return "kipsign.bank.building"
-case .kipsign_bank_building_fill:
-  return "kipsign.bank.building.fill"
-case .larisign_bank_building:
-  return "larisign.bank.building"
-case .larisign_bank_building_fill:
-  return "larisign.bank.building.fill"
-case .lirasign_bank_building:
-  return "lirasign.bank.building"
-case .lirasign_bank_building_fill:
-  return "lirasign.bank.building.fill"
-case .malaysianringgitsign_bank_building:
-  return "malaysianringgitsign.bank.building"
-case .malaysianringgitsign_bank_building_fill:
-  return "malaysianringgitsign.bank.building.fill"
-case .manatsign_bank_building:
-  return "manatsign.bank.building"
-case .manatsign_bank_building_fill:
-  return "manatsign.bank.building.fill"
-case .millsign_bank_building:
-  return "millsign.bank.building"
-case .millsign_bank_building_fill:
-  return "millsign.bank.building.fill"
-case .nairasign_bank_building:
-  return "nairasign.bank.building"
-case .nairasign_bank_building_fill:
-  return "nairasign.bank.building.fill"
-case .norwegiankronesign_bank_building:
-  return "norwegiankronesign.bank.building"
-case .norwegiankronesign_bank_building_fill:
-  return "norwegiankronesign.bank.building.fill"
-case .peruviansolessign_bank_building:
-  return "peruviansolessign.bank.building"
-case .peruviansolessign_bank_building_fill:
-  return "peruviansolessign.bank.building.fill"
-case .pesetasign_bank_building:
-  return "pesetasign.bank.building"
-case .pesetasign_bank_building_fill:
-  return "pesetasign.bank.building.fill"
-case .pesosign_bank_building:
-  return "pesosign.bank.building"
-case .pesosign_bank_building_fill:
-  return "pesosign.bank.building.fill"
-case .polishzlotysign_bank_building:
-  return "polishzlotysign.bank.building"
-case .polishzlotysign_bank_building_fill:
-  return "polishzlotysign.bank.building.fill"
-case .rublesign_bank_building:
-  return "rublesign.bank.building"
-case .rublesign_bank_building_fill:
-  return "rublesign.bank.building.fill"
-case .rupeesign_bank_building:
-  return "rupeesign.bank.building"
-case .rupeesign_bank_building_fill:
-  return "rupeesign.bank.building.fill"
-case .shekelsign_bank_building:
-  return "shekelsign.bank.building"
-case .shekelsign_bank_building_fill:
-  return "shekelsign.bank.building.fill"
-case .singaporedollarsign_bank_building:
-  return "singaporedollarsign.bank.building"
-case .singaporedollarsign_bank_building_fill:
-  return "singaporedollarsign.bank.building.fill"
-case .sterlingsign_bank_building:
-  return "sterlingsign.bank.building"
-case .sterlingsign_bank_building_fill:
-  return "sterlingsign.bank.building.fill"
-case .swedishkronasign_bank_building:
-  return "swedishkronasign.bank.building"
-case .swedishkronasign_bank_building_fill:
-  return "swedishkronasign.bank.building.fill"
-case .tengesign_bank_building:
-  return "tengesign.bank.building"
-case .tengesign_bank_building_fill:
-  return "tengesign.bank.building.fill"
-case .tugriksign_bank_building:
-  return "tugriksign.bank.building"
-case .tugriksign_bank_building_fill:
-  return "tugriksign.bank.building.fill"
-case .turkishlirasign_bank_building:
-  return "turkishlirasign.bank.building"
-case .turkishlirasign_bank_building_fill:
-  return "turkishlirasign.bank.building.fill"
-case .yensign_bank_building:
-  return "yensign.bank.building"
-case .yensign_bank_building_fill:
-  return "yensign.bank.building.fill"
-case .wonsign_bank_building:
-  return "wonsign.bank.building"
-case .wonsign_bank_building_fill:
-  return "wonsign.bank.building.fill"
-case .text_line_magnify:
-  return "text.line.magnify"
-case .character_circle:
-  return "character.circle"
-case .character_circle_fill:
-  return "character.circle.fill"
-case .character_square:
-  return "character.square"
-case .character_square_fill:
-  return "character.square.fill"
-case .characters_lowercase:
-  return "characters.lowercase"
-case .textformat_characters_arrow_left_and_right:
-  return "textformat.characters.arrow.left.and.right"
-case .notequal:
-  return "notequal"
-case .notequal_circle:
-  return "notequal.circle"
-case .notequal_circle_fill:
-  return "notequal.circle.fill"
-case .notequal_square:
-  return "notequal.square"
-case .notequal_square_fill:
-  return "notequal.square.fill"
-case .lessthanorequalto:
-  return "lessthanorequalto"
-case .lessthanorequalto_circle:
-  return "lessthanorequalto.circle"
-case .lessthanorequalto_circle_fill:
-  return "lessthanorequalto.circle.fill"
-case .lessthanorequalto_square:
-  return "lessthanorequalto.square"
-case .lessthanorequalto_square_fill:
-  return "lessthanorequalto.square.fill"
-case .greaterthanorequalto:
-  return "greaterthanorequalto"
-case .greaterthanorequalto_circle:
-  return "greaterthanorequalto.circle"
-case .greaterthanorequalto_circle_fill:
-  return "greaterthanorequalto.circle.fill"
-case .greaterthanorequalto_square:
-  return "greaterthanorequalto.square"
-case .greaterthanorequalto_square_fill:
-  return "greaterthanorequalto.square.fill"
-case .chevron_left_chevron_left_dotted:
-  return "chevron.left.chevron.left.dotted"
-case .chevron_backward_chevron_backward_dotted:
-  return "chevron.backward.chevron.backward.dotted"
-case .chevron_right_dotted_chevron_right:
-  return "chevron.right.dotted.chevron.right"
-case .chevron_forward_dotted_chevron_forward:
-  return "chevron.forward.dotted.chevron.forward"
-case .chevron_up_2:
-  return "chevron.up.2"
-case .chevron_down_2:
-  return "chevron.down.2"
-case .chevron_up_dotted_2:
-  return "chevron.up.dotted.2"
-case .chevron_down_dotted_2:
-  return "chevron.down.dotted.2"
-case .chevron_up_right_2:
-  return "chevron.up.right.2"
-case .chevron_up_forward_2:
-  return "chevron.up.forward.2"
-case .chevron_up_right_dotted_2:
-  return "chevron.up.right.dotted.2"
-case .chevron_up_forward_dotted_2:
-  return "chevron.up.forward.dotted.2"
-case .chevron_down_right_2:
-  return "chevron.down.right.2"
-case .chevron_down_forward_2:
-  return "chevron.down.forward.2"
-case .chevron_down_right_dotted_2:
-  return "chevron.down.right.dotted.2"
-case .chevron_down_forward_dotted_2:
-  return "chevron.down.forward.dotted.2"
-case .chevron_up_chevron_down_square:
-  return "chevron.up.chevron.down.square"
-case .chevron_up_chevron_down_square_fill:
-  return "chevron.up.chevron.down.square.fill"
-case .chevron_left_chevron_right:
-  return "chevron.left.chevron.right"
-case .chevron_up_chevron_right_chevron_down_chevron_left:
-  return "chevron.up.chevron.right.chevron.down.chevron.left"
-case .chevron_compact_up_chevron_compact_down:
-  return "chevron.compact.up.chevron.compact.down"
-case .chevron_compact_left_chevron_compact_right:
-  return "chevron.compact.left.chevron.compact.right"
-case .chevron_compact_up_chevron_compact_right_chevron_compact_down_chevron_compact_left:
-  return "chevron.compact.up.chevron.compact.right.chevron.compact.down.chevron.compact.left"
-case .base_unit:
-  return "base.unit"
-case .arrow_left_circle_dotted:
-  return "arrow.left.circle.dotted"
-case .arrow_backward_circle_dotted:
-  return "arrow.backward.circle.dotted"
-case .arrow_right_circle_dotted:
-  return "arrow.right.circle.dotted"
-case .arrow_forward_circle_dotted:
-  return "arrow.forward.circle.dotted"
-case .arrow_up_circle_dotted:
-  return "arrow.up.circle.dotted"
-case .arrow_up_left_circle_dotted:
-  return "arrow.up.left.circle.dotted"
-case .arrow_up_backward_circle_dotted:
-  return "arrow.up.backward.circle.dotted"
-case .arrow_up_right_circle_dotted:
-  return "arrow.up.right.circle.dotted"
-case .arrow_up_forward_circle_dotted:
-  return "arrow.up.forward.circle.dotted"
-case .arrow_down_left_circle_dotted:
-  return "arrow.down.left.circle.dotted"
-case .arrow_down_backward_circle_dotted:
-  return "arrow.down.backward.circle.dotted"
-case .arrow_down_right_circle_dotted:
-  return "arrow.down.right.circle.dotted"
-case .arrow_down_forward_circle_dotted:
-  return "arrow.down.forward.circle.dotted"
-case .malaysianringgitsign:
-  return "malaysianringgitsign"
-case .malaysianringgitsign_circle:
-  return "malaysianringgitsign.circle"
-case .malaysianringgitsign_circle_fill:
-  return "malaysianringgitsign.circle.fill"
-case .malaysianringgitsign_square:
-  return "malaysianringgitsign.square"
-case .malaysianringgitsign_square_fill:
-  return "malaysianringgitsign.square.fill"
-case .peruviansolessign:
-  return "peruviansolessign"
-case .peruviansolessign_circle:
-  return "peruviansolessign.circle"
-case .peruviansolessign_circle_fill:
-  return "peruviansolessign.circle.fill"
-case .peruviansolessign_square:
-  return "peruviansolessign.square"
-case .peruviansolessign_square_fill:
-  return "peruviansolessign.square.fill"
-case .singaporedollarsign:
-  return "singaporedollarsign"
-case .singaporedollarsign_circle:
-  return "singaporedollarsign.circle"
-case .singaporedollarsign_circle_fill:
-  return "singaporedollarsign.circle.fill"
-case .singaporedollarsign_square:
-  return "singaporedollarsign.square"
-case .singaporedollarsign_square_fill:
-  return "singaporedollarsign.square.fill"
+case .eraser_badge_xmark:
+  return "eraser.badge.xmark"
+case .eraser_badge_xmark_fill:
+  return "eraser.badge.xmark.fill"
+case .eraser_trianglebadge_exclamationmark:
+  return "eraser.trianglebadge.exclamationmark"
+case .eraser_trianglebadge_exclamationmark_fill:
+  return "eraser.trianglebadge.exclamationmark.fill"
+case .eraser_slash:
+  return "eraser.slash"
+case .eraser_slash_fill:
+  return "eraser.slash.fill"
+case .highlighter_badge_ellipsis:
+  return "highlighter.badge.ellipsis"
+case .text_below_folder:
+  return "text.below.folder"
+case .text_below_folder_fill:
+  return "text.below.folder.fill"
+case .arrow_up_folder:
+  return "arrow.up.folder"
+case .arrow_up_folder_fill:
+  return "arrow.up.folder.fill"
+case .arrow_forward_folder:
+  return "arrow.forward.folder"
+case .arrow_forward_folder_fill:
+  return "arrow.forward.folder.fill"
+case .tray_badge:
+  return "tray.badge"
+case .tray_badge_fill:
+  return "tray.badge.fill"
+case .document_on_trash:
+  return "document.on.trash"
+case .document_on_trash_fill:
+  return "document.on.trash.fill"
+case .sparkle_text_clipboard:
+  return "sparkle.text.clipboard"
+case .sparkle_text_clipboard_fill:
+  return "sparkle.text.clipboard.fill"
+case .apple_classical_pages:
+  return "apple.classical.pages"
+case .apple_classical_pages_fill:
+  return "apple.classical.pages.fill"
+case .music_pages:
+  return "music.pages"
+case .music_pages_fill:
+  return "music.pages.fill"
+case .apple_podcasts_pages:
+  return "apple.podcasts.pages"
+case .apple_podcasts_pages_fill:
+  return "apple.podcasts.pages.fill"
+case .apple_books_pages:
+  return "apple.books.pages"
+case .apple_books_pages_fill:
+  return "apple.books.pages.fill"
+case .list_dash_header_rectangle_fill:
+  return "list.dash.header.rectangle.fill"
+case .text_pad_header_badge_clock:
+  return "text.pad.header.badge.clock"
+case .calendar_badge:
+  return "calendar.badge"
+case .calendar_badge_lock:
+  return "calendar.badge.lock"
+case .one_calendar:
+  return "1.calendar"
+case .two_calendar:
+  return "2.calendar"
+case .three_calendar:
+  return "3.calendar"
+case .four_calendar:
+  return "4.calendar"
+case .five_calendar:
+  return "5.calendar"
+case .six_calendar:
+  return "6.calendar"
+case .seven_calendar:
+  return "7.calendar"
+case .eight_calendar:
+  return "8.calendar"
+case .nine_calendar:
+  return "9.calendar"
+case .ten_calendar:
+  return "10.calendar"
+case .eleven_calendar:
+  return "11.calendar"
+case .twelve_calendar:
+  return "12.calendar"
+case .thirteen_calendar:
+  return "13.calendar"
+case .fourteen_calendar:
+  return "14.calendar"
+case .fifteen_calendar:
+  return "15.calendar"
+case .sixteen_calendar:
+  return "16.calendar"
+case .seventeen_calendar:
+  return "17.calendar"
+case .eighteen_calendar:
+  return "18.calendar"
+case .nineteen_calendar:
+  return "19.calendar"
+case .twenty_calendar:
+  return "20.calendar"
+case .twenty_one_calendar:
+  return "21.calendar"
+case .twenty_two_calendar:
+  return "22.calendar"
+case .twenty_three_calendar:
+  return "23.calendar"
+case .twenty_four_calendar:
+  return "24.calendar"
+case .twenty_five_calendar:
+  return "25.calendar"
+case .twenty_six_calendar:
+  return "26.calendar"
+case .twenty_seven_calendar:
+  return "27.calendar"
+case .twenty_eight_calendar:
+  return "28.calendar"
+case .twenty_nine_calendar:
+  return "29.calendar"
+case .thirty_calendar:
+  return "30.calendar"
+case .thirty_one_calendar:
+  return "31.calendar"
+case .ellipsis_calendar:
+  return "ellipsis.calendar"
+case .calendar_day_timeline_left_circle:
+  return "calendar.day.timeline.left.circle"
+case .calendar_day_timeline_left_circle_fill:
+  return "calendar.day.timeline.left.circle.fill"
+case .calendar_day_timeline_right_circle:
+  return "calendar.day.timeline.right.circle"
+case .calendar_day_timeline_right_circle_fill:
+  return "calendar.day.timeline.right.circle.fill"
+case .calendar_day_timeline_leading_circle:
+  return "calendar.day.timeline.leading.circle"
+case .calendar_day_timeline_leading_circle_fill:
+  return "calendar.day.timeline.leading.circle.fill"
+case .calendar_day_timeline_trailing_circle:
+  return "calendar.day.timeline.trailing.circle"
+case .calendar_day_timeline_trailing_circle_fill:
+  return "calendar.day.timeline.trailing.circle.fill"
+case .book_badge_plus:
+  return "book.badge.plus"
+case .book_badge_plus_fill:
+  return "book.badge.plus.fill"
+case .person_spatialaudio_stereo_fill:
+  return "person.spatialaudio.stereo.fill"
+case .person_spatialaudio_fill:
+  return "person.spatialaudio.fill"
+case .person_spatialaudio_stereo_3d_fill:
+  return "person.spatialaudio.stereo.3d.fill"
+case .person_spatialaudio_3d_fill:
+  return "person.spatialaudio.3d.fill"
+case .person_2_shield:
+  return "person.2.shield"
+case .person_2_shield_fill:
+  return "person.2.shield.fill"
+case .person_2_badge:
+  return "person.2.badge"
+case .person_2_badge_fill:
+  return "person.2.badge.fill"
+case .person_crop_circle_badge_ellipsis:
+  return "person.crop.circle.badge.ellipsis"
+case .person_crop_circle_badge_ellipsis_fill:
+  return "person.crop.circle.badge.ellipsis.fill"
+case .person_text_rectangle_trianglebadge_exclamationmark:
+  return "person.text.rectangle.trianglebadge.exclamationmark"
+case .person_text_rectangle_trianglebadge_exclamationmark_fill:
+  return "person.text.rectangle.trianglebadge.exclamationmark.fill"
+case .app_background_dotted:
+  return "app.background.dotted"
+case .figure_seated_side_right_child_lap:
+  return "figure.seated.side.right.child.lap"
+case .figure_walk_suitcase_rolling:
+  return "figure.walk.suitcase.rolling"
+case .figure_walk_suitcase_rolling_circle:
+  return "figure.walk.suitcase.rolling.circle"
+case .figure_walk_suitcase_rolling_circle_fill:
+  return "figure.walk.suitcase.rolling.circle.fill"
+case .globe_fill:
+  return "globe.fill"
+case .globe_badge_clock:
+  return "globe.badge.clock"
+case .globe_badge_clock_fill:
+  return "globe.badge.clock.fill"
+case .sparkles_2:
+  return "sparkles.2"
+case .thermometer_variable_badge_clock:
+  return "thermometer.variable.badge.clock"
+case .thermometer_variable_badge_play:
+  return "thermometer.variable.badge.play"
+case .thermometer_and_ellipsis:
+  return "thermometer.and.ellipsis"
+case .umbrella_circle:
+  return "umbrella.circle"
+case .umbrella_circle_fill:
+  return "umbrella.circle.fill"
+case .play_diamond:
+  return "play.diamond"
+case .play_diamond_fill:
+  return "play.diamond.fill"
+case .speaker_trianglebadge_exclamationmark:
+  return "speaker.trianglebadge.exclamationmark"
+case .speaker_trianglebadge_exclamationmark_fill:
+  return "speaker.trianglebadge.exclamationmark.fill"
+case .music_note_slash:
+  return "music.note.slash"
+case .music_note_square_stack:
+  return "music.note.square.stack"
+case .music_note_square_stack_fill:
+  return "music.note.square.stack.fill"
+case .minus_arrow_trianglehead_clockwise:
+  return "minus.arrow.trianglehead.clockwise"
+case .checkmark_arrow_trianglehead_clockwise:
+  return "checkmark.arrow.trianglehead.clockwise"
+case .music_note_arrow_trianglehead_clockwise:
+  return "music.note.arrow.trianglehead.clockwise"
+case .plus_arrow_trianglehead_counterclockwise:
+  return "plus.arrow.trianglehead.counterclockwise"
+case .stroke_line_diagonal:
+  return "stroke.line.diagonal"
+case .stroke_line_diagonal_slash:
+  return "stroke.line.diagonal.slash"
+case .line_diagonal_trianglehead_up_right_left_down:
+  return "line.diagonal.trianglehead.up.right.left.down"
+case .slider_horizontal_below_circle_lefthalf_filled:
+  return "slider.horizontal.below.circle.lefthalf.filled"
+case .slider_horizontal_below_circle_lefthalf_filled_inverse:
+  return "slider.horizontal.below.circle.lefthalf.filled.inverse"
+case .slider_horizontal_below_circle_righthalf_filled:
+  return "slider.horizontal.below.circle.righthalf.filled"
+case .slider_horizontal_below_circle_righthalf_filled_inverse:
+  return "slider.horizontal.below.circle.righthalf.filled.inverse"
+case .inset_filled_circle_slash:
+  return "inset.filled.circle.slash"
+case .circle_on_square:
+  return "circle.on.square"
+case .circle_on_square_merge:
+  return "circle.on.square.merge"
+case .circle_on_square_intersection_dotted:
+  return "circle.on.square.intersection.dotted"
+case .circle_grid_2x2_topleft_checkmark_filled:
+  return "circle.grid.2x2.topleft.checkmark.filled"
+case .app_specular:
+  return "app.specular"
+case .app_grid:
+  return "app.grid"
+case .app_shadow:
+  return "app.shadow"
+case .app_translucent:
+  return "app.translucent"
+case .inset_filled_leftthird_middlethird_rightthird_rectangle:
+  return "inset.filled.leftthird.middlethird.rightthird.rectangle"
+case .inset_filled_topthird_middlethird_bottomthird_rectangle:
+  return "inset.filled.topthird.middlethird.bottomthird.rectangle"
+case .inset_filled_bottomleft_bottomright_rectangle:
+  return "inset.filled.bottomleft.bottomright.rectangle"
+case .inset_filled_bottomleading_bottomtrailing_rectangle:
+  return "inset.filled.bottomleading.bottomtrailing.rectangle"
+case .text_rectangle:
+  return "text.rectangle"
+case .text_rectangle_fill:
+  return "text.rectangle.fill"
+case .rectangle_3_group_dashed:
+  return "rectangle.3.group.dashed"
+case .rectangle_grid_1x3:
+  return "rectangle.grid.1x3"
+case .rectangle_grid_1x3_fill:
+  return "rectangle.grid.1x3.fill"
+case .plus_capsule:
+  return "plus.capsule"
+case .plus_capsule_fill:
+  return "plus.capsule.fill"
+case .lock_heart:
+  return "lock.heart"
+case .lock_heart_fill:
+  return "lock.heart.fill"
+case .heart_badge_bolt:
+  return "heart.badge.bolt"
+case .heart_badge_bolt_fill:
+  return "heart.badge.bolt.fill"
+case .heart_badge_bolt_slash:
+  return "heart.badge.bolt.slash"
+case .heart_badge_bolt_slash_fill:
+  return "heart.badge.bolt.slash.fill"
+case .key_shield:
+  return "key.shield"
+case .key_shield_fill:
+  return "key.shield.fill"
+case .bell_badge_waveform_slash:
+  return "bell.badge.waveform.slash"
+case .bell_badge_waveform_slash_fill:
+  return "bell.badge.waveform.slash.fill"
+case .icloud_dashed:
+  return "icloud.dashed"
+case .phone_pause:
+  return "phone.pause"
+case .phone_pause_fill:
+  return "phone.pause.fill"
+case .phone_pause_circle:
+  return "phone.pause.circle"
+case .phone_pause_circle_fill:
+  return "phone.pause.circle.fill"
+case .envelope_open_badge_clock_fill:
+  return "envelope.open.badge.clock.fill"
+case .envelope_badge_plus:
+  return "envelope.badge.plus"
+case .envelope_badge_plus_fill:
+  return "envelope.badge.plus.fill"
+case .envelope_badge_minus:
+  return "envelope.badge.minus"
+case .envelope_badge_minus_fill:
+  return "envelope.badge.minus.fill"
+case .envelope_and_hand_raised:
+  return "envelope.and.hand.raised"
+case .envelope_and_hand_raised_fill:
+  return "envelope.and.hand.raised.fill"
+case .siri:
+  return "siri"
+case .ellipsis_circle_badge:
+  return "ellipsis.circle.badge"
+case .ellipsis_circle_badge_fill:
+  return "ellipsis.circle.badge.fill"
+case .creditcard_rewards:
+  return "creditcard.rewards"
+case .creditcard_rewards_fill:
+  return "creditcard.rewards.fill"
+case .lines_measurement_horizontal_aligned_bottom:
+  return "lines.measurement.horizontal.aligned.bottom"
+case .minus_plus_lines_measurement_horizontal_aligned_bottom:
+  return "minus.plus.lines.measurement.horizontal.aligned.bottom"
+case .blood_pressure_cuff:
+  return "blood.pressure.cuff"
+case .blood_pressure_cuff_fill:
+  return "blood.pressure.cuff.fill"
+case .blood_pressure_cuff_badge_gauge_with_needle:
+  return "blood.pressure.cuff.badge.gauge.with.needle"
+case .blood_pressure_cuff_badge_gauge_with_needle_fill:
+  return "blood.pressure.cuff.badge.gauge.with.needle.fill"
+case .suitcase_circle:
+  return "suitcase.circle"
+case .suitcase_circle_fill:
+  return "suitcase.circle.fill"
+case .suitcase_rolling_circle:
+  return "suitcase.rolling.circle"
+case .suitcase_rolling_circle_fill:
+  return "suitcase.rolling.circle.fill"
+case .suitcase_rolling_and_suitcase:
+  return "suitcase.rolling.and.suitcase"
+case .suitcase_rolling_and_suitcase_fill:
+  return "suitcase.rolling.and.suitcase.fill"
+case .suitcase_rolling_and_suitcase_circle:
+  return "suitcase.rolling.and.suitcase.circle"
+case .suitcase_rolling_and_suitcase_circle_fill:
+  return "suitcase.rolling.and.suitcase.circle.fill"
+case .suitcase_rolling_and_film:
+  return "suitcase.rolling.and.film"
+case .suitcase_rolling_and_film_fill:
+  return "suitcase.rolling.and.film.fill"
+case .suitcase_rolling_and_film_circle:
+  return "suitcase.rolling.and.film.circle"
+case .suitcase_rolling_and_film_circle_fill:
+  return "suitcase.rolling.and.film.circle.fill"
+case .pet_carrier:
+  return "pet.carrier"
+case .pet_carrier_fill:
+  return "pet.carrier.fill"
+case .pet_carrier_circle:
+  return "pet.carrier.circle"
+case .pet_carrier_circle_fill:
+  return "pet.carrier.circle.fill"
+case .fan_circle:
+  return "fan.circle"
+case .fan_circle_fill:
+  return "fan.circle.fill"
+case .fan_badge_arrow_up_and_down_and_arrow_left_and_right:
+  return "fan.badge.arrow.up.and.down.and.arrow.left.and.right"
+case .fan_badge_arrow_up_and_down_and_arrow_left_and_right_fill:
+  return "fan.badge.arrow.up.and.down.and.arrow.left.and.right.fill"
+case .gauge_chart_lefthalf_righthalf:
+  return "gauge.chart.lefthalf.righthalf"
+case .gauge_chart_leftthird_topthird_rightthird:
+  return "gauge.chart.leftthird.topthird.rightthird"
+case .ring_dashed:
+  return "ring.dashed"
+case .ring:
+  return "ring"
+case .humidifier_and_ellipsis:
+  return "humidifier.and.ellipsis"
+case .humidifier_and_ellipsis_fill:
+  return "humidifier.and.ellipsis.fill"
+case .bed_double_badge_checkmark:
+  return "bed.double.badge.checkmark"
+case .bed_double_badge_checkmark_fill:
+  return "bed.double.badge.checkmark.fill"
+case .environments:
+  return "environments"
+case .environments_fill:
+  return "environments.fill"
+case .environments_circle:
+  return "environments.circle"
+case .environments_circle_fill:
+  return "environments.circle.fill"
+case .environments_slash:
+  return "environments.slash"
+case .environments_slash_fill:
+  return "environments.slash.fill"
+case .environments_slash_circle:
+  return "environments.slash.circle"
+case .environments_slash_circle_fill:
+  return "environments.slash.circle.fill"
+case .lock_badge_checkmark:
+  return "lock.badge.checkmark"
+case .lock_badge_checkmark_fill:
+  return "lock.badge.checkmark.fill"
+case .lock_badge_xmark:
+  return "lock.badge.xmark"
+case .lock_badge_xmark_fill:
+  return "lock.badge.xmark.fill"
+case .key_circle:
+  return "key.circle"
+case .key_circle_fill:
+  return "key.circle.fill"
+case .paint_bucket_classic:
+  return "paint.bucket.classic"
+case .finder:
+  return "finder"
+case .sensor_radiowaves_left_and_right:
+  return "sensor.radiowaves.left.and.right"
+case .sensor_radiowaves_left_and_right_fill:
+  return "sensor.radiowaves.left.and.right.fill"
+case .briefcase_sensor_tag_radiowaves_left_and_right:
+  return "briefcase.sensor.tag.radiowaves.left.and.right"
+case .briefcase_sensor_tag_radiowaves_left_and_right_fill:
+  return "briefcase.sensor.tag.radiowaves.left.and.right.fill"
+case .key_sensor_tag_radiowaves_left_and_right:
+  return "key.sensor.tag.radiowaves.left.and.right"
+case .key_sensor_tag_radiowaves_left_and_right_fill:
+  return "key.sensor.tag.radiowaves.left.and.right.fill"
+case .wallet_sensor_tag_radiowaves_left_and_right:
+  return "wallet.sensor.tag.radiowaves.left.and.right"
+case .wallet_sensor_tag_radiowaves_left_and_right_fill:
+  return "wallet.sensor.tag.radiowaves.left.and.right.fill"
+case .backpack_sensor_tag_radiowaves_left_and_right:
+  return "backpack.sensor.tag.radiowaves.left.and.right"
+case .backpack_sensor_tag_radiowaves_left_and_right_fill:
+  return "backpack.sensor.tag.radiowaves.left.and.right.fill"
+case .bicycle_sensor_tag_radiowaves_left_and_right:
+  return "bicycle.sensor.tag.radiowaves.left.and.right"
+case .bicycle_sensor_tag_radiowaves_left_and_right_fill:
+  return "bicycle.sensor.tag.radiowaves.left.and.right.fill"
+case .camera_sensor_tag_radiowaves_left_and_right:
+  return "camera.sensor.tag.radiowaves.left.and.right"
+case .camera_sensor_tag_radiowaves_left_and_right_fill:
+  return "camera.sensor.tag.radiowaves.left.and.right.fill"
+case .handbag_sensor_tag_radiowaves_left_and_right:
+  return "handbag.sensor.tag.radiowaves.left.and.right"
+case .handbag_sensor_tag_radiowaves_left_and_right_fill:
+  return "handbag.sensor.tag.radiowaves.left.and.right.fill"
+case .headphones_sensor_tag_radiowaves_left_and_right:
+  return "headphones.sensor.tag.radiowaves.left.and.right"
+case .headphones_sensor_tag_radiowaves_left_and_right_fill:
+  return "headphones.sensor.tag.radiowaves.left.and.right.fill"
+case .jacket_sensor_tag_radiowaves_left_and_right:
+  return "jacket.sensor.tag.radiowaves.left.and.right"
+case .jacket_sensor_tag_radiowaves_left_and_right_fill:
+  return "jacket.sensor.tag.radiowaves.left.and.right.fill"
+case .umbrella_sensor_tag_radiowaves_left_and_right:
+  return "umbrella.sensor.tag.radiowaves.left.and.right"
+case .umbrella_sensor_tag_radiowaves_left_and_right_fill:
+  return "umbrella.sensor.tag.radiowaves.left.and.right.fill"
+case .display_and_screwdriver:
+  return "display.and.screwdriver"
+case .desktopcomputer_badge_checkmark:
+  return "desktopcomputer.badge.checkmark"
+case .desktopcomputer_badge_shield_checkmark:
+  return "desktopcomputer.badge.shield.checkmark"
+case .macpro_gen3_badge_ckeckmark:
+  return "macpro.gen3.badge.ckeckmark"
+case .macpro_gen3_badge_ckeckmark_fill:
+  return "macpro.gen3.badge.ckeckmark.fill"
+case .laptopcomputer_badge_checkmark:
+  return "laptopcomputer.badge.checkmark"
+case .macbook_badge_checkmark:
+  return "macbook.badge.checkmark"
+case .macbook_trianglebadge_exclamationmark:
+  return "macbook.trianglebadge.exclamationmark"
+case .macbook_badge_shield_checkmark:
+  return "macbook.badge.shield.checkmark"
+case .macbook_and_ipod:
+  return "macbook.and.ipod"
+case .macmini_badge_checkmark:
+  return "macmini.badge.checkmark"
+case .macmini_badge_checkmark_fill:
+  return "macmini.badge.checkmark.fill"
+case .macstudio_badge_checkmark:
+  return "macstudio.badge.checkmark"
+case .macstudio_badge_checkmark_fill:
+  return "macstudio.badge.checkmark.fill"
+case .ipod_and_applewatch:
+  return "ipod.and.applewatch"
+case .ipod_and_vision_pro:
+  return "ipod.and.vision.pro"
+case .iphone_gen1_crop_homebutton_circle:
+  return "iphone.gen1.crop.homebutton.circle"
+case .ipad_gen1_crop_homebutton_circle:
+  return "ipad.gen1.crop.homebutton.circle"
+case .iphone_and_ipod:
+  return "iphone.and.ipod"
+case .iphone_and_vision_pro:
+  return "iphone.and.vision.pro"
+case .iphone_badge_checkmark:
+  return "iphone.badge.checkmark"
+case .apps_iphone_badge_checkmark:
+  return "apps.iphone.badge.checkmark"
+case .iphone_pattern_diagonalline:
+  return "iphone.pattern.diagonalline"
+case .iphone_pattern_diagonalline_on_rectangle_portrait_dashed:
+  return "iphone.pattern.diagonalline.on.rectangle.portrait.dashed"
+case .ipad_badge_checkmark:
+  return "ipad.badge.checkmark"
+case .ipad_landscape_and_applewatch:
+  return "ipad.landscape.and.applewatch"
+case .ipad_landscape_and_ipod:
+  return "ipad.landscape.and.ipod"
+case .apps_ipad_badge_plus:
+  return "apps.ipad.badge.plus"
+case .apps_ipad_badge_checkmark:
+  return "apps.ipad.badge.checkmark"
+case .apps_ipad_on_rectangle_portrait_dashed:
+  return "apps.ipad.on.rectangle.portrait.dashed"
+case .iphone_gen1_sizes:
+  return "iphone.gen1.sizes"
+case .iphone_gen2_sizes:
+  return "iphone.gen2.sizes"
+case .iphone_gen3_sizes:
+  return "iphone.gen3.sizes"
+case .ipad_gen1_sizes:
+  return "ipad.gen1.sizes"
+case .ipad_gen2_sizes:
+  return "ipad.gen2.sizes"
+case .macbook_sizes:
+  return "macbook.sizes"
+case .macbook_gen1_sizes:
+  return "macbook.gen1.sizes"
+case .macbook_gen2_sizes:
+  return "macbook.gen2.sizes"
+case .vision_pro_badge_checkmark:
+  return "vision.pro.badge.checkmark"
+case .vision_pro_badge_checkmark_fill:
+  return "vision.pro.badge.checkmark.fill"
+case .spatial_capture:
+  return "spatial.capture"
+case .spatial_capture_fill:
+  return "spatial.capture.fill"
+case .spatial_capture_slash:
+  return "spatial.capture.slash"
+case .spatial_capture_slash_fill:
+  return "spatial.capture.slash.fill"
+case .spatial_capture_on_hexagon:
+  return "spatial.capture.on.hexagon"
+case .spatial_capture_on_hexagon_fill:
+  return "spatial.capture.on.hexagon.fill"
+case .inset_filled_pano:
+  return "inset.filled.pano"
+case .applewatch_badge_checkmark:
+  return "applewatch.badge.checkmark"
+case .headphones_over_ear:
+  return "headphones.over.ear"
+case .earbud_right:
+  return "earbud.right"
+case .earbud_left:
+  return "earbud.left"
+case .earbuds_stemless:
+  return "earbuds.stemless"
+case .earbuds_stemless_right:
+  return "earbuds.stemless.right"
+case .earbuds_stemless_left:
+  return "earbuds.stemless.left"
+case .earbuds_in_ear:
+  return "earbuds.in.ear"
+case .earbuds_in_ear_right:
+  return "earbuds.in.ear.right"
+case .earbuds_in_ear_left:
+  return "earbuds.in.ear.left"
+case .earbuds_bone_conduction:
+  return "earbuds.bone.conduction"
+case .earbuds_bone_conduction_right:
+  return "earbuds.bone.conduction.right"
+case .earbuds_bone_conduction_left:
+  return "earbuds.bone.conduction.left"
+case .homepod_mini_badge_checkmark:
+  return "homepod.mini.badge.checkmark"
+case .homepod_mini_badge_checkmark_fill:
+  return "homepod.mini.badge.checkmark.fill"
+case .homepod_badge_checkmark:
+  return "homepod.badge.checkmark"
+case .homepod_badge_checkmark_fill:
+  return "homepod.badge.checkmark.fill"
+case .appletv_badge_exclamationmark:
+  return "appletv.badge.exclamationmark"
+case .appletv_badge_exclamationmark_fill:
+  return "appletv.badge.exclamationmark.fill"
+case .appletv_badge_checkmark:
+  return "appletv.badge.checkmark"
+case .appletv_badge_checkmark_fill:
+  return "appletv.badge.checkmark.fill"
+case .airplane_path_dotted:
+  return "airplane.path.dotted"
+case .airplane_up_right:
+  return "airplane.up.right"
+case .airplane_up_right_app:
+  return "airplane.up.right.app"
+case .airplane_up_right_app_fill:
+  return "airplane.up.right.app.fill"
+case .airplane_up_forward:
+  return "airplane.up.forward"
+case .airplane_up_forward_app:
+  return "airplane.up.forward.app"
+case .airplane_up_forward_app_fill:
+  return "airplane.up.forward.app.fill"
+case .airplane_landed:
+  return "airplane.landed"
+case .airplane_cloud:
+  return "airplane.cloud"
+case .airplane_ticket:
+  return "airplane.ticket"
+case .airplane_ticket_fill:
+  return "airplane.ticket.fill"
+case .airplaneseat:
+  return "airplaneseat"
+case .tram_card:
+  return "tram.card"
+case .tram_card_fill:
+  return "tram.card.fill"
+case .fuelpump_thermometer:
+  return "fuelpump.thermometer"
+case .fuelpump_thermometer_fill:
+  return "fuelpump.thermometer.fill"
+case .thermometer_tirepressure:
+  return "thermometer.tirepressure"
+case .heat_waves_circle:
+  return "heat.waves.circle"
+case .heat_waves_circle_fill:
+  return "heat.waves.circle.fill"
+case .vent_heat_waves_upward:
+  return "vent.heat.waves.upward"
+case .figure_seated_side_left_air_distribution_indirect:
+  return "figure.seated.side.left.air.distribution.indirect"
+case .figure_seated_side_left_air_distribution_upper_angled_and_dottedline_and_lower_angled:
+  return "figure.seated.side.left.air.distribution.upper.angled.and.dottedline.and.lower.angled"
+case .figure_seated_side_left_air_distribution_lower_angled_and_upper_angled:
+  return "figure.seated.side.left.air.distribution.lower.angled.and.upper.angled"
+case .figure_seated_side_right_air_distribution_indirect:
+  return "figure.seated.side.right.air.distribution.indirect"
+case .figure_seated_side_right_air_distribution_upper_angled_and_dottedline_and_lower_angled:
+  return "figure.seated.side.right.air.distribution.upper.angled.and.dottedline.and.lower.angled"
+case .figure_seated_side_right_air_distribution_lower_angled_and_upper_angled:
+  return "figure.seated.side.right.air.distribution.lower.angled.and.upper.angled"
+case .gauge_open:
+  return "gauge.open"
+case .umbrella_gauge_open:
+  return "umbrella.gauge.open"
+case .aqi_medium_gauge_open:
+  return "aqi.medium.gauge.open"
+case .flame_gauge_open:
+  return "flame.gauge.open"
+case .fan_gauge_open:
+  return "fan.gauge.open"
+case .heat_waves_gauge_open:
+  return "heat.waves.gauge.open"
+case .thermometer_gauge_open:
+  return "thermometer.gauge.open"
+case .heart_gauge_open:
+  return "heart.gauge.open"
+case .gauge_open_righthalf_dotted_with_needle_and_arrow_trianglehead_backward:
+  return "gauge.open.righthalf.dotted.with.needle.and.arrow.trianglehead.backward"
+case .service_dog:
+  return "service.dog"
+case .service_dog_fill:
+  return "service.dog.fill"
+case .jacket_circle:
+  return "jacket.circle"
+case .jacket_circle_fill:
+  return "jacket.circle.fill"
+case .coat_circle:
+  return "coat.circle"
+case .coat_circle_fill:
+  return "coat.circle.fill"
+case .eye_half_closed:
+  return "eye.half.closed"
+case .eye_half_closed_fill:
+  return "eye.half.closed.fill"
+case .hand_thumbsdown_hand_thumbsup:
+  return "hand.thumbsdown.hand.thumbsup"
+case .hand_thumbsdown_hand_thumbsup_fill:
+  return "hand.thumbsdown.hand.thumbsup.fill"
+case .hand_thumbsdown_filled_hand_thumbsup:
+  return "hand.thumbsdown.filled.hand.thumbsup"
+case .hand_thumbsdown_hand_thumbsup_filled:
+  return "hand.thumbsdown.hand.thumbsup.filled"
+case .lock_rectangle_dashed:
+  return "lock.rectangle.dashed"
+case .rectangle_stack_slash:
+  return "rectangle.stack.slash"
+case .rectangle_stack_slash_fill:
+  return "rectangle.stack.slash.fill"
+case .macwindow_stack:
+  return "macwindow.stack"
+case .guidepoint_vertical_arrowtriangle_forward:
+  return "guidepoint.vertical.arrowtriangle.forward"
+case .guidepoint_vertical_numbers:
+  return "guidepoint.vertical.numbers"
+case .guidepoint_horizontal:
+  return "guidepoint.horizontal"
+case .cube_circle:
+  return "cube.circle"
+case .cube_circle_fill:
+  return "cube.circle.fill"
+case .f_cursive_slash:
+  return "f.cursive.slash"
+case .clock_badge_airplane:
+  return "clock.badge.airplane"
+case .clock_badge_airplane_fill:
+  return "clock.badge.airplane.fill"
+case .clock_arrow_trianglehead_clockwise_rotate_90_path_dotted:
+  return "clock.arrow.trianglehead.clockwise.rotate.90.path.dotted"
+case .cellularbars_circle:
+  return "cellularbars.circle"
+case .cellularbars_circle_fill:
+  return "cellularbars.circle.fill"
+case .chart_bar_xaxis_descending:
+  return "chart.bar.xaxis.descending"
+case .dot_crosshair:
+  return "dot.crosshair"
+case .waveform_low:
+  return "waveform.low"
+case .waveform_mid:
+  return "waveform.mid"
+case .text_square_filled:
+  return "text.square.filled"
+case .list_bullet_badge_ellipsis:
+  return "list.bullet.badge.ellipsis"
+case .list_dash_badge_ellipsis:
+  return "list.dash.badge.ellipsis"
+case .list_number_badge_ellipsis:
+  return "list.number.badge.ellipsis"
+case .character_text_justify:
+  return "character.text.justify"
+case .underline_double:
+  return "underline.double"
+case .strikethrough_double:
+  return "strikethrough.double"
+case .graph_2d:
+  return "graph.2d"
+case .graph_3d:
+  return "graph.3d"
+case .xmark_circle_badge_airplane:
+  return "xmark.circle.badge.airplane"
+case .xmark_circle_badge_airplane_fill:
+  return "xmark.circle.badge.airplane.fill"
+case .checkmark_circle_badge_plus:
+  return "checkmark.circle.badge.plus"
+case .checkmark_circle_badge_plus_fill:
+  return "checkmark.circle.badge.plus.fill"
+case .checkmark_circle_trianglebadge_exclamationmark_fill:
+  return "checkmark.circle.trianglebadge.exclamationmark.fill"
+case .checkmark_circle_badge_airplane:
+  return "checkmark.circle.badge.airplane"
+case .checkmark_circle_badge_airplane_fill:
+  return "checkmark.circle.badge.airplane.fill"
+case .checkmark_circle_dotted:
+  return "checkmark.circle.dotted"
+case .checkmark_app:
+  return "checkmark.app"
+case .checkmark_app_fill:
+  return "checkmark.app.fill"
+case .arrow_down_circle_badge_pause:
+  return "arrow.down.circle.badge.pause"
+case .arrow_down_circle_badge_pause_fill:
+  return "arrow.down.circle.badge.pause.fill"
+case .arrow_down_circle_badge_xmark:
+  return "arrow.down.circle.badge.xmark"
+case .arrow_down_circle_badge_xmark_fill:
+  return "arrow.down.circle.badge.xmark.fill"
+case .arrow_trianglehead_turn_up_right:
+  return "arrow.trianglehead.turn.up.right"
