@@ -1,5 +1,5 @@
-# SFSymbols
-SFSymbols gives you access to Apple's SFSymbol library in a type safe and Swifty manner. It get's difficult to remember all of the correct symbol names when using strings to label everything. This enumeration makes it easy to use a type safe interface with SFSymbols with SwiftUI, UIKit and AppKit.
+# Enumerated SFSymbols
+Enmumerated SFSymbols gives you access to Apple's SFSymbol library in a type safe and Swifty manner. It get's difficult to remember all of the correct symbol names when using strings to label everything. This enumeration makes it easy to use a type safe interface with SFSymbols with SwiftUI, UIKit and AppKit.
 
 ## Install
 Add the following URL to Swift Package Manager:
