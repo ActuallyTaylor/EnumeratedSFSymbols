@@ -3,8 +3,8 @@ Enmumerated SFSymbols gives you access to Apple's SFSymbol library in a type saf
 
 ## Install
 Add the following URL to Swift Package Manager:
-```
-https://github.com/ActuallyTaylor/SFSymbols
+```swift
+.package(url: "https://github.com/ActuallyTaylor/EnumeratedSFSymbols", from: "7.0.0")
 ```
 
 ## Basic Usage
