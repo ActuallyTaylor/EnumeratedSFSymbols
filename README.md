@@ -4,7 +4,7 @@ Enmumerated SFSymbols gives you access to Apple's SFSymbol library in a type saf
 ## Install
 Add the following URL to Swift Package Manager:
 ```swift
-.package(url: "https://github.com/ActuallyTaylor/EnumeratedSFSymbols", from: "7.0.0")
+.package(url: "https://github.com/ActuallyTaylor/SFSymbols", from: "7.0.0")
 ```
 
 ## Basic Usage
